@@ -5868,13 +5868,13 @@ Handle: RePEc:inm:orisre:v:21:y:2010:i:3:p:571-593
 Template-Type: ReDIF-Article 1.0
 Author-Name: Lucio Fuentelsaz
 Author-Email: lfuente@unizar.es
-Author-Workplace-Name: ARRAY(0x135ac70)
+Author-Workplace-Name: Research Group Generés, Marketing and Strategy, Department of Management and Marketing, Universidad de Zaragoza, 50005 Zaragoza, Spain
 Author-Name: Juan Pablo Maicas
 Author-Email: jpmaicas@unizar.es
-Author-Workplace-Name: ARRAY(0x13b3418)
+Author-Workplace-Name: Research Group Generés, Marketing and Strategy, Department of Management and Marketing, Universidad de Zaragoza, 50005 Zaragoza, Spain
 Author-Name: Yolanda Polo
 Author-Email: ypolo@unizar.es
-Author-Workplace-Name: ARRAY(0x13b3598)
+Author-Workplace-Name: Research Group Generés, Marketing and Strategy, Department of Management and Marketing, Universidad de Zaragoza, 50005 Zaragoza, Spain
 Title: Switching Costs, Network Effects, and Competition in the European Mobile Telecommunications Industry
 Abstract: This paper empirically analyzes the joint effect of switching costs and network effects in determining the level of competition in the European mobile communications industry. Theoretical reasoning argues that switching costs and network effects may confer some market power that firms can strategically exploit to reduce competition and thus increase profits. Theoretical predictions are completely confirmed by the empirical evidence and important asymmetries between the market structures in the different European countries can be observed. These asymmetries are clearly related to the levels of switching costs and network effects---the greater their importance, the lower the rivalry in the market. This suggests that the recent efforts of policymakers to reduce the negative consequences of switching costs and network effects have not been successful enough and these efforts must be strengthened, at least in several countries.
 Keywords: network effects, switching costs, mobile telecommunications industry, competition
@@ -6047,7 +6047,7 @@ Author-Name: Chris F. Kemerer
 Author-Email: ckemerer@katz.pitt.edu
 Author-Workplace-Name: Katz Graduate School of Business, University of Pittsburgh, Pittsburgh, Pennsylvania 15260
 Title: The Early Years of <i>ISR</i>: Recollections of the Editors
-Keywords: HASH(0x2c54be8)
+Keywords: History of ISR
 Pages: 665-674
 Volume: 21
 Issue: 4
@@ -10743,7 +10743,7 @@ Author-Email: galit_shmueli@isb.edu
 Author-Workplace-Name: Srini Raju Centre for IT & the Networked Economy, Indian School of Business, Hyderabad 500 032, India
 Title: <b>Research Commentary</b>---Too Big to Fail: Large Samples and the <i>p</i>-Value Problem
 Abstract: The Internet has provided IS researchers with the opportunity to conduct studies with extremely large samples, frequently well over 10,000 observations. There are many advantages to large samples, but researchers using statistical inference must be aware of the <i>p</i>-value problem associated with them. In very large samples, <i>p</i>-values go quickly to zero, and solely relying on <i>p</i>-values can lead the researcher to claim support for results of no practical significance. In a survey of large sample IS research, we found that a significant number of papers rely on a low <i>p</i>-value and the sign of a regression coefficient alone to support their hypotheses. This research commentary recommends a series of actions the researcher can take to mitigate the <i>p</i>-value problem in large samples and illustrates them with an example of over 300,000 camera sales on eBay. We believe that addressing the <i>p</i>-value problem will increase the credibility of large sample IS research as well as provide more insights for readers.
-Keywords: empirical modeling, practical significance, effect size, HASH(0x2cf7968), statistical significance, inference
+Keywords: empirical modeling, practical significance, effect size, p-value, statistical significance, inference
 Pages: 906-917
 Volume: 24
 Issue: 4
@@ -11638,7 +11638,7 @@ Author-Email: bin.gu@asu.edu
 Author-Workplace-Name: W. P. Carey School of Business, Arizona State University, Tempe, Arizona 85287
 Title: Latent Growth Modeling for Information Systems: Theoretical Extensions and Practical Applications
 Abstract: This paper presents and extends Latent Growth Modeling (LGM) as a complementary method for analyzing longitudinal data, modeling the process of change over time, testing time-centric hypotheses, and building longitudinal theories. We first describe the basic tenets of LGM and offer guidelines for applying LGM to Information Systems (IS) research, specifically how to pose research questions that focus on change over time and how to implement LGM models to test time-centric hypotheses. Second and more important, we theoretically extend LGM by proposing a <i>model validation</i> criterion, namely “<i>d</i>-<i>separation</i>,” to evaluate <i>why</i> and <i>when</i> LGM works and test its fundamental properties and assumptions. Our <i>d</i>-separation criterion does not rely on any distributional assumptions of the data; it is grounded in the fundamental assumption of the theory of conditional independence. Third, we conduct extensive simulations to examine a multitude of factors that affect LGM performance. Finally, as a practical application, we apply LGM to model the relationship between word-of-mouth communication (online product reviews) and book sales over time with longitudinal 26-week data from Amazon. The paper concludes by discussing the implications of LGM for helping IS researchers develop and test longitudinal theories.
-Keywords: latent growth modeling, LGM, longitudinal data, HASH(0x2ebee38), word of mouth
+Keywords: latent growth modeling, LGM, longitudinal data, d-separation, word of mouth
 Pages: 547-568
 Volume: 25
 Issue: 3

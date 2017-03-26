@@ -1,4 +1,5 @@
-﻿Template-Type: ReDIF-Article 1.0
+﻿
+Template-Type: ReDIF-Article 1.0
 Author-Name: Vishal V. Agrawal
 Author-Email: va64@georgetown.edu
 Author-Workplace-Name: McDonough School of Business, Georgetown University, Washington, DC 20057
@@ -200,7 +201,7 @@ Template-Type: ReDIF-Article 1.0
 Author-Name: Philipp Af&egrave;che
 Author-Email: afeche@rotman.utoronto.ca
 Author-Workplace-Name: Rotman School of Management, University of Toronto, Toronto, Ontario M5S 3E6, Canada
-Author-Name: Bar&inodot;&scedil; Ata
+Author-Name: Barış Ata
 Author-Email: b-ata@kellogg.northwestern.edu
 Author-Workplace-Name: Kellogg School of Management, Northwestern University, Evanston, Illinois 60208
 Title: Bayesian Dynamic Pricing in Queueing Systems with Unknown Delay Cost Characteristics
@@ -1614,7 +1615,7 @@ Author-Email: berman@rotman.utoronto.ca
 Author-Workplace-Name: Joseph L. Rotman School of Management, University of Toronto, Toronto M5S 3E6, Canada
 Title: Exact Analysis of Capacitated Two-Echelon Inventory Systems with Priorities
 Abstract: We consider a two-echelon inventory system with a capacitated centralized production facility and several distribution centers (DCs). Both production and transportation times are stochastic with general distributions. Demand arrives at each DC according to an independent Poisson process and is backlogged if the DC is out of stock. We allow different holding and backlog costs at the different DCs. We assume that inventory at DCs is managed using the one-for-one replenishment policy. The main objective of this paper is to investigate the control of the multiechelon <i>M</i>/<i>G</i>/1 setting with general transportation times. To achieve this objective, we analyze several decentralized allocation policies including the first-come, first-served (FCFS), strict priority (SP), and multilevel rationing (MR) policies. For our analytic results, we assume no order crossing. We derive the cost function for a capacitated two-echelon inventory system with general transportation times under these policies. Our numerical examples show that the FCFS policy may outperform the MR policy, even though the latter has been shown to be better in the centralized setting. This suggests that in decentralized settings there is a need to focus on policies that prioritize customers when there is backlog. This focus is in contrast to the centralized settings, where inventory rationing policies that focus on prioritization when there is available inventory are effective. We therefore introduce and analyze the generalized multilevel rationing (GMR) priority policy. We compare the GMR policy with other policies and show that the GMR policy outperforms the three policies used in the centralized setting. We also compare the GMR policy with the myopic (T), longest queue first (LQF), and the optimal (when order crossing is allowed during the transportation time) policies. Our results show that when the uncertainty of the transportation times is low, the GMR policy outperforms the myopic (T) and LQF policies and that the gap between the optimal policy and the GMR policy is not high.
-Keywords: multiechelon inventory management, HASH(0x189eee0), strict priority, multilevel rationing, stochastic production times, stochastic transportation times
+Keywords: multiechelon inventory management, M/G/1 queue, strict priority, multilevel rationing, stochastic production times, stochastic transportation times
 Pages: 561-577
 Volume: 16
 Issue: 4

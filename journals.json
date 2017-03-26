@@ -1,0 +1,18 @@
+[
+    {"publisher":"inm","jname":"orisre","journal":"Information Systems Research"},
+    {"publisher":"inm","jname":"ormksc","journal":"Marketing Science"},
+    {"publisher":"inm","jname":"ormnsc","journal":"Management Science"},
+    {"publisher":"inm","jname":"ormsom","journal":"Manufacturing & Service Operations Management"},
+    {"publisher":"inm","jname":"ororsc","journal":"Operations Research"},
+    {"publisher":"inm","jname":"oropre","journal":"Organization Science"},
+    {"publisher":"eee","jname":"aosoci","journal":"Accounting, Organizations and Society"},
+    {"publisher":"eee","jname":"jbvent","journal":"journal of Business Venturing"},
+    {"publisher":"eee","jname":"jfinec","journal":"journal of Financial Economics"},
+    {"publisher":"eee","jname":"jobhdp","journal":"Organizational Behavior and Human Decision Processes"},
+    {"publisher":"eee","jname":"respol","journal":"Research Policy"},
+    {"publisher":"eee","jname":"jaecon","journal":"journal of Accounting and Economics"},
+    {"publisher":"oup","jname":"qjecon","journal":"Quarterly journal of Economics"},
+    {"publisher":"oup","jname":"restud","journal":"Review of Economic Studies"},
+    {"publisher":"oup","jname":"revfin","journal":"Review of Finance"},
+    {"publisher":"oup","jname":"rfinst","journal":"Review of Financial Studies"}
+]
