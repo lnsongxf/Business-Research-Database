@@ -1,0 +1,567 @@
+﻿Template-Type: ReDIF-Article 1.0
+Author-Name: Michael Suk-Young Chwe
+Title: Communication and Coordination in Social Networks
+Abstract: I model people in a coordination game who use a communication network to tell each other their willingness to participate. The minimal sufficient networks for coordination can be interpreted as placing people into a hierarchy of social roles or "stages": "initial adopters", then "followers", and so on down to "late adopters". A communication network helps coordination in exactly two ways: by informing each stage about earlier stages, and by creating common knowledge within each stage. We then consider two examples: first we show that "low dimensional" networks can be better for coordination even though they have far fewer links than "high dimensional" networks; second we show that wide dispersion of "insurgents", people predisposed toward participation, can be good for coordination but too much dispersion can be bad.
+Journal: The Review of Economic Studies
+Pages: 1-16
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00118
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:1-16.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Glenn Ellison
+Title: Basins of Attraction, Long-Run Stochastic Stability, and the Speed of Step-by-Step Evolution
+Abstract: The paper examines the behaviour of "evolutionary" models with ɛ-noise like those which have been used recently to discuss the evolution of social conventions. The paper is built around two main observations: that the "long run stochastic stability" of a convention is related to the speed with which evolution toward and away from the convention occurs, and that evolution is more rapid (and hence more powerful) when it may proceed via a series of small steps between intermediate steady states. The formal analysis uses two new measures, the radius and modified coradius, to characterize the long run stochastically stable set of an evolutionary model and to bound the speed with which evolutionary change occurs. Though not universally powerful, the result can be used to make many previous analyses more transparent and extends them by providing results on waiting times. A number of applications are also discussed. The selection of the risk dominant equilibrium in 2 × 2 games is generalized to the selection of ½-dominant equilibria in arbitrary games. Other applications involve two-dimensional local interaction and cycles as long run stochastically stable sets.
+Journal: The Review of Economic Studies
+Pages: 17-45
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00119
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:17-45.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: In Ho Lee
+Author-Name: Akos Valentinyi
+Title: Noisy Contagion Without Mutation
+Abstract: In a local interaction game agents play an identical stage game against their neighbours over time. For nearest neighbour interaction, it is established that, starting from a random initial configuration in which each agent has a positive probability of playing the risk dominant strategy, a sufficiently large population coordinates in the long-run on the risk dominant equilibrium almost surely. Our result improves on Blume (1995), Ellison (2000), and Morris (2000) by showing that the risk dominant equilibrium spreads to the entire population in a two dimensional lattice and without the help of mutation, as long as there is some randomness in the initial configuration.
+Journal: The Review of Economic Studies
+Pages: 47-56
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00120
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:47-56.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Stephen Morris
+Title: Contagion
+Abstract: Each player in an infinite population interacts strategically with a finite subset of that population. Suppose each player's binary choice in each period is a best response to the population choices of the previous period. When can behaviour that is initially played by only a finite set of players spread to the whole population? This paper characterizes when such contagion is possible for arbitrary local interaction systems. Maximal contagion occurs when local interaction is sufficiently uniform and there is low neighbour growth, i.e. the number of players who can be reached in k steps does not grow exponentially in k.
+Journal: The Review of Economic Studies
+Pages: 57-78
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00121
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:57-78.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Gadi Barlevy
+Author-Name: Pietro Veronesi
+Title: Information Acquisition in Financial Markets
+Abstract: Previous work on information and financial markets has focused on a special set of assumptions: agents have exponential utility, and random variables are normally distributed. These assumptions are often necessary to obtain closed-form solutions. We present an example with alternative assumptions, and demonstrate that some of the conclusions from previous literature fail to hold. In particular, we show that in our example, as more agents acquire information, prices do not necessarily become more informative, and agents may have greater incentive to acquire information. Learning can therefore be a strategic complement, allowing for the possibility of multiple equilibria.
+Journal: The Review of Economic Studies
+Pages: 79-90
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00122
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:79-90.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Harold L. Cole
+Author-Name: Timothy J. Kehoe
+Title: Self-Fulfilling Debt Crises
+Abstract: We characterize the values of government debt and the debt's maturity structure under which financial crises brought on by a loss of confidence in the government can arise within a dynamic, stochastic general equilibrium model. We also characterize the optimal policy response of the government to the threat of such a crisis. We show that when the country's fundamentals place it inside the crisis zone, the government may be motivated to reduce its debt and exit the crisis zone because this leads to an economic boom and a reduction in the interest rate on the government's debt. We show that this reduction can be gradual if debt is high or the probability of a crisis is low. We also show that, while lengthening the maturity of the debt can shrink the crisis zone, credibility-inducing policies can have perverse effects.
+Journal: The Review of Economic Studies
+Pages: 91-116
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00123
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:91-116.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jonas D. M. Fisher
+Author-Name: Andreas Hornstein
+Title: (S, s) Inventory Policies in General Equilibrium
+Abstract: We study the aggregate implications of (S, s) inventory policies in a dynamic general equilibrium model with aggregate uncertainty. Firms in the model's retail sector face idiosyncratic demand risk, and (S, s) inventory policies are optimal because of fixed order costs. The distribution of inventory holdings affects the aggregate outcome in two ways: variation in the decision to order and variation in the rate of sale through the pricing decisions of retailers. We find that both mechanisms must operate to reconcile observations that orders are more volatile than, and inventory investment is positively correlated with, sales, while remaining consistent with other salient business cycle characteristics. The model exhibits strong amplification for some shocks and persistence to a limited extent.
+Journal: The Review of Economic Studies
+Pages: 117-145
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00124
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:117-145.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Huw Lloyd-Ellis
+Author-Name: Dan Bernhardt
+Title: Enterprise, Inequality and Economic Development
+Abstract: We characterize an equilibrium development process driven by the interaction of the distribution of wealth with credit constraints and the distribution of entrepreneurial skills. When efficient entrepreneurs are relatively abundant, a "traditional" development process emerges in which the evolution of macroeconomic variables accord with empirical regularities and income inequality traces out a Kuznets curve. If, instead, efficient entrepreneurs are relatively scarce, the model generates long-run "distributional cycles" driven by the endogenous interaction between credit constraints, entrepreneurial efficiency and equilibrium wages.
+Journal: The Review of Economic Studies
+Pages: 147-168
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00125
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:147-168.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Thomas Piketty
+Title: Voting as Communicating
+Abstract: This paper develops a model where voters trade-off two different motives when deciding how to vote: they care about current decision-making (they are "strategic"), but they also care about communicating their views about their most-preferred candidate so as to influence future elections, by influencing other voters' opinion and/or party positioning. In effect, voters in this model are intermediate between "strategic" and "sincere" voters of conventional models in elections with more than 2 candidates. This allows us to better investigate the relative efficiency of various electoral systems: our main conclusion is that since voting is used as a communication device electoral systems should be designed to facilitate efficient communication, e.g. by opting for 2-round systems rather than 1-round systems.
+Journal: The Review of Economic Studies
+Pages: 169-191
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00126
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:169-191.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Angel Serrat
+Title: Exchange Rate Dynamics in a Multilateral Target Zone
+Abstract: This paper presents a model of exchange rate behaviour in a multilateral target zone. The model produces new economic insights beyond the well-known bilateral model of Krugman (1991), which is obtained as a special case. The paper also introduces a new class of stochastic processes in economics, namely multidimensional reflected diffusion processes. Two main features characterize the economics of exchange rates in a multilateral target zone. (i) The restrictions on interventions imposed by cross-currency constraints: when one country changes its money supply, say because its exchange rate with a second country has hit its band, all exchange rates involving the currency of that particular country will be affected, regardless of their position within their respective bands, (ii) Cooperation in sharing the intervention burden: in general, the exchange rate between any two countries will depend on the fundamentals of third countries in a multilateral target zone. This is because if the monetary authorities intervene together, a shock in the fundamentals of any country will induce a revision of the expectation of future interventions of other countries. The model reverts the counterfactual predictions of the bilateral model that the exchange rate steady-state density should be U-shaped and that its volatility should be a decreasing function of the distance of the exchange rate to the limits of its band. Thus, accounting for the multilateral feature of real-world target zones allows us to reconcile target zone models with the most salient empirical features of exchange rate behaviour.
+Journal: The Review of Economic Studies
+Pages: 193-211
+Issue: 1
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00127
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:1:p:193-211.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Dirk Bergemann
+Author-Name: Juuso Välimäki
+Title: Experimentation in Markets
+Abstract: We present a model of entry and exit with Bayesian learning and price competition. A new product of initially unknown quality is introduced in the market, and purchases of the product yield information on its true quality. We assume that the performance of the new product is publicly observable. As agents learn from the experiments of others, informational externalities arise. We determine the Markov Perfect Equilibrium prices and allocations. In a single market, the combination of the informational externalities among the buyers and the strategic pricing by the sellers results in excessive experimentation. If the new product is launched in many distinct markets, the path of sales converges to the efficient path in the limit as the number of markets grows.
+Journal: The Review of Economic Studies
+Pages: 213-234
+Issue: 2
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00128
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:2:p:213-234.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Rabah Amir
+Author-Name: Val E. Lambson
+Title: On the Effects of Entry in Cournot Markets
+Abstract: In the framework of symmetric Cournot oligopoly, this paper provides two minimal sets of assumptions on the demand and cost functions that imply respectively that, as the number of firms increases, the minimal and maximal equilibria lead to (i) decreasing industry price and increasing or decreasing per-firm output; and (ii) increasing industry price (and decreasing per firm output.) In both cases, per-firm profits are decreasing. The analysis relies crucially on lattice-theoretic methods and yields general, unambiguous and easily interpretable conclusions of a global nature. As a byproduct of independent interest, new insight into the existence of Cournot equilibrium is developed.
+Journal: The Review of Economic Studies
+Pages: 235-254
+Issue: 2
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00129
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:2:p:235-254.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Claude d'Aspremont
+Author-Name: Sudipto Bhattacharya
+Author-Name: Louis-Andre Gerard-Varet
+Title: Bargaining and Sharing Innovative Knowledge
+Abstract: We consider the problem of bargaining over the disclosure of interim research knowledge between two participants in an R&amp;D race for an ultimate, patentable invention. Licence fee schedules that are functions of the "amount of knowledge disclosed" by the leading to the lagging agent, are examined for their abilities to attain efficient outcomes and varying shares of the surplus arising from disclosure. In her sequential-offers bargaining games, the uninformed buyer is able to elicit full disclosures without sharing the incremental surplus with any type of the licensor, and thus do as well as a perfectly informed and discriminating knowledge licensee.
+Journal: The Review of Economic Studies
+Pages: 255-271
+Issue: 2
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00130
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:2:p:255-271.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Melvyn G. Coles
+Author-Name: Andrew K. G. Hildreth
+Title: Wage Bargaining, Inventories, and Union Legislation
+Abstract: This paper analyses a strategic bargaining game where the firm may or may not be able to sell out of its inventory of finished goods during a strike. Firms and the union are both risk neutral and have the same discount rate. It is shown that the wage equilibrium corresponds to the axiomatic Nash bargaining solution where the threatpoints are the agents' payoffs should bargaining continue indefinitely. We use the 1980 and 1982 Employment Acts to test this theory, interpreting that legislation change as changing the firm's threatpoint but not its bargaining power. This allows us to identify the value of the firm's threatpoint post-1982. Formal tests support the theory. Also consistent with the theory, it is found that union wages decrease with inventories after 1982, but not before, and that the union wage gap is smaller after 1982.
+Journal: The Review of Economic Studies
+Pages: 273-293
+Issue: 2
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00131
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:2:p:273-293.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Berthold Herrendorf
+Author-Name: Akos Valentinyi
+Author-Name: Robert Waldmann
+Title: Ruling Out Multiplicity and Indeterminacy: The Role of Heterogeneity
+Abstract: It is well known that economies of scale that are external to the individual decision makers can lead to self-fulfilling prophecies and the multiplicity or even indeterminacy of equilibrium. We argue that the importance of this source of multiplicity and indeterminacy is overstated in representative agent models, as they ignore the potential stabilizing effect of heterogeneity. We illustrate this in a version of Matsuyama's (1991) two-sector model with increasing returns to scale. Two main results are shown. First, sufficient homogeneity with respect to individual productivity leads to the instability and non-uniqueness of a given stationary state and the indeterminacy of the corresponding stationary state equilibrium. Second, sufficient heterogeneity leads to the global saddle-path stability and the uniqueness of a given stationary state and the global uniqueness of equilibrium.
+Journal: The Review of Economic Studies
+Pages: 295-307
+Issue: 2
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00132
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:2:p:295-307.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ehud Lehrer
+Author-Name: Zvika Neeman
+Title: The Scope of Anonymous Voluntary Bargaining Under Asymmetric Information
+Abstract: We present a model of anonymous collective bargaining where individuals' preferences and information may be significantly interdependent. We show that the bargaining outcome becomes independent of individuals' preferences and information as the bargaining group increases in size. As a corollary, we show that anonymous voluntary bargaining completely fails in large groups. Either the difference between the bargaining outcome and the status quo vanishes as the size of the group becomes larger, or, the bargaining becomes coercive and results in a violation of at least some individuals' rights. The result provides a rationale for the inherent difficulty of reform in the presence of asymmetric information. "There is nothing more difficult to carry out, nor more doubtful of success, nor more dangerous to handle, than to initiate a new order of things." Niccolò Machiavelli, The Prince (1532)
+Journal: The Review of Economic Studies
+Pages: 309-326
+Issue: 2
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00133
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:2:p:309-326.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Leslie M. Marx
+Author-Name: Steven A. Matthews
+Title: Dynamic Voluntary Contribution to a Public Project
+Abstract: We consider the dynamic private provision of funds to projects that generate public benefits. Participants have complete information about the environment, but imperfect information about individual actions: each period they observe only the aggregate contribution. Each player may contribute any amount in any period before the contributing horizon is reached. All Nash equilibrium outcomes are characterized. In many cases they are all also perfect Bayesian equilibrium outcomes. If the horizon is long, if the players' preferences are similar, and if they are patient or the period length is short, perfect Bayesian equilibria exist that essentially complete the project. In some of them the completion time shrinks to zero with the period length—efficiency is achieved in the limit.
+Journal: The Review of Economic Studies
+Pages: 327-358
+Issue: 2
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00134
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:2:p:327-358.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Eric Maskin
+Author-Name: Yingyi Qian
+Author-Name: Chenggang Xu
+Title: Incentives, Information, and Organizational Form
+Abstract: We model an organization as a hierarchy of managers erected on top of a technology (here consisting of a collection of plants). In our framework, the role of a manager is to take steps to reduce the adverse consequences of shocks that affect the plants beneath him. We argue that different organizational forms give rise to different information about managers' performance and therefore differ according to how effective incentives can be in encouraging a good performance. In particular, we show that, under certain assumptions, the M-form (multi-divisional form) is likely to provide better incentives than the U-form (unitary form) because it promotes yardstick competition (i.e. relative performance evaluation) more effectively. We conclude by presenting evidence that the assumptions on which this comparison rests are satisfied for Chinese data.
+Journal: The Review of Economic Studies
+Pages: 359-378
+Issue: 2
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00135
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:2:p:359-378.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Martin Pesendorfer
+Title: A Study of Collusion in First-Price Auctions
+Abstract: This paper examines the bidding for school milk contracts in Florida and Texas during the 1980s. In both states firms were convicted of bid-rigging. The data and legal evidence suggest that the cartels in the two states allocate contracts in different ways: One cartel divides the market among members, while the other cartel also uses side payments to compensate members for refraining from bidding. We show that both forms of cartel agreements are almost optimal, provided the number of contracts is sufficiently large. In the auction the cartel bidder may face competition from non-cartel bidders. The presence of an optimal cartel induces an asymmetry in the auction. The selected cartel bidder is bidding as a representative of a group and has on average a lower cost than a non-cartel bidder. The data support the predicted equilibrium bidding behaviour in asymmetric auctions in accordance with optimal cartels.
+Journal: The Review of Economic Studies
+Pages: 381-411
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00136
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:381-411.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Eric Maskin
+Author-Name: John Riley
+Title: Asymmetric Auctions
+Abstract: 
+Journal: The Review of Economic Studies
+Pages: 413-438
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00137
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:413-438.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Eric Maskin
+Author-Name: John Riley
+Title: Equilibrium in Sealed High Bid Auctions
+Abstract: 
+Journal: The Review of Economic Studies
+Pages: 439-454
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00138
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:439-454.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Mark Armstrong
+Title: Optimal Multi-Object Auctions
+Abstract: This paper analyses optimal auctions of several objects. In the first model bidders have a binary distribution over their valuations for each object, in which case the optimal auction is efficient. The optimal auction takes one of two formats: either objects are sold in independent auctions, or a degree of bundling is introduced in the sense that the probability a bidder wins one object is increasing in her value for the other. The format of the optimal auction may depend upon the number of bidders. In the second model the restriction to binary distributions is relaxed, and the optimal auction is then inefficient.
+Journal: The Review of Economic Studies
+Pages: 455-481
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00139
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:455-481.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Christopher Avery
+Author-Name: Terrence Hendershott
+Title: Bundling and Optimal Auctions of Multiple Products
+Abstract: We study the optimal (i.e. revenue maximizing) auction of multiple products. We make three major points. First, we extend the relationship between price discrimination and optimal auctions from the single-product case to the multiple-product case. A monopolist setting prices for multiple products may offer discounts on purchases of bundles of products; similarly, the optimal auction of multiple products facilitates price discrimination by allocating products inefficiently to customers who are willing to purchase both products. Second, we demonstrate that optimal auctions are qualitatively distinct from monopoly sales of multiple products. Because of uncertainty about the values of other consumers, two products are bundled probabilistically in an optimal auction for a customer who is willing to buy both of them. A customer may then receive a discount on a lower-valued product without receiving a higher-valued product. Third, we show that in an optimal auction of two products the allocation of one product may vary with the amount of competition for the other product.
+Journal: The Review of Economic Studies
+Pages: 483-497
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00140
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:483-497.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Joshua D. Angrist
+Author-Name: Kathryn Graddy
+Author-Name: Guido W. Imbens
+Title: The Interpretation of Instrumental Variables Estimators in Simultaneous Equations Models with an Application to the Demand for Fish
+Abstract: In markets where prices are determined by the intersection of supply and demand curves, standard identification results require the presence of instruments that shift one curve but not the other. These results are typically presented in the context of linear models with fixed coefficients and additive residuals. The first contribution of this paper is an investigation of the consequences of relaxing both the linearity and the additivity assumption for the interpretation of linear instrumental variables estimators. Without these assumptions, the standard linear instrumental variables estimator identifies a weighted average of the derivative of the behavioural relationship of interest. A second contribution is the formulation of critical identifying assumptions in terms of demand and supply at different prices and instruments, rather than in terms of functional-form specific residuals. Our approach to the simultaneous equations problem and the average-derivative interpretation of instrumental variables estimates is illustrated by estimating the demand for fresh whiting at the Fulton fish market. Strong and credible instruments for identification of this demand function are available in the form of weather conditions at sea.
+Journal: The Review of Economic Studies
+Pages: 499-527
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00141
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:499-527.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Juan D. Carrillo
+Author-Name: Thomas Mariotti
+Title: Strategic Ignorance as a Self-Disciplining Device
+Abstract: We analyse the decision of an agent with time-inconsistent preferences to consume a good that exerts an externality on future welfare. The extent of the externality is initially unknown, but may be learned via a costless sampling procedure. We show that when the agent cannot commit to future consumption and learning decisions, incomplete learning may occur on a Markov perfect equilibrium path of the resulting intra-personal game. In such a case, each agent's incarnation stops learning for some values of the posterior distribution of beliefs and acts under self-restricted information. This conduct is interpreted as strategic ignorance. All equilibria featuring this property strictly Pareto dominate the complete learning equilibrium for any posterior distribution of beliefs.
+Journal: The Review of Economic Studies
+Pages: 529-544
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00142
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:529-544.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: John Laitner
+Title: Structural Change and Economic Growth
+Abstract: This paper presents a model in which a country's measured average propensity to save endogenously rises when its economy industrializes. The model has agricultural and manufacturing sectors. Only agriculture uses land. If at early dates income per capita is low, agricultural consumption is important, land is valuable, and capital gains on land may constitute most wealth accumulation, leaving the country's NIPA APS low. If exogenous technological progress raises incomes over time, Engel's law shifts demand to manufactured goods. Then land's portfolio importance relative to reproducible capital diminishes and the national income and products account saving rate can rise.
+Journal: The Review of Economic Studies
+Pages: 545-561
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00143
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:545-561.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: José M. Marín
+Author-Name: Rohit Rahi
+Title: Information Revelation and Market Incompleteness
+Abstract: This paper introduces a theory of market incompleteness based on the information transmission role of prices and its adverse impact on the provision of insurance in financial markets. We analyse a simple security design model in which the number and payoff of securities are endogenous. Agents have rational expectations and differ in information, endowments, and attitudes toward risk. When markets are incomplete, equilibrium prices are typically partially revealing, while full relevation is attained with complete markets. The optimality of complete or incomplete markets depends on whether the adverse selection effect (the unwillingness of agents to trade risks when they are informationally disadvantaged) is stronger or weaker than the Hirshleifer effect (the impossibility of trading risks that have already been resolved), as new securities are issued and prices reveal more information. When the Hirshleifer effect dominates, an incomplete set of securities is preferred by all agents, and generates a higher volume of trade.
+Journal: The Review of Economic Studies
+Pages: 563-579
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00144
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:563-579.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Mark Armstrong
+Author-Name: Orazio Attanasio
+Author-Name: James Dow
+Author-Name: Michael Woodford
+Title: Symposium on Optimal Monetary Policy
+Abstract: 
+Journal: The Review of Economic Studies
+Pages: 581
+Issue: 3
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00145
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:3:p:581.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Mark Armstrong
+Author-Name: Orazio Attanasio
+Author-Name: James Dow
+Title: Editorial Announcement
+Abstract: 
+Journal: The Review of Economic Studies
+Pages: i
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/restud/67.4.i
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:i.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Daron Acemoglu
+Author-Name: Robert Shimer
+Title: Wage and Technology Dispersion
+Abstract: This paper explains why firms with identical opportunities may use different technologies and offer different wages. Our key assumption is that workers must engage in costly search in order to gather information about jobs (Stigler (1961)). In equilibrium, some firms adopt high fixed cost, high productivity technologies, offer high wages, and fill job openings quickly. Other firms adopt less capital-intensive technologies and offer low wages, hiring mostly uninformed workers. In equilibrium, the amount of wage dispersion leaves workers indifferent about whether to gather information, and the fraction of informed workers leaves firms indifferent about their wage and technology choice. We show that worker search, which would appear to be a rent-seeking activity in partial equilibrium, may be efficiency-enhancing in general equilibrium.
+Journal: The Review of Economic Studies
+Pages: 585-607
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00146
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:585-607.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Stephen G. Donald
+Author-Name: David A. Green
+Author-Name: Harry J. Paarsch
+Title: Differences in Wage Distributions Between Canada and the United States: An Application of a Flexible Estimator of Distribution Functions in the Presence of Covariates
+Abstract: We construct a tractable, flexible-functional-form estimator of cumulative distribution functions for non-negative random variables which admits large numbers of covariates. The estimator adopts and extends techniques from the spell-duration literature for estimating hazard functions to distribution functions for wages, earnings, and income. We apply these methods to investigate sources of wage inequality for full-time male workers between Canada and the United States, finding that the Canadian wage density has a thinner left tail because low-educated workers have higher pay and a thinner right tail because of a lower proportion of highly-educated workers. Unions appear to play a large role in these outcomes.
+Journal: The Review of Economic Studies
+Pages: 609-633
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00147
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:609-633.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Amanda Gosling
+Author-Name: Stephen Machin
+Author-Name: Costas Meghir
+Title: The Changing Distribution of Male Wages in the U.K.
+Abstract: This paper uses microeconomic data from the U.K. Family Expenditure Surveys (FES) and the General Household Surveys (GHS) to describe and explain changes in the distribution of male wages. Since the late 1970s wage inequality has risen very fast in the U.K., and this rise is characterized both by increasing education and age differentials. We show that a large part of the changes in the U.K. can be summarized quite simply as increases in eduction differentials and a decline of growth of entry level wages which persist subsequently. This fact we interpret as cohort effects. We also show that, like in the U.S., an important aspect of rising wage inequality is increased within-group wage dispersion. Finally we use the GHS to evaluate the role of alternative education measures.
+Journal: The Review of Economic Studies
+Pages: 635-666
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00148
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:635-666.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Orazio P. Attanasio
+Title: Consumer Durables and Inertial Behaviour: Estimation and Aggregation of (S, s) Rules for Automobile Purchases
+Abstract: 
+Journal: The Review of Economic Studies
+Pages: 667-696
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00149
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:667-696.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Pascal Courty
+Author-Name: Li Hao
+Title: Sequential Screening
+Abstract: We study price discrimination where consumers know at the time of contracting only the distribution of their valuations but subsequently learn their actual valuations. Consumers are sequentially screened, as in a menu of refund contracts. Initial valuation uncertainty can differ in terms of first-order stochastic dominance or mean-preserving-spread. In both cases, optimal mechanisms depend on informativeness of consumers' initial knowledge about their valuations, not on uncertainty that affects all consumers. It can be optimal to "subsidize" consumers with smaller valuation uncertainty through low refund to reduce the rent to those who face greater uncertainty and purchase more "flexible" contracts.
+Journal: The Review of Economic Studies
+Pages: 697-717
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00150
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:697-717.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Martin F. Hellwig
+Title: Financial Intermediation with Risk Aversion
+Abstract: The paper extends Diamond's (1984) analysis of financial intermediation to allow for risk aversion of the intermediary. As in the case of risk neutrality, the agency costs of external funds provided to an intermediary are relatively small if the intermediary is financing many entrepreneurs with independent returns. Even though the intermediary is adding rather than subdividing risks, the underlying large-numbers argument is not invalidated by the presence of risk aversion. With risk aversion of entrepreneurs as well as the intermediary, financial intermediation provides insurance as well as finance. In contrast to earlier results on optimal intermediation policies under risk neutrality, the paper shows that when an intermediary is financing many entrepreneurs with independent returns, optimal intermediation policies must shift return risks away from risk averse entrepreneurs and impose them on the intermediary or on final investors.
+Journal: The Review of Economic Studies
+Pages: 719-742
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00151
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:719-742.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kiminori Matsuyama
+Title: Endogenous Inequality
+Abstract: Does the market economy exacerbate inequality across households? In a capitalistic society, do the rich maintain a high level of wealth at the expense of the poor? Or would an accumulation of the wealth by the rich eventually trickle down to the poor and pull the latter out of poverty? This paper presents a theoretical framework, in which one can address these questions in a systematic way. The model focuses on the role of the credit market, which determines the joint evolution of the distribution of wealth and the interest rate. A complete characterization of the steady states is provided. Under some configurations of the parameter values, the model predicts an endogenous and permanent separation of the population into the rich and the poor, where the rich maintains a high level of wealth partially due to the presence of the poor. Under others, the model predicts the Kuznets curve, i.e. the wealth eventually trickles down from the rich to the poor, eliminating inequality in the long run.
+Journal: The Review of Economic Studies
+Pages: 743-759
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00152
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:743-759.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: John Morgan
+Title: Financing Public Goods by Means of Lotteries
+Abstract: When viewed as taxes, lotteries are routinely criticized as being both inequitable and inefficient. But is this an entirely fair comparison? Frequently lotteries are used in lieu of voluntary contributions by private charities and governments when taxes are not feasible. When heterogeneous individuals with quasi-linear preferences participate in lotteries whose proceeds will be used to fund a public good, we find that, relative to voluntary contributions, wagers in the unique lottery equilibrium (a) increase the provision of the public good, (b) are welfare improving, and (c) provide levels of the public good close to first-best as the lottery prize increases.
+Journal: The Review of Economic Studies
+Pages: 761-784
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00153
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:761-784.
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: John Morgan
+Author-Name: Martin Sefton
+Title: Funding Public Goods with Lotteries: Experimental Evidence
+Abstract: Why do individuals participate in charitable gambling activities? We conduct a laboratory investigation of a model that predicts risk-neutral expected utility maximizers will participate in lotteries when they recognize that lotteries are being used to finance public goods. As predicted by the model, we find that public goods provision is higher when financed by lottery proceeds than when financed by voluntary contributions. We also find support for other comparative static predictions of the model. In particular we find that ticket purchases vary with the size of the fixed prize and with the return from the public good: lotteries with large prizes are more effective, and ticket purchases drop dramatically when the public good is not valued by subjects.
+Journal: The Review of Economic Studies
+Pages: 785-810
+Issue: 4
+Volume: 67
+Year: 2000
+File-URL: http://hdl.handle.net/10.1111/1467-937X.00154
+File-Format: application/pdf
+File-Restriction: Access to full text is restricted to subscribers.
+Handle: RePEc:oup:restud:v:67:y:2000:i:4:p:785-810.
+

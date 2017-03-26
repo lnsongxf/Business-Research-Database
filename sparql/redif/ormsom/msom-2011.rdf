@@ -1,0 +1,479 @@
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: anonymous
+Title: Call for Nominations--2011 M&SOM Best Paper Award
+Abstract: No abstract available.
+Keywords:
+Journal: Manufacturing & Service Operations Management
+Pages: 1-1
+Volume: 13
+Issue: 1
+Year: 2011
+Month:
+File-URL: http://dx.doi.org/10.1287/msom.1100.0323
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:1-1
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Dennis Campbell
+Author-Email: dcampbell@hbs.edu
+Author-Workplace-Name: Harvard Business School, Boston, Massachusetts 02163
+Author-Name: Frances Frei
+Author-Email: ffrei@hbs.com
+Author-Workplace-Name: Harvard Business School, Boston, Massachusetts 02163
+Title: Market Heterogeneity and Local Capacity Decisions in Services
+Abstract: We empirically document factors that influence how local operating managers use discretion to balance the trade-off between service capacity costs and customer sensitivity to service time. Our findings, using data from one of the largest financial services providers in the United States, indicate that customer sensitivity to service time varies widely and predictably with observable market characteristics. In turn, we find evidence that local operating managers account for market-specific customer sensitivities to service times by deviating frequently and in predictable ways from the recommendations offered by a centralized capacity-planning model. Finally, we document that these discretionary capacity supply decisions exhibit a strong learning effect whereby experienced operating managers place more weight than their less-experienced counterparts on the market-specific trade-off between service capacity costs and customer sensitivity to service times. Overall, our results demonstrate both the importance of local knowledge as an input in service operations and the potential for incorporating richer data on customer behavior and preferences into service cost and productivity standard metrics.
+Keywords: service operations, capacity, OM-accounting interface, empirical research
+Journal: Manufacturing & Service Operations Management
+Pages: 2-19
+Volume: 13
+Issue: 1
+Year: 2011
+Month: April
+File-URL: http://dx.doi.org/10.1287/msom.1100.0299
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:2-19
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Sean X. Zhou
+Author-Email: zhoux@se.cuhk.edu.hk
+Author-Workplace-Name: Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+Author-Name: Zhijie Tao
+Author-Email: zjtao@se.cuhk.edu.hk
+Author-Workplace-Name: Department of Systems Engineering and Engineering Management, The Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+Author-Name: Xiuli Chao
+Author-Email: xchao@umich.edu
+Author-Workplace-Name: Department of Industrial and Operations Engineering, University of Michigan, Ann Arbor, Michigan 48109
+Title: Optimal Control of Inventory Systems with Multiple Types of Remanufacturable Products
+Abstract: Product returns have become a significant feature of many manufacturing systems. Because products are returned under different operational conditions, they usually require different remanufacturing effort/costs. Motivated by a project with a major energy company that manages its inventory through options of ordering and remanufacturing returned products (cores) in various condition, in this paper, we study a single-product, periodic-review inventory system with multiple types of cores. The serviceable products used to fulfill stochastic customer demand can be either manufactured from new parts or remanufactured from the cores, and the objective is to minimize the expected total discounted cost over a finite planning horizon. We show that the optimal manufacturing-remanufacturing-disposal policy has a simple structure and can be completely characterized by a sequence of constant control parameters when manufacturing and remanufacturing leadtimes are the same. To demonstrate the value of the optimal policy, we conduct a numerical study that compares its performance with two simple heuristics, namely, pull policy without and with sorting. The results show that the reduction in system cost by using the optimal policy can be significant. When manufacturing and remanufacturing leadtimes are different, we develop a heuristic method for computing the near-optimal control policy that performs quite well as demonstrated numerically.
+Keywords: inventory system, product returns, reverse logistics, remanufacturing, optimal manufacturing and remanufacturing strategies, base-stock policies
+Journal: Manufacturing & Service Operations Management
+Pages: 20-34
+Volume: 13
+Issue: 1
+Year: 2011
+Month: March
+File-URL: http://dx.doi.org/10.1287/msom.1100.0298
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:20-34
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Dan Zhang
+Author-Email: dan.zhang@mcgill.ca
+Author-Workplace-Name: Desautels Faculty of Management, McGill University, Montreal, Quebec H8N 3E9, Canada
+Title: An Improved Dynamic Programming Decomposition Approach for Network Revenue Management
+Abstract: We consider a nonlinear nonseparable functional approximation to the value function of a dynamic programming formulation for the network revenue management (RM) problem with customer choice. We propose a simultaneous dynamic programming approach to solve the resulting problem, which is a nonlinear optimization problem with nonlinear constraints. We show that our approximation leads to a tighter upper bound on optimal expected revenue than some known bounds in the literature. Our approach can be viewed as a variant of the classical dynamic programming decomposition widely used in the research and practice of network RM. The computational cost of this new decomposition approach is only slightly higher than the classical version. A numerical study shows that heuristic control policies from the decomposition consistently outperform policies from the classical decomposition.
+Keywords: network revenue management, choice behavior, multinomial logit choice model, dynamic programming
+Journal: Manufacturing & Service Operations Management
+Pages: 35-52
+Volume: 13
+Issue: 1
+Year: 2011
+Month: April
+File-URL: http://dx.doi.org/10.1287/msom.1100.0302
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:35-52
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Lawrence W. Robinson
+Author-Email: lwr2@cornell.edu
+Author-Workplace-Name: Johnson Graduate School of Management, Cornell University, Ithaca, New York 14853
+Author-Name: Rachel R. Chen
+Author-Email: rachen@ucdavis.edu
+Author-Workplace-Name: Graduate School of Management, University of California, Davis, Davis, California 95616
+Title: Estimating the Implied Value of the Customer's Waiting Time
+Abstract: Almost all research in appointment scheduling has focused on the trade-off between customer waiting times and server idle times. In this paper, we present an observation-based method for estimating the relative cost of the customer waiting time, which is a critical parameter for finding the optimal appointment schedule.
+Keywords: health-care management, service operations
+Journal: Manufacturing & Service Operations Management
+Pages: 53-57
+Volume: 13
+Issue: 1
+Year: 2011
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.1100.0304
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:53-57
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Mustafa Akan
+Author-Email: akan@cmu.edu
+Author-Workplace-Name: Tepper School of Business, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213
+Author-Name: Bar{\i}\c{s} Ata
+Author-Email: b-ata@kellogg.northwestern.edu
+Author-Workplace-Name: Kellogg School of Management, Northwestern University, Evanston, Illinois 60208
+Author-Name: Martin A. Lariviere
+Author-Email: m-lariviere@kellogg.northwestern.edu
+Author-Workplace-Name: Kellogg School of Management, Northwestern University, Evanston, Illinois 60208
+Title: Asymmetric Information and Economies of Scale in Service Contracting
+Abstract: We consider outsourcing in two important service settings: call center and order fulfillment operations. An important factor in both is the inherent economies of scale. Therefore, we advance a unifying model covering both applications and study the associated contracting problem under information asymmetry. At the time of contracting, the outsourcing firm, "the originator," faces uncertainty regarding the demand volume but has private information about its probability distribution. The true demand is quickly observed once the service commences. The service provider invests in capacity before the start of the operation and offers a menu of contracts to screen different types of the originator. Adopting a mechanism design approach, we prove that a menu of two-part tariffs achieves the full-information solution. Hence, it is optimal among all possible contracts (in both settings) because of economies of scale and contractibility of realized demand.
+Keywords: service outsourcing, call centers, order fulfillment operations, economies of scale, information asymmetry, screening
+Journal: Manufacturing & Service Operations Management
+Pages: 58-72
+Volume: 13
+Issue: 1
+Year: 2011
+Month: September
+File-URL: http://dx.doi.org/10.1287/msom.1100.0303
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:58-72
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Alain Bensoussan
+Author-Email: alain.bensoussan@utdallas.edu
+Author-Workplace-Name: International Center for Decision and Risk Analysis, School of Management, The University of Texas at Dallas, Richardson, Texas 75083
+Author-Name: Qi Feng
+Author-Email: annabelle.feng@mccombs.utexas.edu
+Author-Workplace-Name: McCombs School of Business, The University of Texas at Austin, Austin, Texas 78712
+Author-Name: Suresh P. Sethi
+Author-Email: sethi@utdallas.edu
+Author-Workplace-Name: Center for Intelligent Supply Networks, School of Management, The University of Texas at Dallas, Richardson, Texas 75083
+Title: Achieving a Long-Term Service Target with Periodic Demand Signals: A Newsvendor Framework
+Abstract: We deal with the problem of a profit-maximizing vendor selling a perishable product. At the beginning of a planning cycle, the vendor determines a minimum committed order per period. During the cycle, he may also place a supplemental order in each period based on the observed demand signal in that period. Moreover, the vendor is committed to a specific service target evaluated over the planning cycle. This is a complex problem, and we, as an approximation, offer a single-period, two-stage modeling approach. Under this approach, the vendor determines a first-stage order as the minimum committed order with the possibility of supplementing it based on a demand signal observed at the second stage. The problem is to maximize his expected profit subject to a constraint on his overall service performance across all possible values of the demand signal. We characterize the optimal policy for in-stock rate and fill-rate targets, and make comparisons. Whereas in the classical newsvendor model a service target can be replaced by a single unit shortage cost, it is not so in our model. Instead, a set of unit shortage costs are imputed--one for each demand signal. The imputed shortage costs reflect trade-offs among the profits under different demand signals in meeting the service targets. We also show that under a given ordering policy, the in-stock rate is lower (higher) than the fill rate when the demand has an increasing (decreasing) hazard rate. This result suggests that the vendor can infer a fill-rate measure from the corresponding in-stock rate without the difficult task of tracking lost sales. Furthermore, we analyze how the order quantity varies according to the observed signal, which allows us to formalize the notion of a valuable demand signal.
+Keywords: newsvendor model, in-stock probability, fill rate, demand signal, service constraint, Kuhn-Tucker conditions
+Journal: Manufacturing & Service Operations Management
+Pages: 73-88
+Volume: 13
+Issue: 1
+Year: 2011
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.1100.0308
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:73-88
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Qian Liu
+Author-Email: qianliu@ust.hk
+Author-Workplace-Name: Industrial Engineering and Logistics Management Department, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong
+Author-Name: Garrett van Ryzin
+Author-Email: gjv1@columbia.edu
+Author-Workplace-Name: Graduate School of Business, Columbia University, New York, New York 10027
+Title: Strategic Capacity Rationing when Customers Learn
+Abstract: Consider a firm that sells products over repeated seasons, each of which includes a full-price period and a markdown period. The firm may deliberately understock products in the markdown period to induce high-value customers to purchase early at full price. Customers cannot perfectly anticipate availability. Instead, they use observed past capacities to form capacity expectations according to a heuristic smoothing rule. Based on their expectations of capacity, customers decide to buy either in the full-price period or in the markdown period. We embed this customer learning process in a dynamic program of the firm's capacity choices over time. One main result demonstrates the existence of a monotone optimal path of customers' expectations, which converges to either a rationing equilibrium or a low-price-only equilibrium. Further, there exists a critical value of capacity expectation such that the market converges to a rationing equilibrium if customers' initial expectations are less than that critical value; otherwise, a low-price-only equilibrium is the limiting outcome. These results show how firms can be stuck with unprofitable selling strategies from incumbent customer expectations. We also examine numerically how this critical value is affected by the firm's discount factor and customers' learning speed and risk aversion. Last, we show that the equilibrium under adaptive learning converges to that under rational expectations as the firm's discount factor approaches one.
+Keywords: consumer behavior, pricing and revenue management, dynamic programming
+Journal: Manufacturing & Service Operations Management
+Pages: 89-107
+Volume: 13
+Issue: 1
+Year: 2011
+Month: September
+File-URL: http://dx.doi.org/10.1287/msom.1100.0306
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:89-107
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kate J. Li
+Author-Email: kjli@suffolk.edu
+Author-Workplace-Name: Department of Information Systems and Operations Management, Sawyer Business School, Suffolk University, Boston, Massachusetts 02108
+Author-Name: Duncan K. H. Fong
+Author-Email: i2v@psu.edu
+Author-Workplace-Name: Department of Marketing, Smeal College of Business, The Pennsylvania State University, University Park, Pennsylvania 16802
+Author-Name: Susan H. Xu
+Author-Email: shx@psu.edu
+Author-Workplace-Name: Department of Supply Chain and Information Systems, Smeal College of Business, The Pennsylvania State University, University Park, Pennsylvania 16802
+Title: Managing Trade-in Programs Based on Product Characteristics and Customer Heterogeneity in Business-to-Business Markets
+Abstract: Trade-in programs are offered extensively in business-to-business (B2B) markets. The success of such programs depends on well-designed and executed trade-in policies as well as accurate prediction of return flow to support operational decisions. Motivated by a real problem facing a high-tech company, this paper develops methods to segment customers and forecast product returns based on return merchandise authorization information. Noisy, yet proven to be valuable, returned quantity signals are adjusted by taking product characteristics and customer heterogeneity into account, and the resulting forecast outperforms two benchmark strategies that represent the high-tech company's current practice and a widely adopted method in the literature, respectively. In addition, our methods can serve as tools for companies to uncover the root causes of return merchandise authorization discrepancy, monitor and analyze customer behavior, design segment-specific trade-in policies, and evaluate the effectiveness and efficiency of trade-in programs on a continuous basis.
+Keywords: empirical research, trade-in programs, signal-based forecast, count regression models, cluster analysis, customer segmentation
+Journal: Manufacturing & Service Operations Management
+Pages: 108-123
+Volume: 13
+Issue: 1
+Year: 2011
+Month: October
+File-URL: http://dx.doi.org/10.1287/msom.1100.0307
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:108-123
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Mümin Kurtulu\c{s}
+Author-Email: mumin.kurtulus@owen.vanderbilt.edu
+Author-Workplace-Name: Owen Graduate School of Management, Vanderbilt University, Nashville, Tennessee 37203
+Author-Name: Alper Nakkas
+Author-Email: alper.nakkas@vanderbilt.edu
+Author-Workplace-Name: Department of Economics, Vanderbilt University, Nashville, Tennessee 37203
+Title: Retail Assortment Planning Under Category Captainship
+Abstract: Retail assortment planning can have a tremendous impact on a retailer's bottom-line performance. Over the past years, retailers have increasingly relied on their leading manufacturers for recommendations regarding the assortment to be offered to the consumers in a particular category, a practice often referred to as category captainship. Our research investigates the consequences of using category captains for assortment selection decisions. We develop a game-theoretic model where multiple manufacturers sell their products to consumers through a single retailer. We compare a model where the retailer selects the assortment in the category with a model where the retailer relies on a category captain for assortment decisions in return for a target category profit. We show that category captainship can, in some circumstances, benefit not only the retailer and the category captain, but also the noncaptain manufacturers. Our results have implications regarding the implementation of category captainship practices.
+Keywords: retail supply chains, category management, category captainship, assortment planning, game theory
+Journal: Manufacturing & Service Operations Management
+Pages: 124-142
+Volume: 13
+Issue: 1
+Year: 2011
+Month: March
+File-URL: http://dx.doi.org/10.1287/msom.1100.0309
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:124-142
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Erica Plambeck
+Author-Email: elp@stanford.edu
+Author-Workplace-Name: Graduate School of Business, Stanford University, Stanford, California 94305
+Author-Name: Beril Toktay
+Author-Email: toktay@gatech.edu
+Author-Workplace-Name: College of Management, Georgia Institute of Technology, Atlanta, Georgia 30308
+Title: Call for Papers--The M&SOM Special Issue on the Environment
+Abstract: No abstract available.
+Keywords:
+Journal: Manufacturing & Service Operations Management
+Pages: 143-143
+Volume: 13
+Issue: 1
+Year: 2011
+Month:
+File-URL: http://dx.doi.org/10.1287/msom.1100.0327
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:143-143
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Bruce L. Golden
+Author-Email: bgolden@rhsmith.umd.edu
+Author-Workplace-Name: Robert H. Smith School of Business, University of Maryland, College Park, Maryland 20742
+Author-Name: Abraham (Avi) Seidmann
+Author-Email: avi.seidmann@simon.rochester.edu
+Author-Workplace-Name: W.E. Simon Graduate School of Business Administration, University of Rochester, Rochester, New York 14627
+Title: Call for Papers--M&SOM Special Issue: Applications of Health-Care Operations Management
+Abstract: No abstract available.
+Keywords:
+Journal: Manufacturing & Service Operations Management
+Pages: 144-144
+Volume: 13
+Issue: 1
+Year: 2011
+Month:
+File-URL: http://dx.doi.org/10.1287/msom.1100.0324
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:1:p:144-144
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: anonymous
+Title: 2010 M&SOM Meritorious Service Award
+Abstract: Manufacturing & Service Operations Management (M&SOM) depends on the volunteer work of many professionals who take the time to provide careful and constructive reviews of the manuscripts submitted to the journal. In fact, in 2010 M&SOM received 581 reviews from 363 individuals. Remarkably, 61% of those reviews were submitted on or before their due date, a figure that increases to 69% if you allow a one-day grace period. Due in large part to the responsiveness of our reviewers, M&SOM made 96% of its 391 manuscript decisions for 2010 regular submissions and revisions within 75 days and 100% within 90 days. While we deeply appreciate all those who served as reviewers for the journal in 2010, some individuals have distinguished themselves by reviewing several manuscripts and with each manuscript by writing a fair, critical, and constructive review in a timely fashion. In recognition of their outstanding service provided to support the journal's scholarly mission, M&SOM grants the 2010 Meritorious Service Award to....
+Keywords:
+Journal: Manufacturing & Service Operations Management
+Pages: 145-145
+Volume: 13
+Issue: 2
+Year: 2011
+Month:
+File-URL: http://dx.doi.org/10.1287/msom.1110.0328
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:145-145
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Eda Kemahl{\i}o\u{g}lu-Ziya
+Author-Email: eda_kemahliogluziya@unc.edu
+Author-Workplace-Name: Kenan-Flagler Business School, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599-3490
+Author-Name: John J. Bartholdi, III
+Author-Email: john.bartholdi@gatech.edu
+Author-Workplace-Name: H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology, Atlanta, Georgia 30332
+Title: Centralizing Inventory in Supply Chains by Using Shapley Value to Allocate the Profits
+Abstract: How should the excess profit because of inventory pooling be shared amongst firms at different levels along the supply chain? Suppose each of several retailers observes local demand for a common item and places an order at the supplier, which is immediately filled if the supplier has the item in stock. The supplier can fill retailer orders either from their reserved inventories or from a shareable pool of inventory. Using terminology from cooperative game theory, we say that the supplier and the retailers whose orders are filled from the common pool have formed an inventory-pooling coalition and study the use of Shapley value to allocate the expected excess profit because of pooling. We find that under Shapley value allocations the retailers have incentive to join the inventory-pooling coalition, and the supplier carries the level of inventory that is optimal for the coalition. Shapley value allocations might not lie within the core of the game, but the grand coalition of all players is stable in the farsighted sense. And, although the supplier's share of the expected excess profit is largest when all the retailers participate in the inventory-pooling coalition, the allocations to the retailers may diminish as the coalition grows. Colluding against the supplier (by merging and forming larger retailers) may seem like an appealing strategy for the retailers to increase their share of the total supply chain profit, but we find that the total expected after-pooling profits of retailers may instead go down because of collusion.
+Keywords: supply chain management, incentives and contracting
+Journal: Manufacturing & Service Operations Management
+Pages: 146-162
+Volume: 13
+Issue: 2
+Year: 2011
+Month: September
+File-URL: http://dx.doi.org/10.1287/msom.1100.0310
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:146-162
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Vernon N. Hsu
+Author-Email: vhsu@cuhk.edu.hk
+Author-Workplace-Name: Department of Decision Sciences and Managerial Economics, Faculty of Business Administration, Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+Author-Name: Kaijie Zhu
+Author-Email: kzhu@baf.msmail.cuhk.edu.hk
+Author-Workplace-Name: Department of Decision Sciences and Managerial Economics, Faculty of Business Administration, Chinese University of Hong Kong, Shatin, N.T., Hong Kong
+Title: Tax-Effective Supply Chain Decisions Under China's Export-Oriented Tax Policies
+Abstract: In this paper, we study the impacts of a set of China's export-oriented tax and tariff rules on the optimal supply chain design and operations for a firm that produces its product in China and sells it in markets both inside and outside China. We develop an analytical framework to evaluate four major supply chain structures that we observed in practice. We derive the optimal supply chain decisions for each structure and investigate various business environments under which one of the structures is preferred over the others. Our analysis indicates that the ultimate purpose of a product sold in the China market (i.e., whether it will be consumed domestically or be assembled in another exported product) may have a significant impact on the structure preference. In addition, threshold values exist for several key business parameters over (or under) which certain supply chain structures are favored over others. Managerial insights based on such results are useful for multinational firms who are challenged to develop effective supply chain strategies in the region's increasingly volatile business environment.
+Keywords: tax-effective supply chain management, international tax and tariff, supply chain structures
+Journal: Manufacturing & Service Operations Management
+Pages: 163-179
+Volume: 13
+Issue: 2
+Year: 2011
+Month: November
+File-URL: http://dx.doi.org/10.1287/msom.1100.0312
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:163-179
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Manu Goyal
+Author-Email: manu.goyal@business.utah.edu
+Author-Workplace-Name: David Eccles School of Business, University of Utah, Salt Lake City, Utah 84112
+Author-Name: Serguei Netessine
+Author-Email: serguei.netessine@insead.edu
+Author-Workplace-Name: INSEAD, 77305 Fontainebleau, France
+Title: Volume Flexibility, Product Flexibility, or Both: The Role of Demand Correlation and Product Substitution
+Abstract: We analyze volume flexibility--the ability to produce above/below the installed capacity for a product--under endogenous pricing in a two-product setting. We discover that the value of volume flexibility is a function of demand correlation between products, an outcome that cannot be explained by classical risk-pooling arguments. Furthermore, whereas the value of product flexibility always decreases in demand correlation, we show that the value of volume flexibility can increase or decrease in demand correlation depending on whether the products are strategic complements or substitutes. We further find that volume flexibility better combats aggregate demand uncertainty for the two products, whereas product flexibility is better at mitigating individual demand uncertainty for each product. Our results thus underscore the necessity of analyzing volume flexibility with more than one product and emphasize the contrast with product flexibility. Furthermore, we highlight the possible pitfalls of combining flexibilities: we show that although adding volume flexibility to product flexibility never hurts performance, adding product flexibility to volume flexibility is not always beneficial, even when such an addition is costless.
+Keywords: capacity planning and investment, operations strategy, technology management
+Journal: Manufacturing & Service Operations Management
+Pages: 180-193
+Volume: 13
+Issue: 2
+Year: 2011
+Month: March
+File-URL: http://dx.doi.org/10.1287/msom.1100.0311
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:180-193
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Yingjie Lan
+Author-Email: ylan@pku.edu.cn
+Author-Workplace-Name: Guanghua School of Management, Peking University, Beijing 100871, China
+Author-Name: Michael O. Ball
+Author-Email: mball@rhsmith.umd.edu
+Author-Workplace-Name: Robert H. Smith School of Business, University of Maryland, College Park, Maryland 20742
+Author-Name: Itir Z. Karaesmen
+Author-Email: karaesme@american.edu
+Author-Workplace-Name: Kogod School of Business, American University, Washington, DC 20016
+Title: Regret in Overbooking and Fare-Class Allocation for Single Leg
+Abstract: Focusing on a seller's regret in not acting optimally, we develop a model of overbooking and fare-class allocation in the multifare, single-resource problem in revenue management. We derive optimal static overbooking levels and booking limits, in closed form, that minimize the maximum relative regret (i.e., maximize competitive ratio). We prove that the optimal booking limits are nested. Our work addresses a number of important issues. (i) We use partial information, which is critical because of the difficulty in forecasting fare-class demand. Demand and no-shows are characterized using interval uncertainty in our model. (ii) We make joint overbooking and fare-class allocation decisions. (iii) We obtain conservative but practical overbooking levels that improve the service quality without sacrificing profits. Using computational experiments, we benchmark our methods to existing ones and show that our model leads to effective, consistent, and robust decisions.
+Keywords: revenue management, worst-case analysis, regret, overbooking, fare-class allocation
+Journal: Manufacturing & Service Operations Management
+Pages: 194-208
+Volume: 13
+Issue: 2
+Year: 2011
+Month: December
+File-URL: http://dx.doi.org/10.1287/msom.1100.0316
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:194-208
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Opher Baron
+Author-Email: opher.baron@rotman.utoronto.ca
+Author-Workplace-Name: Rotman School of Management, University of Toronto, Toronto, Ontario M5S 3E6, Canada
+Author-Name: Iman Hajizadeh
+Author-Email: i.hajizadeh@utoronto.ca
+Author-Workplace-Name: Rotman School of Management, University of Toronto, Toronto, Ontario M5S 3E6, Canada
+Author-Name: Joseph Milner
+Author-Email: milner@rotman.utoronto.ca
+Author-Workplace-Name: Rotman School of Management, University of Toronto, Toronto, Ontario M5S 3E6, Canada
+Title: Now Playing: DVD Purchasing for a Multilocation Rental Firm
+Abstract: This paper studies the problem of purchasing and allocating copies of movies to multiple stores of a movie rental chain. A unique characteristic of this problem is the return process of rented movies. We formulate this problem for new movies as a newsvendor-like problem with multiple rental opportunities for each copy. We provide demand and return forecasts at the store-day level based on comparable movies. We estimate the parameters of various demand and return models using an iterative maximum-likelihood estimation and Bayesian estimation via Markov chain Monte Carlo simulation. Test results on data from a large movie rental firm reveal systematic underbuying of movies purchased through revenue-sharing contracts and overbuying of movies purchased through standard (nonrevenue-sharing) ones. For the movies considered, our model estimates an increase in the average profit per title for new movies by 15.5% and 2.5% for revenue sharing and standard titles, respectively. We discuss the implications of revenue sharing on the profitability of the rental firm.
+Keywords: service operations, supply chain management, inventory theory and control
+Journal: Manufacturing & Service Operations Management
+Pages: 209-226
+Volume: 13
+Issue: 2
+Year: 2011
+Month: April
+File-URL: http://dx.doi.org/10.1287/msom.1100.0314
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:209-226
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Aadhaar Chaturvedi
+Author-Email: achaturvedi@iese.edu
+Author-Workplace-Name: IESE Business School, University of Navarra, 08034 Barcelona, Spain
+Author-Name: Victor Martínez-de-Albéniz
+Author-Email: valbeniz@iese.edu
+Author-Workplace-Name: IESE Business School, University of Navarra, 08034 Barcelona, Spain
+Title: Optimal Procurement Design in the Presence of Supply Risk
+Abstract: This paper analyzes optimal auction design when delivery of supply is uncertain. We consider a buyer facing multiple potential suppliers, each having an associated (exogenous) reliability that quantifies its risk of supply failure. We design optimal mechanisms that depend on the buyer's level of information regarding the suppliers' cost of production and reliability. When supplier reliability is known, we find that the optimal allocation resembles the allocation under full information, but with inflated production costs. When it is unknown, the same result is true when cost and reliability of a supplier are independent. Furthermore, the buyer does not have to pay any rent for information on suppliers' reliability. Moreover, we assess the benefits of the optimal mechanism compared to traditional auctions that ignore supply risk.
+Keywords: auctions, supply risk, information asymmetry
+Journal: Manufacturing & Service Operations Management
+Pages: 227-243
+Volume: 13
+Issue: 2
+Year: 2011
+Month: May
+File-URL: http://dx.doi.org/10.1287/msom.1100.0319
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:227-243
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Gérard P. Cachon
+Author-Email: cachon@wharton.upenn.edu
+Author-Workplace-Name: Operations and Information Management, The Wharton School, University of Pennsylvania, Philadelphia, Pennsylvania 19104
+Author-Name: Pnina Feldman
+Author-Email: feldman@haas.berkeley.edu
+Author-Workplace-Name: Operations and Information Technology Management, Haas School of Business, University of California, Berkeley, Berkeley, California 94720
+Title: Pricing Services Subject to Congestion: Charge Per-Use Fees or Sell Subscriptions?
+Abstract: Should a firm charge on a per-use basis or sell subscriptions when its service experiences congestion? Queueing-based models of pricing primarily focus on charging a fee per use for the service, in part because per-use pricing enables the firm to regulate congestion--raising the per-use price naturally reduces how frequently customers use a service. The firm has less control over usage with subscription pricing (by definition, with subscription pricing customers are not charged proportional to their actual usage), and this is a disadvantage when customers dislike congestion. However, we show that subscription pricing is more effective at earning revenue. Consequently, the firm may be better off with subscription pricing, even, surprisingly, when congestion is intuitively most problematic for the firm: e.g., as congestion becomes more disliked by consumers. We show that the absolute advantage of subscription pricing relative to per-use pricing can be substantial, whereas the potential advantage of per-use pricing is generally modest. Subscription pricing becomes relatively more attractive if consumers become more heterogeneous in their service rates (e.g., some know they are "heavy" users and others know they are "light" users) as long as capacity is fixed, the potential utilization is high, and the two segments have substantially different usage rates. Otherwise, heterogeneity in usage rates makes subscription pricing less attractive relative to per-use pricing. We conclude that subscription pricing can be effective even if congestion is relevant for the overall quality of a service.
+Keywords: service operations, operations strategy, pricing and revenue management, game theory, queueing theory
+Journal: Manufacturing & Service Operations Management
+Pages: 244-260
+Volume: 13
+Issue: 2
+Year: 2011
+Month: June
+File-URL: http://dx.doi.org/10.1287/msom.1100.0315
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:244-260
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Fernando Bernstein
+Author-Email: fernando@duke.edu
+Author-Workplace-Name: Fuqua School of Business, Duke University, Durham, North Carolina 27708
+Author-Name: A. Gürhan Kök
+Author-Email: gurhan.kok@duke.edu
+Author-Workplace-Name: Fuqua School of Business, Duke University, Durham, North Carolina 27708
+Author-Name: Lei Xie
+Author-Email: lei.xie@duke.edu
+Author-Workplace-Name: Fuqua School of Business, Duke University, Durham, North Carolina 27708
+Title: The Role of Component Commonality in Product Assortment Decisions
+Abstract: We consider a firm that produces multiple variants of a product. Products are assembled using a combination of common and dedicated components. We characterize the optimal assortment and derive the optimal inventory levels for the common and dedicated components under various bill-of-material configurations. We investigate the effect of commonality on product variety and compare its benefits under different demand characteristics. Commonality always leads to increased profits, but its effect on the level of product variety depends on the type of commonality. If all common components are used for the production of the entire set of products, then the optimal variety level increases relative to the system with no commonality. However, if the common components are used by a subset of the final products, then the optimal variety level may decrease with commonality. We find that the effects of commonality on profit and variety level are stronger under a demand model in which product demands are more variable and exhibit pairwise negative correlation relative to a model with independent demands.
+Keywords: supply chain management, OM-marketing interface, product variety, consumer choice, inventory management
+Journal: Manufacturing & Service Operations Management
+Pages: 261-270
+Volume: 13
+Issue: 2
+Year: 2011
+Month: August
+File-URL: http://dx.doi.org/10.1287/msom.1100.0317
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:261-270
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: anonymous
+Title: MSOM Society Student Paper Competition: Abstracts of 2010 Winners
+Abstract: No abstract available.
+Keywords:
+Journal: Manufacturing & Service Operations Management
+Pages: 271-274
+Volume: 13
+Issue: 2
+Year: 2011
+Month:
+File-URL: http://dx.doi.org/10.1287/msom.1110.0330
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:271-274
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Stephen C. Graves
+Title: Acknowledgment to Guest Editors and Reviewers (2010)
+Abstract: Manufacturing & Service Operations Management (M&SOM) formally thanks the guest editors and reviewers, who provided expert counsel and guidance on a voluntary basis. Through their efforts, the journal was able to provide submitting authors with timely, thoughtful, and constructive reviews. In fact, for papers submitted in 2010, M&SOM received 581 reviews from 363 individuals. Remarkably, 61% of those reviews were submitted on or before their due date, a figure that increases to 69% if you allow a one-day grace period. Due in large part to the responsiveness of our reviewers, M&SOM made 96% of its 391 manuscript decisions for 2010 regular submissions and revisions within 75 days and 100% within 90 days. The following list acknowledges those who served from January to December 2010. On behalf of the editorial board and the submitting authors, we acknowledge their service to the journal and gratefully appreciate their contributions to our profession.
+Keywords:
+Journal: Manufacturing & Service Operations Management
+Pages: 275-279
+Volume: 13
+Issue: 2
+Year: 2011
+Month:
+File-URL: http://dx.doi.org/10.1287/msom.1110.0329
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:275-279
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Erica Plambeck
+Author-Email: elp@stanford.edu
+Author-Workplace-Name: Graduate School of Business, Stanford University, Stanford, California 94305
+Author-Name: Beril Toktay
+Author-Email: toktay@gatech.edu
+Author-Workplace-Name: College of Management, Georgia Institute of Technology, Atlanta, Georgia 30308
+Title: Call for Papers--The M&SOM Special Issue on the Environment
+Abstract: No abstract available.
+Keywords:
+Journal: Manufacturing & Service Operations Management
+Pages: 280-280
+Volume: 13
+Issue: 2
+Year: 2011
+Month:
+File-URL: http://dx.doi.org/10.1287/msom.1110.0331
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:13:y:2011:i:2:p:280-280
+
