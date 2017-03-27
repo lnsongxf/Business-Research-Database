@@ -1,0 +1,430 @@
+﻿Template-Type: ReDIF-Article 1.0 
+Author-Name: Elchanan Ben-Porath
+Author-Name: Eddie Dekel
+Author-Name: Barton L. Lipman
+Title: Optimal Allocation with Costly Verification
+Abstract: A principal allocates an object to one of I agents. Each agent values
+receiving the object and has private information regarding the value
+to the principal of giving it to him. There are no monetary transfers,
+but the principal can check an agent's information at a cost.
+A favored-agent mechanism specifies a value v* and an agent i*. If
+all agents other than i* report values below v*, then i* receives the
+good and no one is checked. Otherwise, whoever reports the highest
+value is checked and receives the good if and only if her report is
+confirmed. All optimal mechanisms are essentially randomizations
+over optimal favored-agent mechanisms. (JEL D82)
+Journal: American Economic Review
+Pages: 3779-3813
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.3779
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20130317_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/ds/10412/20130317_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.3779
+Classification-JEL: D82
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:3779-3813
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Mark J. Machina
+Title: Ambiguity Aversion with Three or More Outcomes
+Abstract: Ambiguous choice problems which involve three or more outcome
+values can reveal aspects of ambiguity and ambiguity aversion
+which cannot be displayed in the classic two-outcome Ellsberg urn
+problems, and hence are not always captured by models designed
+to accommodate them. These aspects include Allais-type preferences
+over purely subjective acts, attitudes toward different sources involving different amounts of ambiguity, and attitudes toward ambiguity at different outcome levels. This paper presents a few such examples, and examines the standard models' predictions and performance in such cases. (JEL D81)
+Journal: American Economic Review
+Pages: 3814-40
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.3814
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/ds/10412/20120357_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.3814
+Classification-JEL: D81
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:3814-40
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Kate Ho
+Author-Name: Ariel Pakes
+Title: Hospital Choices, Hospital Prices, and Financial Incentives to Physicians
+Abstract: We estimate an insurer-specific preference function which rationalizes
+hospital referrals for privately insured births in California. The function
+is additively separable in: a hospital price paid by the insurer,
+the distance traveled, and plan- and severity-specific hospital fixed
+effects (capturing hospital quality). We use an inequality estimator
+that allows for errors in price and detailed hospital-severity interactions and obtain markedly different results than those from a logit. The estimates indicate that insurers with more capitated physicians are more responsive to price. Capitated plans send patients further to utilize similar quality, lower-priced hospitals; but the cost-quality trade-off does not vary with capitation rates. (JEL G22, H51, I11, I13, I18, J44)
+Journal: American Economic Review
+Pages: 3841-84
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.3841
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20121555_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20121555_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20121555_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.3841
+Classification-JEL: G22, H51, I11, I13, I18, J44
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:3841-84
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Marianne Bertrand
+Author-Name: Matilde Bombardini
+Author-Name: Francesco Trebbi
+Title: Is It Whom You Know or What You Know? An Empirical Assessment of the Lobbying Process
+Abstract: Do lobbyists provide issue-specific information to members of
+Congress? Or do they provide special interests access to politicians?
+We present evidence to assess the role of issue expertise versus connections in the US Federal lobbying process and illustrate how both
+are at work. In support of the connections view, we show that lobbyists
+follow politicians they were initially connected to when those
+politicians switch to new committee assignments. In support of the
+expertise view, we show that there is a group of experts that even
+politicians of opposite political affiliation listen to. However, we find
+a more consistent monetary premium for connections than expertise.
+(JEL D72, D82)
+Journal: American Economic Review
+Pages: 3885-3920
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.3885
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20121147_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20121147_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20121147_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.3885
+Classification-JEL: D72, D82
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:3885-3920
+Template-Type: ReDIF-Article 1.0 
+Author-Name: David Figlio
+Author-Name: Jonathan Guryan
+Author-Name: Krzysztof Karbownik
+Author-Name: Jeffrey Roth
+Title: The Effects of Poor Neonatal Health on Children's Cognitive Development
+Abstract: We make use of a new data resource -- merged birth and school
+records for all children born in Florida from 1992 to 2002 -- to study
+the relationship between birth weight and cognitive development.
+Using singletons as well as twin and sibling fixed effects models,
+we find that the effects of early health on cognitive development are
+essentially constant through the school career; that these effects are
+similar across a wide range of family backgrounds; and that they
+are invariant to measures of school quality. We conclude that the
+effects of early health on adult outcomes are therefore set very early.
+(JEL I12, J13, J24)
+Journal: American Economic Review
+Pages: 3921-55
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.3921
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20130233_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20130233_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20130233_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.3921
+Classification-JEL: I12, J13, J24
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:3921-55
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Steven J. Davis
+Author-Name: John Haltiwanger
+Author-Name: Kyle Handley
+Author-Name: Ron Jarmin
+Author-Name: Josh Lerner
+Author-Name: Javier Miranda
+Title: Private Equity, Jobs, and Productivity
+Abstract: Private equity critics claim that leveraged buyouts bring huge job
+losses and few gains in operating performance. To evaluate these
+claims, we construct and analyze a new dataset that covers US
+buyouts from 1980 to 2005. We track 3,200 target firms and their
+150,000 establishments before and after acquisition, comparing to
+controls defined by industry, size, age, and prior growth. Buyouts
+lead to modest net job losses but large increases in gross job creation
+and destruction. Buyouts also bring TFP gains at target firms,
+mainly through accelerated exit of less productive establishments
+and greater entry of highly productive ones. (JEL D24, G24, G32,
+G34, J23, J63, L25)
+Journal: American Economic Review
+Pages: 3956-90
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.3956
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20111124_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20111124_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20111124_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.3956
+Classification-JEL: D24, G24, G32, G34, J23, J63, L25
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:3956-90
+Template-Type: ReDIF-Article 1.0 
+Author-Name: L. Rachel Ngai
+Author-Name: Silvana Tenreyro
+Title: Hot and Cold Seasons in the Housing Market
+Abstract: Every year housing markets in the United Kingdom and the United
+States experience systematic above-trend increases in prices and
+transactions during the spring and summer ("hot season") and
+below-trend falls during the autumn and winter ("cold season").
+House price seasonality poses a challenge to existing housing models.
+We propose a search-and-matching model with thick-market effects.
+In thick markets, the quality of matches increases, rising buyers' willingness to pay and sellers' desire to transact. A small, deterministic
+driver of seasonality can be amplified and revealed as deterministic
+seasonality in transactions and prices, quantitatively mimicking seasonal fluctuations in UK and US markets. (JEL C78, R21, R31)
+Journal: American Economic Review
+Pages: 3991-4026
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.3991
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20120521_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20120521_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20120521_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.3991
+Classification-JEL: C78, R21, R31
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:3991-4026
+Template-Type: ReDIF-Article 1.0 
+Author-Name: V. V. Chari
+Author-Name: Ali Shourideh
+Author-Name: Ariel Zetlin-Jones
+Title: Reputation and Persistence of Adverse Selection in Secondary Loan Markets
+Abstract: The volume of new issuances in secondary loan markets fluctuates
+over time and falls when collateral values fall. We develop a model
+with adverse selection and reputation that is consistent with such
+fluctuations. Adverse selection ensures that the volume of trade falls
+when collateral values fall. Without reputation, the equilibrium has
+separation, adverse selection is quickly resolved, and trade volume is
+independent of collateral value. With reputation, the equilibrium has
+pooling and adverse selection persists over time. The equilibrium
+is efficient unless collateral values are low and originators' reputational
+levels are low. We describe policies that can implement efficient
+outcomes. (JEL D82, G11, G21, G28)
+Journal: American Economic Review
+Pages: 4027-70
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.4027
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20110580_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/ds/10412/20110580_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.4027
+Classification-JEL: D82, G11, G21, G28
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:4027-70
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Ling Huang
+Author-Name: Martin D. Smith
+Title: The Dynamic Efficiency Costs of Common-Pool Resource Exploitation
+Abstract: We conduct the first empirical investigation of common-pool
+resource users' dynamic and strategic behavior at the micro level
+using real-world data. Fishermen's strategies in a fully dynamic
+game account for latent resource dynamics and other players'
+actions, revealing the profit structure of the fishery. We compare the
+fishermen's actual and socially optimal exploitation paths under
+a time-specific vessel allocation policy and find a sizable dynamic
+externality. Individual fishermen respond to other users by exerting
+effort above the optimal level early in the season. Congestion
+is costly instantaneously but is beneficial in the long run because it
+partially offsets dynamic inefficiencies. (JEL D24, Q21, Q22)
+Journal: American Economic Review
+Pages: 4071-4103
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.4071
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20100188_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20100188_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20100188_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.4071
+Classification-JEL: D24, Q21, Q22
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:4071-4103
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Ralph Ossa
+Title: Trade Wars and Trade Talks with Data
+Abstract: How large are optimal tariffs? What tariffs would prevail in a worldwide
+trade war? How costly would a breakdown of international
+trade policy cooperation be? And what is the scope for future multilateral trade negotiations? I address these and other questions
+using a unified framework which nests traditional, new trade, and
+political economy motives for protection. I find that optimal tariffs
+average 62 percent, world trade war tariffs average 63 percent, the
+government welfare losses from a breakdown of international trade
+policy cooperation average 2.9 percent, and the possible government
+welfare gains from future multilateral trade negotiations average
+0.5 percent. (JEL F12, F13, O19)
+Journal: American Economic Review
+Pages: 4104-46
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.4104
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20120527_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20120527_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.4104
+Classification-JEL: F12, F13, O19
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:4104-46
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Abi Adams
+Author-Name: Laurens Cherchye
+Author-Name: Bram De Rock
+Author-Name: Ewout Verriest
+Title: Consume Now or Later? Time Inconsistency, Collective Choice, and Revealed Preference
+Abstract: We develop a revealed preference methodology that allows us to
+explore whether time inconsistencies in household choice are the
+product of individual preference nonstationarities or the result of
+individual heterogeneity and renegotiation within the household.
+An empirical application to household-level microdata highlights
+that an explicit recognition of the collective nature of household
+choice enables the observed behavior to be rationalized by a theory
+that assumes preference stationarity at the individual level. The
+methodology created in this paper also facilitates the recovery of
+theory-consistent discount rates for each individual within particular
+household under study. (JEL E24, F13, F16)
+Journal: American Economic Review
+Pages: 4147-83
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.4147
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20121369_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20121369_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.4147
+Classification-JEL: E24, F13, F16
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:4147-83
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Matthew O. Jackson
+Author-Name: Leeat Yariv
+Title: Present Bias and Collective Dynamic Choice in the Lab
+Abstract: We study collective decisions by time-discounting individuals choosing
+a common consumption stream. We show that with any heterogeneity
+in time preferences, utilitarian aggregation necessitates a
+present bias. In lab experiments three quarters of "social planners"
+exhibited present biases, and less than two percent were time consistent. Roughly a third of subjects acted as if they were pure utilitarians, and the rest chose as if they also had varying degrees of
+distributional concerns. (JEL C91, D12, D71, D72)
+Journal: American Economic Review
+Pages: 4184-4204
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.4184
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20111429_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20111429_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.4184
+Classification-JEL: C91, D12, D71, D72
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:4184-4204
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Sumit Agarwal
+Author-Name: Wenlan Qian
+Title: Consumption and Debt Response to Unanticipated Income Shocks: Evidence from a Natural Experiment in Singapore
+Abstract: This paper uses a unique panel dataset of consumer financial transactions to study how consumers respond to an exogenous unanticipated income shock. Consumption rose significantly after the fiscal policy announcement: during the ten subsequent months, for each $1 received, consumers on average spent $0.80. We find a strong
+announcement effect -- 19 percent of the response occurs during the
+first two-month announcement period via credit cards. Subsequently,
+consumers switched to debit cards after disbursement before finally
+increasing spending on credit cards in the later months. Consumers
+with low liquid assets or with low credit card limit experienced stronger
+consumption responses. (JEL D12, D14, E21)
+Journal: American Economic Review
+Pages: 4205-30
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.4205
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20130730_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20130730_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20130730_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.4205
+Classification-JEL: D12, D14, E21
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:4205-30
+Template-Type: ReDIF-Article 1.0 
+Author-Name: Benjamin Born
+Author-Name: Johannes Pfeifer
+Title: Risk Matters: The Real Effects of Volatility Shocks: Comment
+Abstract: We show that the risk-shock business cycle model of
+Fernández-Villaverde et al. (2011) must be recalibrated because
+it underpredicts the targeted business cycle moments by a factor
+of three once a time aggregation error is corrected. Recalibrating
+the corrected model for the benchmark case of Argentina, the peak
+response and the contribution of interest rate risk shocks to business
+cycle volatility increase. However, the recalibrated model does
+worse in capturing the business cycle properties of net exports once
+an additional error in the computation of net exports is corrected.
+Journal: American Economic Review
+Pages: 4231-39
+Volume: 104
+Issue: 12
+Year: 2014
+Month: December
+File-URL: http://www.aeaweb.org/articles.php?doi=10.1257/aer.104.12.4231
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/app/10412/20140525_app.pdf
+File-Format: application/pdf
+File-URL: http://www.aeaweb.org/aer/data/10412/20140525_data.zip
+File-Format: application/zip
+File-URL: http://www.aeaweb.org/aer/ds/10412/20140525_ds.zip
+File-Format: application/zip
+File-Restriction: Access to full text is restricted to AEA members and institutional subscribers.
+Note: DOI: 10.1257/aer.104.12.4231
+Classification-JEL: E13, E20, E32, E43, F32, F43, O11
+Handle: RePEc:aea:aecrev:v:104:y:2014:i:12:p:4231-39
