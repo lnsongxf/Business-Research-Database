@@ -1,0 +1,284 @@
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Fatih Guvenen 
+Title: A Parsimonious Macroeconomic Model for Asset Pricing 
+Abstract:
+				 I study asset prices in a two-agent
+ macroeconomic model with two key features: limited stock market
+ participation and heterogeneity in the elasticity of intertemporal
+ substitution in consumption (EIS). The model is consistent with some
+ prominent features of asset prices, such as a high equity premium,
+ relatively smooth interest rates, procyclical stock prices, and
+ countercyclical variation in the equity premium, its volatility, and in
+ the Sharpe ratio. In this model, the risk-free asset market plays a
+ central role by allowing non-stockholders (with low EIS) to smooth the
+ fluctuations in their labor income. This process concentrates
+ non-stockholders' labor income risk among a small group of stockholders,
+ who then demand a high premium for bearing the aggregate equity risk.
+ Furthermore, this mechanism is consistent with the very small share of
+ aggregate wealth held by non-stockholders in the U.S. data, which has
+ proved problematic for previous models with limited participation. I show
+ that this large wealth inequality is also important for the model's
+ ability to generate a countercyclical equity premium. When it comes to
+ business cycle performance, the model's progress has been more limited:
+ consumption is still too volatile compared to the data, whereas investment
+ is still too smooth. These are important areas for potential improvement
+ in this framework. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1711-1750 
+Issue: 6 
+Volume: 77 
+Year: 2009 
+Month: 11 
+File-URL: http://hdl.handle.net/10.3982/ECTA6658
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:6:p:1711-1750 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Veronica Guerrieri 
+Author-Name: Guido Lorenzoni 
+Title: Liquidity and Trading Dynamics 
+Abstract:
+				 In this paper, we build a model where the
+ presence of liquidity constraints tends to magnify the economy's response
+ to aggregate shocks. We consider a decentralized model of trade, where
+ agents may use money or credit to buy goods. When agents do not have
+ access to credit and the real value of money balances is low, agents are
+ more likely to be liquidity constrained. This makes them more concerned
+ about their short-term earning prospects when making their consumption
+ decisions and about their short-term spending opportunities when making
+ their production decisions. This generates a coordination element in
+ spending and production which leads to greater aggregate volatility and
+ greater comovement across producers. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1751-1790 
+Issue: 6 
+Volume: 77 
+Year: 2009 
+Month: 11 
+File-URL: http://hdl.handle.net/10.3982/ECTA7231
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:6:p:1751-1790 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Federico Ciliberto 
+Author-Name: Elie Tamer 
+Title: Market Structure and Multiple Equilibria in Airline Markets 
+Abstract:
+				 We provide a practical method to estimate
+ the payoff functions of players in complete information, static, discrete
+ games. With respect to the empirical literature on entry games originated
+ by Bresnahan and Reiss (1990) and Berry (1992), the main novelty of our
+ framework is to allow for general forms of heterogeneity across players
+ without making equilibrium selection assumptions. We allow the effects
+ that the entry of each individual airline has on the profits of its
+ competitors, its "competitive effects," to differ across airlines. The
+ identified features of the model are sets of parameters (partial
+ identification) such that the choice probabilities predicted by the
+ econometric model are consistent with the empirical choice probabilities
+ estimated from the data. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1791-1828 
+Issue: 6 
+Volume: 77 
+Year: 2009 
+Month: 11 
+File-URL: http://hdl.handle.net/10.3982/ECTA5368
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:6:p:1791-1828 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Moshe Hazan 
+Title: Longevity and Lifetime Labor Supply: Evidence and Implications 
+Abstract:
+				 Conventional wisdom suggests that
+ increased life expectancy had a key role in causing a rise in investment
+ in human capital. I incorporate the retirement decision into a version of
+ Ben-Porath's (1967) model and find that a necessary condition for this
+ causal relationship to hold is that increased life expectancy will also
+ increase lifetime labor supply. I then show that this condition does not
+ hold for American men born between 1840 and 1970 and for the American
+ population born between 1890 and 1970. The data suggest similar patterns
+ in Western Europe. I end by discussing the implications of my findings for
+ the debate on the fundamental causes of long-run growth. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1829-1863 
+Issue: 6 
+Volume: 77 
+Year: 2009 
+Month: 11 
+File-URL: http://hdl.handle.net/10.3982/ECTA8107
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:6:p:1829-1863 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Susumu Imai 
+Author-Name: Neelam Jain 
+Author-Name: Andrew Ching 
+Title: Bayesian Estimation of Dynamic Discrete Choice Models 
+Abstract:
+				 We propose a new methodology for
+ structural estimation of infinite horizon dynamic discrete choice models.
+ We combine the dynamic programming (DP) solution algorithm with the
+ Bayesian Markov chain Monte Carlo algorithm into a single algorithm that
+ solves the DP problem and estimates the parameters simultaneously. As a
+ result, the computational burden of estimating a dynamic model becomes
+ comparable to that of a static model. Another feature of our algorithm is
+ that even though the number of grid points on the state variable is small
+ per solution-estimation iteration, the number of effective grid points
+ increases with the number of estimation iterations. This is how we help
+ ease the "curse of dimensionality." We simulate and estimate several
+ versions of a simple model of entry and exit to illustrate our
+ methodology. We also prove that under standard conditions, the parameters
+ converge in probability to the true posterior distribution, regardless of
+ the starting values. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1865-1899 
+Issue: 6 
+Volume: 77 
+Year: 2009 
+Month: 11 
+File-URL: http://hdl.handle.net/10.3982/ECTA5658
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:6:p:1865-1899 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Qiying Wang 
+Author-Name: Peter C. B. Phillips 
+Title: Structural Nonparametric Cointegrating Regression 
+Abstract:
+				 Nonparametric estimation of a structural
+ cointegrating regression model is studied. As in the standard linear
+ cointegrating regression model, the regressor and the dependent variable
+ are jointly dependent and contemporaneously correlated. In nonparametric
+ estimation problems, joint dependence is known to be a major complication
+ that affects identification, induces bias in conventional kernel
+ estimates, and frequently leads to ill-posed inverse problems. In
+ functional cointegrating regressions where the regressor is an integrated
+ or near-integrated time series, it is shown here that inverse and
+ ill-posed inverse problems do not arise. Instead, simple nonparametric
+ kernel estimation of a structural nonparametric cointegrating regression
+ is consistent and the limit distribution theory is mixed normal, giving
+ straightforward asymptotics that are useable in practical work. It is
+ further shown that use of augmented regression, as is common in linear
+ cointegration modeling to address endogeneity, does not lead to bias
+ reduction in nonparametric regression, but there is an asymptotic gain in
+ variance reduction. The results provide a convenient basis for inference
+ in structural nonparametric regression with nonstationary time series when
+ there is a single integrated or near-integrated regressor. The methods may
+ be applied to a range of empirical models where functional estimation of
+ cointegrating relations is required. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1901-1948 
+Issue: 6 
+Volume: 77 
+Year: 2009 
+Month: 11 
+File-URL: http://hdl.handle.net/10.3982/ECTA7732
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:6:p:1901-1948 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: John K.-H. Quah 
+Author-Name: Bruno Strulovici 
+Title: Comparative Statics, Informativeness, and the Interval Dominance Order 
+Abstract:
+				 We identify a new way to order functions,
+ called the interval dominance order, that generalizes both the single
+ crossing property and a standard condition used in statistical decision
+ theory. This allows us to provide a unified treatment of the major
+ theorems on monotone comparative statics with and without uncertainty, the
+ comparison of signal informativeness, and a non-Bayesian theorem on the
+ completeness of increasing decision rules. We illustrate the concept and
+ results with various applications, including an application to optimal
+ stopping time problems where the single crossing property is typically
+ violated.				     Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1949-1992 
+Issue: 6 
+Volume: 77 
+Year: 2009 
+Month: 11 
+File-URL: http://hdl.handle.net/10.3982/ECTA7583
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:6:p:1949-1992 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Dean Karlan 
+Author-Name: Jonathan Zinman 
+Title: Observing Unobservables: Identifying Information Asymmetries With a Consumer Credit Field Experiment 
+Abstract:
+				 Information asymmetries are important in
+ theory but difficult to identify in practice. We estimate the presence and
+ importance of hidden information and hidden action problems in a consumer
+ credit market using a new field experiment methodology. We randomized
+ 58,000 direct mail offers to former clients of a major South African
+ lender along three dimensions: (i) an initial "offer interest rate"
+ featured on a direct mail solicitation; (ii) a "contract interest rate"
+ that was revealed only after a borrower agreed to the initial offer rate;
+ and (ii) a dynamic repayment incentive that was also a surprise and
+ extended preferential pricing on future loans to borrowers who remained in
+ good standing. These three randomizations, combined with complete
+ knowledge of the lender's information set, permit identification of
+ specific types of private information problems. Our setup distinguishes
+ hidden information effects from selection on the offer rate (via
+ unobservable risk and anticipated effort), from hidden action effects (via
+ moral hazard in effort) induced by actual contract terms. We find strong
+ evidence of moral hazard and weaker evidence of hidden information
+ problems. A rough estimate suggests that perhaps 13% to 21% of default is
+ due to moral hazard. Asymmetric information thus may help explain the
+ prevalence of credit constraints even in a market that specializes in
+ financing high-risk borrowers. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1993-2008 
+Issue: 6 
+Volume: 77 
+Year: 2009 
+Month: 11 
+File-URL: http://hdl.handle.net/10.3982/ECTA5781
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:6:p:1993-2008 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Daniel Ackerberg 
+Author-Name: John Geweke 
+Author-Name: Jinyong Hahn 
+Title: Comments on "Convergence Properties of the Likelihood of Computed Dynamic Models" 
+Abstract:
+				 We show by counterexample that Proposition
+ 2 in Fernandez-Villaverde, Rubio-RamÌrez, and Santos (Econometrica (2006),
+ 74, 93-119) is false. We also show that even if their Proposition 2 were
+ corrected, it would be irrelevant for parameter estimates. As a more
+ constructive contribution, we consider the effects of approximation error
+ on parameter estimation, and conclude that second order approximation
+ errors in the policy function have at most second order effects on
+ parameter estimates.				     Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 2009-2017 
+Issue: 6 
+Volume: 77 
+Year: 2009 
+Month: 11 
+File-URL: http://hdl.handle.net/10.3982/ECTA7669
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:6:p:2009-2017 
+

@@ -1,0 +1,321 @@
+﻿
+
+Template-Type: ReDIF-Article 1.0
+Title: The Recovery Theorem 
+Author-Name: STEVE ROSS  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>We can only estimate
+ the distribution of stock returns, but from option prices we observe the
+ distribution of state prices. State prices are the product of risk
+ aversion—the pricing kernel—and the natural probability distribution. The
+ Recovery Theorem enables us to separate these to determine the market's
+ forecast of returns and risk aversion from state prices alone. Among other
+ things, this allows us to recover the pricing kernel, market risk premium,
+ and probability of a catastrophe and to construct model-free tests of the
+ efficient market hypothesis.
+Journal: Journal of Finance 
+Pages: 615-648 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12092 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:615-648 
+
+Template-Type: ReDIF-Article 1.0
+Title: On the Design of Contingent Capital with a Market Trigger 
+Author-Name: SURESH SUNDARESAN  
+Author-Name: ZHENYU WANG  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>Contingent capital
+ (CC), which aims to internalize the costs of too-big-to-fail in the
+ capital structure of large banks, has been under intense debate by policy
+ makers and academics. We show that CC with a market trigger, in which
+ direct stakeholders are unable to choose optimal conversion policies, does
+ not lead to a unique competitive equilibrium unless value transfer at
+ conversion is not expected ex ante. The “no value transfer” restriction
+ precludes penalizing bank managers for taking excessive risk. Multiplicity
+ or absence of equilibrium introduces the potential for price uncertainty,
+ market manipulation, inefficient capital allocation, and frequent
+ conversion errors.
+Journal: Journal of Finance 
+Pages: 881-920 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12134 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:881-920 
+
+Template-Type: ReDIF-Article 1.0
+Title: Aggregate Jump and Volatility Risk in the Cross-Section of Stock Returns 
+Author-Name: MARTIJN CREMERS  
+Author-Name: MICHAEL HALLING  
+Author-Name: DAVID WEINBAUM  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>We examine the
+ pricing of both aggregate jump and volatility risk in the cross-section of
+ stock returns by constructing investable option trading strategies that
+ load on one factor but are orthogonal to the other. Both aggregate jump
+ and volatility risk help explain variation in expected returns. Consistent
+ with theory, stocks with high sensitivities to jump and volatility risk
+ have low expected returns. Both can be measured separately and are
+ important economically, with a two-standard-deviation increase in jump
+ (volatility) factor loadings associated with a 3.5% to 5.1% (2.7% to 2.9%)
+ drop in expected annual stock returns.
+Journal: Journal of Finance 
+Pages: 577-614 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12220 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:577-614 
+
+Template-Type: ReDIF-Article 1.0
+Title: Subprime Mortgage Defaults and Credit Default Swaps 
+Author-Name: ERIC ARENTSEN  
+Author-Name: DAVID C. MAUER  
+Author-Name: BRIAN ROSENLUND  
+Author-Name: HAROLD H. ZHANG  
+Author-Name: FENG ZHAO  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>We offer the first
+ empirical evidence on the adverse effect of credit default swap (CDS)
+ coverage on subprime mortgage defaults. Using a large database of
+ privately securitized mortgages, we find that higher defaults concentrate
+ in mortgage pools with concurrent CDS coverage, and within these pools the
+ loans originated after or shortly before the start of CDS coverage have an
+ even higher delinquency rate. The results are robust across zip code and
+ origination quarter cohorts. Overall, we show that CDS coverage helped
+ drive higher mortgage defaults during the financial crisis.
+Journal: Journal of Finance 
+Pages: 689-731 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12221 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:689-731 
+
+Template-Type: ReDIF-Article 1.0
+Title: Estimating Oil Risk Factors Using Information from Equity and Derivatives Markets 
+Author-Name: I-HSUAN ETHAN CHIANG  
+Author-Name: W. KEENER HUGHEN  
+Author-Name: JACOB S. SAGI  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>We introduce a novel
+ approach to estimating latent oil risk factors and establish their
+ significance in pricing nonoil securities. Our model, which features four
+ factors with simple economic interpretations, is estimated using both
+ derivative prices and oil-related equity returns. The fit is excellent in
+ and out of sample. The extracted oil factors carry significant risk
+ premia, and are significantly related to macroeconomic variables as well
+ as portfolio returns sorted on characteristics and industry. The average
+ nonoil portfolio exhibits a sensitivity to the oil factors amounting to a
+ sixth (in magnitude) of that of the oil industry itself.
+Journal: Journal of Finance 
+Pages: 769-804 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12222 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:769-804 
+
+Template-Type: ReDIF-Article 1.0
+Title: The Effect of Succession Taxes on Family Firm Investment: Evidence from a Natural Experiment 
+Author-Name: MARGARITA TSOUTSOURA  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>This paper provides
+ causal evidence on the impact of succession taxes on firm investment
+ decisions and transfer of control. Using a 2002 policy change in Greece
+ that substantially reduced the tax on intrafamily transfers of businesses,
+ I show that succession taxes lead to a more than 40% decline in investment
+ around family successions, slow sales growth, and a depletion of cash
+ reserves. Furthermore, succession taxes strongly affect the decision to
+ sell or retain the firm within the family. I conclude by discussing
+ implications of my findings for firms in the United States and Europe.
+Journal: Journal of Finance 
+Pages: 649-688 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12224 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:649-688 
+
+Template-Type: ReDIF-Article 1.0
+Title: Yesterday's Heroes: Compensation and Risk at Financial Firms 
+Author-Name: ING-HAW CHENG  
+Author-Name: HARRISON HONG  
+Author-Name: JOSÉ A. SCHEINKMAN  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>Many believe that
+ compensation, misaligned from shareholders’ value due to managerial
+ entrenchment, caused financial firms to take risks before the financial
+ crisis of 2008. We argue that, even in a classical principal-agent setting
+ without entrenchment and with exogenous firm risk, riskier firms may offer
+ higher total pay as compensation for the extra risk in equity stakes borne
+ by risk-averse managers. Using long lags of stock price risk to capture
+ exogenous firm risk, we confirm our conjecture and show that riskier firms
+ are also more productive and more likely to be held by institutional
+ investors, who are most able to influence compensation.
+Journal: Journal of Finance 
+Pages: 839-879 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12225 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:839-879 
+
+Template-Type: ReDIF-Article 1.0
+Title: Subsidizing Liquidity: The Impact of Make/Take Fees on Market Quality 
+Author-Name: KATYA MALINOVA  
+Author-Name: ANDREAS PARK  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>Facing increased
+ competition over the last decade, many stock exchanges changed their
+ trading fees to maker-taker pricing, an incentive scheme that rewards
+ liquidity suppliers and charges liquidity demanders. Using a change in
+ trading fees on the Toronto Stock Exchange, we study whether and why the
+ breakdown of trading fees between liquidity demanders and suppliers
+ matters. Posted quotes adjust after the change in fee composition, but the
+ transaction costs for liquidity demanders remain unaffected once fees are
+ taken into account. However, as posted bid-ask spreads decline, traders
+ (particularly retail) use aggressive orders more frequently, and adverse
+ selection costs decrease.
+Journal: Journal of Finance 
+Pages: 509-536 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12230 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:509-536 
+
+Template-Type: ReDIF-Article 1.0
+Title: How Does Household Portfolio Diversification Vary with Financial Literacy and Financial Advice? 
+Author-Name: HANS-MARTIN VON GAUDECKER  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>Household investment
+ mistakes are an important concern for researchers and policymakers alike.
+ Portfolio underdiversification ranks among those mistakes that are
+ potentially most costly. However, its roots and empirical importance are
+ poorly understood. I estimate quantitatively meaningful diversification
+ statistics and investigate their relationship with key variables. Nearly
+ all households that score high on financial literacy or rely on
+ professionals or private contacts for advice achieve reasonable investment
+ outcomes. Compared to these groups, households with below-median financial
+ literacy that trust their own decision-making capabilities lose an
+ expected 50 bps on average. All group differences stem from the top of the
+ loss distribution.
+Journal: Journal of Finance 
+Pages: 489-507 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12231 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:489-507 
+
+Template-Type: ReDIF-Article 1.0
+Title: Defined Contribution Pension Plans: Sticky or Discerning Money? 
+Author-Name: CLEMENS SIALM  
+Author-Name: LAURA T. STARKS  
+Author-Name: HANJIANG ZHANG  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>Participants in
+ defined contribution (DC) retirement plans rarely adjust their portfolio
+ allocations, suggesting that their investment choices and consequent money
+ flows are sticky and not discerning. However, participants’ inertia could
+ be offset by DC plan sponsors, who adjust the plan's investment options.
+ We examine these countervailing influences on flows into U.S. mutual
+ funds. We find that flows into funds from DC assets are more volatile and
+ exhibit more performance sensitivity than non-DC flows, primarily due to
+ adjustments to the investment options by the plan sponsors. Thus, DC
+ retirement money is less sticky and more discerning than non-DC money.
+Journal: Journal of Finance 
+Pages: 805-838 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12232 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:805-838 
+
+Template-Type: ReDIF-Article 1.0
+Title: Incentivizing Calculated Risk-Taking: Evidence from an Experiment with Commercial Bank Loan Officers 
+Author-Name: SHAWN COLE  
+Author-Name: MARTIN KANZ  
+Author-Name: LEORA KLAPPER  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>We conduct an
+ experiment with commercial bank loan officers to test how performance
+ compensation affects risk assessment and lending. High-powered incentives
+ lead to greater screening effort and more profitable lending decisions.
+ This effect is muted, however, by deferred compensation and limited
+ liability, two standard features of loan officer compensation contracts.
+ We find that career concerns and personality traits affect loan officer
+ behavior, but show that the response to incentives does not vary with
+ traits such as risk-aversion, optimism, or overconfidence. Finally, we
+ present evidence that incentives distort the assessment of credit risk,
+ even among professionals with many years of experience.
+Journal: Journal of Finance 
+Pages: 537-575 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12233 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:537-575 
+
+Template-Type: ReDIF-Article 1.0
+Title: Size Anomalies in U.S. Bank Stock Returns 
+Author-Name: PRIYANK GANDHI  
+Author-Name: HANNO LUSTIG  
+Abstract:
+  type="main"> <title type="main">ABSTRACT</title> <p>The largest
+ commercial bank stocks, ranked by total size of the balance sheet, have
+ significantly lower risk-adjusted returns than small- and medium-sized
+ bank stocks, even though large banks are significantly more levered. We
+ uncover a size factor in the component of bank returns that is orthogonal
+ to the standard risk factors, including small minus big, which has the
+ right covariance with bank returns to explain the average risk-adjusted
+ returns. This factor measures size-dependent exposure to bank-specific
+ tail risk. These findings are consistent with government guarantees that
+ protect shareholders of large banks, but not small banks, in disaster
+ states.
+Journal: Journal of Finance 
+Pages: 733-768 
+Issue: 2 
+Volume: 70 
+Year: 2015 
+Month: 04 
+File-URL: http://hdl.handle.net/10.1111/jofi.12235 
+File-Format: text/html
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:70:y:2015:i:2:p:733-768 

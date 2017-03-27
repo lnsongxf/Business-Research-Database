@@ -1,0 +1,240 @@
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jaap H. Abbring 
+Author-Name: Jeffrey R. Campbell 
+Title: Last-In First-Out Oligopoly Dynamics 
+Abstract:
+				 This paper extends the static analysis of
+ oligopoly structure into an infinite-horizon setting with sunk costs and
+ demand uncertainty. The observation that exit rates decline with firm age
+ motivates the assumption of last-in first-out dynamics: An entrant expects
+ to produce no longer than any incumbent. This selects an essentially
+ unique Markov-perfect equilibrium. With mild restrictions on the demand
+ shocks, sequences of thresholds describe firms' equilibrium entry and
+ survival decisions. Bresnahan and Reiss' (1993) empirical analysis of
+ oligopolists' entry and exit assumes that such thresholds govern the
+ evolution of the number of competitors. Our analysis provides an
+ infinite-horizon game-theoretic foundation for that structure. Copyright  2010 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1491-1527 
+Issue: 5 
+Volume: 78 
+Year: 2010 
+Month: 09 
+File-URL: http://hdl.handle.net/10.3982/ECTA6863
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:78:y:2010:i:5:p:1491-1527 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Patrick Bajari 
+Author-Name: Han Hong 
+Author-Name: Stephen P. Ryan 
+Title: Identification and Estimation of a Discrete Game of Complete Information 
+Abstract:
+				 We discuss the identification and
+ estimation of discrete games of complete information. Following Bresnahan
+ and Reiss (1990, 1991), a discrete game is a generalization of a standard
+ discrete choice model where utility depends on the actions of other
+ players. Using recent algorithms to compute all of the Nash equilibria to
+ a game, we propose simulation-based estimators for static, discrete games.
+ We demonstrate that the model is identified under weak functional form
+ assumptions using exclusion restrictions and an identification at infinity
+ approach. Monte Carlo evidence demonstrates that the estimator can perform
+ well in moderately sized samples. As an application, we study entry
+ decisions by construction contractors to bid on highway projects in
+ California. We find that an equilibrium is more likely to be observed if
+ it maximizes joint profits, has a higher Nash product, uses mixed
+ strategies, and is not Pareto dominated by another equilibrium. Copyright  2010 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1529-1568 
+Issue: 5 
+Volume: 78 
+Year: 2010 
+Month: 09 
+File-URL: http://hdl.handle.net/10.3982/ECTA5434
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:78:y:2010:i:5:p:1529-1568 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: James J. Heckman 
+Author-Name: Rosa L. Matzkin 
+Author-Name: Lars Nesheim 
+Title: Nonparametric Identification and Estimation of Nonadditive Hedonic Models 
+Abstract:
+				 This paper studies the identification and
+ estimation of preferences and technologies in equilibrium hedonic models.
+ In it, we identify nonparametric structural relationships with nonadditive
+ heterogeneity. We determine what features of hedonic models can be
+ identified from equilibrium observations in a single market under weak
+ assumptions about the available information. We then consider use of
+ additional information about structural functions and heterogeneity
+ distributions. Separability conditions facilitate identification of
+ consumer marginal utility and firm marginal product functions. We also
+ consider how identification is facilitated using multimarket data. Copyright  2010 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1569-1591 
+Issue: 5 
+Volume: 78 
+Year: 2010 
+Month: 09 
+File-URL: http://hdl.handle.net/10.3982/ECTA6388
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:78:y:2010:i:5:p:1569-1591 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Olivier Compte 
+Author-Name: Philippe Jehiel 
+Title: The Coalitional Nash Bargaining Solution 
+Abstract:
+				 The coalitional Nash bargaining solution
+ is defined to be the core allocation for which the product of players'
+ payoffs is maximal. We consider a non-cooperative model with discounting
+ in which one team may form and every player is randomly selected to make a
+ proposal in every period. The grand team, consisting of all players,
+ generates the largest surplus. But a smaller team may form. We show that
+ as players get more patient if an efficient and stationary equilibrium
+ exists, it must deliver payoffs that correspond to the coalitional Nash
+ bargaining solution. We also characterize when an efficient and stationary
+ equilibrium exists, which requires conditions that go beyond the
+ nonemptiness of the core. Copyright  2010 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1593-1623 
+Issue: 5 
+Volume: 78 
+Year: 2010 
+Month: 09 
+File-URL: http://hdl.handle.net/10.3982/ECTA7883
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:78:y:2010:i:5:p:1593-1623 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Yeon-Koo Che 
+Author-Name: Fuhito Kojima 
+Title: Asymptotic Equivalence of Probabilistic Serial and Random Priority Mechanisms 
+Abstract:
+				 The random priority (random serial
+ dictatorship) mechanism is a common method for assigning objects. The
+ mechanism is easy to implement and strategy-proof. However, this mechanism
+ is inefficient, because all agents may be made better off by another
+ mechanism that increases their chances of obtaining more preferred
+ objects. This form of inefficiency is eliminated by a mechanism called
+ probabilistic serial, but this mechanism is not strategy-proof. Thus,
+ which mechanism to employ in practical applications is an open question.
+ We show that these mechanisms become equivalent when the market becomes
+ large. More specifically, given a set of object types, the random
+ assignments in these mechanisms converge to each other as the number of
+ copies of each object type approaches infinity. Thus, the inefficiency of
+ the random priority mechanism becomes small in large markets. Our result
+ gives some rationale for the common use of the random priority mechanism
+ in practical problems such as student placement in public schools. Copyright  2010 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1625-1672 
+Issue: 5 
+Volume: 78 
+Year: 2010 
+Month: 09 
+File-URL: http://hdl.handle.net/10.3982/ECTA8354
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:78:y:2010:i:5:p:1625-1672 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Drew Fudenberg 
+Author-Name: Yuichi Yamamoto 
+Title: Repeated Games Where the Payoffs and Monitoring Structure Are Unknown 
+Abstract:
+				 This paper studies repeated games with
+ imperfect public monitoring where the players are uncertain both about the
+ payoff functions and about the relationship between the distribution of
+ signals and the actions played. We introduce the concept of perfect public
+ ex post equilibrium (PPXE), and show that it can be characterized with an
+ extension of the techniques used to study perfect public equilibria. We
+ develop identifiability conditions that are sufficient for a folk theorem;
+ these conditions imply that there are PPXE in which the payoffs are
+ approximately the same as if the monitoring structure and payoff functions
+ were known. Finally, we define perfect type-contingently public ex post
+ equilibria (PTXE), which allows players to condition their actions on
+ their initial private information, and we provide its linear programming
+ characterization. Copyright  2010 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1673-1710 
+Issue: 5 
+Volume: 78 
+Year: 2010 
+Month: 09 
+File-URL: http://hdl.handle.net/10.3982/ECTA8565
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:78:y:2010:i:5:p:1673-1710 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Yves Sprumont 
+Title: An Axiomatization of the Serial Cost-Sharing Method 
+Abstract:
+				 We offer an axiomatization of the serial
+ cost-sharing method of Friedman and Moulin (1999). The key property in our
+ axiom system is Group Demand Monotonicity, asking that when a group of
+ agents raise their demands, not all of them should pay less. Copyright  2010 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1711-1748 
+Issue: 5 
+Volume: 78 
+Year: 2010 
+Month: 09 
+File-URL: http://hdl.handle.net/10.3982/ECTA9019
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:78:y:2010:i:5:p:1711-1748 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Itai Ashlagi 
+Author-Name: Mark Braverman 
+Author-Name: Avinatan Hassidim 
+Author-Name: Dov Monderer 
+Title: Monotonicity and Implementability 
+Abstract:
+				 Consider an environment with a finite
+ number of alternatives, and agents with private values and quasilinear
+ utility functions. A domain of valuation functions for an agent is a
+ monotonicity domain if every finite-valued monotone randomized allocation
+ rule defined on it is implementable in dominant strategies. We fully
+ characterize the set of all monotonicity domains. Copyright  2010 The Econometric Society. 
+Journal: Econometrica 
+Pages: 1749-1772 
+Issue: 5 
+Volume: 78 
+Year: 2010 
+Month: 09 
+File-URL: http://hdl.handle.net/10.3982/ECTA8882
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:78:y:2010:i:5:p:1749-1772 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Anna Mikusheva 
+Title: Corrigendum to "Uniform Inference in Autoregressive Models" 
+Journal: Econometrica 
+Pages: 1773-1773 
+Issue: 5 
+Volume: 78 
+Year: 2010 
+Month: 09 
+File-URL: http://hdl.handle.net/10.3982/ECTA9351
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:78:y:2010:i:5:p:1773-1773 
+

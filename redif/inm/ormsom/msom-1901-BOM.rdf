@@ -1,0 +1,218 @@
+﻿
+Template-Type: ReDIF-Article 1.0
+Author-Name: Li Chen
+Author-Email: li.chen@cornell.edu
+Author-Workplace-Name: Samuel Curtis Johnson Graduate School of Management, Cornell University, Ithaca, New York 14853
+Author-Name: Wei Luo
+Author-Email: wluo@iese.edu
+Author-Workplace-Name: IESE Business School, University of Navarra, 08034 Barcelona, Spain
+Author-Name: Kevin Shang
+Author-Email: khshang@duke.edu
+Author-Workplace-Name: Fuqua School of Business, Duke University, Durham, North Carolina 27708
+Title: Measuring the Bullwhip Effect: Discrepancy and Alignment Between Information and Material Flows
+Abstract: The bullwhip effect is a phenomenon commonly observed in supply chains. It describes how demand variance amplifies from a downstream site to an upstream site due to demand information distortion. Two different bullwhip effect measures have been used in the literature. Theorists analyze the bullwhip effect based on the <i>information</i> flow (i.e., order and demand information), whereas most empiricists measure it according to the <i>material</i> flow (i.e., shipment and sales data). It is unclear how much the discrepancy between these two measures is, and, if significant, how to reconcile the discrepancy. In this paper, we illustrate and quantify the discrepancy under three inventory systems. For the system with stationary demand and ample supply, we show that the bullwhip effect measure based on the material-flow data is always greater than that based on the information flow. For the system with correlated demand and for the system with supply shortages, we derive conditions under which the material flow measure is either greater or less than the information flow measure. We find that the discrepancy is driven by four factors: stocking level, lead time, demand correlation, and supply service level. We further propose a method to reduce the discrepancy by using the sample variances of aggregated sales data. Our method works for common demand processes with short-range dependence, and it does not require the knowledge of the underlying base-stock levels.
+Keywords: the bullwhip effect, information and material flows, measurement
+Pages: 36-51
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0590
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:36-51
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Opher Baron
+Author-Email: opher.baron@rotman.utoronto.ca
+Author-Workplace-Name: Rotman School of Management, University of Toronto, Toronto, Ontario M5S 3E6, Canada
+Author-Name: Oded Berman
+Author-Email: berman@rotman.utoronto.ca
+Author-Workplace-Name: Rotman School of Management, University of Toronto, Toronto, Ontario M5S 3E6, Canada
+Author-Name: Dmitry Krass
+Author-Email: krass@rotman.utoronto.ca
+Author-Workplace-Name: Rotman School of Management, University of Toronto, Toronto, Ontario M5S 3E6, Canada
+Author-Name: Jianfu Wang
+Author-Email: wangjf@ntu.edu.sg
+Author-Workplace-Name: Nanyang Business School, Nanyang Technological University, Singapore 639798
+Title: Strategic Idleness and Dynamic Scheduling in an Open-Shop Service Network: Case Study and Analysis
+Abstract: This paper, motivated by a collaboration with a healthcare service provider, focuses on stochastic open-shop service networks with two objectives: more traditional macrolevel measures (such as minimizing total system time or minimizing total number of tardy customers) and the atypical microlevel measure of reducing the incidents of excessively long waits at any workstation within the process. While work-conserving policies are optimal for macrolevel measures, scheduling policies with strategic idleness (SI) might be helpful for microlevel measures. Using the empirical data obtained from the service provider, we provide statistical evidence that SI is used by its schedulers to manage the macro- and microlevel measures. However, the company has no specific rules on implementing SI and the schedulers make decisions based on their own experience. Our primary goal is to develop a systematic framework for the joint usage of SI with dynamic scheduling policies (DSPs). We suggest to use <i>threshold-based policies</i> to intelligently combine SI and DSPs and show that the resulting policies provide an efficient way to simultaneously address both macro- and microlevel measures. We build two simulation models: one based on empirical data and one based on a randomly generated open-shop network. We use both models to demonstrate that an open-shop service network can be systematically and effectively managed to deliver improved service level by using SI.
+Keywords: strategic idleness, dynamic scheduling policy, open shop, healthcare, service network
+Pages: 52-71
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0591
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:52-71
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Vernon N. Hsu
+Author-Email: vhsu@cuhk.edu.hk
+Author-Workplace-Name: CUHK Business School, The Chinese University of Hong Kong, Shatin, Hong Kong
+Author-Name: Guoming Lai
+Author-Email: guoming.lai@mccombs.utexas.edu
+Author-Workplace-Name: McCombs School of Business, The University of Texas, Austin, Texas 78712
+Author-Name: Baozhuang Niu
+Author-Email: bmniubz@scut.edu.cn
+Author-Workplace-Name: School of Business Administration, South China University of Technology, Guangzhou 510640, China
+Author-Name: Wenqiang Xiao
+Author-Email: wxiao@stern.nyu.edu
+Author-Workplace-Name: Stern School of Business, New York University, New York, New York 10012
+Title: Leader-Based Collective Bargaining: Cooperation Mechanism and Incentive Analysis
+Abstract: We study leader-based collective bargaining (LCB), under which a leading buyer (leader) and a following buyer (follower) form an alliance to jointly purchase a common component from a supplier. Although the leader and the follower cooperate in their component purchase, they compete in selling their end products. We first analyze the most common and simple form of LCB, equal price LCB, under which the follower pays to the leader the same wholesale price that the leader obtains from his negotiation with the supplier. We compare each buyer’s profit under the equal price LCB with the benchmark where each buyer purchases separately from the supplier. We find that although the alliance might obtain a lower wholesale price and although the leader is always better off under equal price LCB, the follower can be worse off if the competition intensity of the leader’s and follower’s products is within an intermediate region. We identify a competition effect resulting from equal price LCB that can place the follower at a disadvantage in the competition. This finding implies that the equal price LCB might not be sustainable in practice. In view of this limitation, we investigate an alternative form of LCB, fixed price LCB, under which the follower pays a fixed price to the leader regardless of the wholesale price the leader obtains from the supplier. We show that fixed price LCB benefits not only the leader but also the follower, compared with separate purchases, which implies that fixed price LCB always achieves a win–win outcome for the buyers. Our analysis further shows that even the supplier might benefit from this form of LCB.
+Keywords: leader-based collective bargaining, separate purchase, commitment, equal price mechanism, fixed price mechanism
+Pages: 72-83
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0592
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:72-83
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Fei Gao
+Author-Email: feigao@wharton.upenn.edu
+Author-Workplace-Name: The Wharton School, University of Pennsylvania, Philadelphia, Pennsylvania, 19104
+Author-Name: Xuanming Su
+Author-Email: xuanming@wharton.upenn.edu
+Author-Workplace-Name: The Wharton School, University of Pennsylvania, Philadelphia, Pennsylvania, 19104
+Title: Online and Offline Information for Omnichannel Retailing
+Abstract: This paper studies how retailers can effectively deliver online and offline information to omnichannel consumers who strategically choose whether to gather information online or offline and whether to buy products online or offline. Information resolves two types of uncertainty: product value uncertainty (i.e., consumers realize valuations when they inspect the product in store, but may end up returning the product when they purchase online) and availability uncertainty (i.e., store visits are futile when consumers encounter stockouts). We consider three information mechanisms: <i>physical showrooms</i> allow consumers to learn valuations anytime they visit the store, even during stockouts; <i>virtual showrooms</i> give consumers online access to an imperfect signal of their valuations; <i>availability information</i> provides real-time information about whether the store has a product in stock. Our main results follow. First, physical showrooms may prompt retailers to reduce store inventory, which increases availability risk and discourages store patronage. Second, virtual showrooms may increase online returns and hurt profits, if they induce excessive customer migration from store to online channels. Third, availability information may be redundant when availability risk is low and may render physical showrooms ineffective when implemented jointly. Finally, when customers are homogeneous, these mechanisms may not exhibit significant complementarities and the optimal information structure may involve choosing only one of the three.
+Keywords: retail operations, strategic consumer behavior, inventory availability, product value uncertainty, omnichannel
+Pages: 84-98
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0593
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:84-98
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Tinglong Dai
+Author-Email: dai@jhu.edu
+Author-Workplace-Name: Carey Business School, Johns Hopkins University, Baltimore, Maryland 21202
+Author-Name: Mustafa Akan
+Author-Email: akan@andrew.cmu.edu
+Author-Workplace-Name: Tepper School of Business, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213
+Author-Name: Sridhar Tayur
+Author-Email: stayur@andrew.cmu.edu
+Author-Workplace-Name: Tepper School of Business, Carnegie Mellon University, Pittsburgh, Pennsylvania 15213
+Title: Imaging Room and Beyond: The Underlying Economics Behind Physicians’ Test-Ordering Behavior in Outpatient Services
+Abstract: Motivated by a collaborative study with one of the most comprehensive ocular imaging programs in the United States, we investigate the underlying three-way trade-off among operational, clinical, and financial considerations in physicians’ decisions about ordering imaging tests. Laboratory tests may be processed in parallel and thus have a limited effect on patients’ waiting times; imaging tests, by contrast, require patient presence and thus directly influence patients’ waiting times. We use a strategic queueing framework to model a physician’s decision of ordering imaging tests and show that insurance coverage is the key driver of overtesting. Our further analysis reveals the following: (i) Whereas existing studies hold that lower out-of-pocket expenses lead to higher consumption levels, we refine this statement by showing the copayment and the coinsurance rate drive the consumption in different directions. Thus, simply expanding patient cost sharing is not the solution to overtesting. (ii) Setting a low reimbursement ceiling alone cannot eliminate overtesting. (iii) The joint effect of misdiagnosis concerns and insurance coverage can lead to both overtesting and undertesting even when no reimbursement ceiling exists. These and other results continue to hold under more general conditions and are therefore robust. We enrich our model along two extensions: one with patient heterogeneity in diagnostic precision, and the other with disparities in health insurance coverage. Our findings have implications for other healthcare settings with similar trade-offs.
+Keywords: queueing games, service operations, healthcare management, consumer behavior, incentives in healthcare operations
+Pages: 99-113
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0594
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:99-113
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Majid Al-Gwaiz
+Author-Email: majid.gwaiz@gmail.com
+Author-Workplace-Name: Saudi Aramco, Dhahran 31311, Saudi Arabia
+Author-Name: Xiuli Chao
+Author-Email: xchao@umich.edu
+Author-Workplace-Name: Department of Industrial and Operations Engineering, University of Michigan, Ann Arbor, Michigan 48109
+Author-Name: Owen Q. Wu
+Author-Email: owenwu@indiana.edu
+Author-Workplace-Name: Kelley School of Business, Indiana University, Bloomington, Indiana 47405
+Title: Understanding How Generation Flexibility and Renewable Energy Affect Power Market Competition
+Abstract: We study supply function competition among conventional power generators with different levels of flexibility and the impact of intermittent renewable power generation on the competition. Inflexible generators commit production before uncertainties are realized, whereas flexible generators can adjust their production after uncertainties are realized. Both types of generators compete in an electricity market by submitting supply functions to a system operator, who solves a two-stage stochastic program to determine the production level for each generator and the corresponding market prices. We aim to gain an understanding of how conventional generators’ (in)flexibility and renewable energy’s intermittency affect the supply function competition and the market price. We find that the classic supply function equilibrium model overestimates the intensity of the market competition, and even more so when more intermittent generation is introduced into the system. The policy of economically curtailing intermittent generation intensifies the market competition, reduces price volatility, and improves the system’s overall efficiency. Furthermore, these benefits of economic curtailment are most significant when the production-based subsidies for renewable energy are absent.
+Keywords: electricity market, supply function equilibrium, flexible/inflexible/variable generators, renewable energy, intermittent generation, economic curtailment, production-based subsidies
+Pages: 114-131
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0595
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:114-131
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Övünç Yılmaz
+Author-Email: oyilmaz@email.sc.edu
+Author-Workplace-Name: Moore School of Business, University of South Carolina, Columbia, South Carolina 29208
+Author-Name: Pelin Pekgün
+Author-Email: pelin.pekgun@moore.sc.edu
+Author-Workplace-Name: Moore School of Business, University of South Carolina, Columbia, South Carolina 29208
+Author-Name: Mark Ferguson
+Author-Email: mark.ferguson@moore.sc.edu
+Author-Workplace-Name: Moore School of Business, University of South Carolina, Columbia, South Carolina 29208
+Title: Would You Like to Upgrade to a Premium Room? Evaluating the Benefit of Offering Standby Upgrades
+Abstract: An important challenge faced by hotels is how to set their premium room price differential over their standard rooms and how to manage the upsell process. Standby upgrades, where the customer is only charged if the upgrade is available at the time of arrival, is one technique that has become increasingly popular in practice for monetizing the premium room inventory that may otherwise go unused. We develop a model of premium room and standby upgrade pricing under an uncertain market size and examine how and when standby upgrades can provide additional revenue for a hotel. When guests are myopic, we show that standby upgrades can be used as a powerful price discrimination tool, especially for hotel properties with high premium-to-standard room ratios. When guests are strategic, the benefit of standby upgrades is significantly diminished; we show that standby upgrades only increase revenue when the hotel property has a low premium-to-standard room ratio. Our findings thus provide guidance on the hotel types and environments that are most suitable for standby upgrades.The online appendix is available at <ext-link ext-link-type="uri"  href="https://doi.org/10.1287/msom.2016.0596">https://doi.org/10.1287/msom.2016.0596</ext-link>.
+Keywords: revenue management, pricing, hotel industry, upgrades, strategic consumers
+Pages: 1-18
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0596
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:1-18
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Emmanouil Avgerinos
+Author-Email: emmanouil.avgerinos@ie.edu
+Author-Workplace-Name: IE Business School, 28006 Madrid, Spain
+Author-Name: Bilal Gokpinar
+Author-Email: b.gokpinar@ucl.ac.uk
+Author-Workplace-Name: UCL School of Management, University College London, London E14 5AB, United Kingdom
+Title: Team Familiarity and Productivity in Cardiac Surgery Operations: The Effect of Dispersion, Bottlenecks, and Task Complexity
+Abstract: Fluid teams are commonly used by a variety of organizations to perform similar and repetitive yet highly critical and knowledge-intensive tasks. Such teams operate for a limited time, after which they dissolve and some of their members may work together again as part of another team. Using a granular data set of 6,206 cardiac surgeries from a private hospital in Europe over seven years, our study offers a new and detailed account of how team familiarity (i.e., shared work experience) influences team productivity. We highlight the role of nuanced team composition dynamics beyond average team familiarity. We observe that teams with high dispersion of pairwise familiarity exhibit lower team productivity, and the existence of a “bottleneck-pair” may significantly hinder overall knowledge transfer capability, thus, productivity of fluid teams. In addition, we find that the higher the percentage of familiarity gained from complex tasks, the higher the productivity of the team. Finally, our results suggest that the positive effect of average team familiarity on productivity is enhanced when performing more complicated tasks. Our study provides new operational insights to improve productivity of fluid teams with better team composition strategies.
+Keywords: healthcare management, fluid teams, productivity, team familiarity, dispersion, bottleneck
+Pages: 19-35
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0597
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:19-35
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Bin Hu
+Author-Email: bin_hu@unc.edu
+Author-Workplace-Name: Kenan-Flagler Business School, University of North Carolina, Chapel Hill, North Carolina 27599
+Author-Name: Ming Hu
+Author-Email: Ming.Hu@rotman.utoronto.ca
+Author-Workplace-Name: Rotman School of Management, University of Toronto, Toronto, Ontario M5S 3E6, Canada
+Author-Name: Yi Yang
+Author-Email: yangyizju@zju.edu.cn
+Author-Workplace-Name: School of Management, Zhejiang University, Hangzhou, Zhejiang 310027, China
+Title: Open or Closed? Technology Sharing, Supplier Investment, and Competition
+Abstract: Competing technologies in emerging industries create uncertainties that discourage supplier investments. Open technology can induce supplier investments, but may also lead to intensified future competition. In this paper, we study competing manufacturers’ open-technology strategies. We show that despite the risk of intensifying future competition, open technologies by competing manufacturers may constitute an equilibrium and can indeed induce supplier investments. In addition, we identify a technology-risk-pooling benefit; namely, by opening technologies, competing manufacturers can induce supplier investments in both technologies and later adopt the one preferred by the market. However, manufacturers may also exhibit the prisoner’s dilemma and close their technologies despite the risk-pooling benefit. In this case, there is potential for collaborative technology sharing through cross licensing. Finally, we show that manufacturers may sometimes <i>close</i> their technologies to force supplier investments.This paper has an e-companion at <ext-link ext-link-type="uri"  href="https://doi.org/10.1287/msom.2016.0598doi.org/10.1287/msom.2016.0598">https://doi.org/10.1287/msom.2016.0598</ext-link>.
+Keywords: open technology, technology choice, competitive strategy, supplier investment, procurement
+Pages: 132-149
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0598
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:132-149
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Gerald Broneske
+Author-Email: gerald.broneske@tum.de
+Author-Workplace-Name: TUM School of Management, Technical University of Munich, 80333 Munich, Germany
+Author-Name: David Wozabal
+Author-Email: david.wozabal@tum.de
+Author-Workplace-Name: TUM School of Management, Technical University of Munich, 80333 Munich, Germany
+Title: How Do Contract Parameters Influence the Economics of Vehicle-to-Grid?
+Abstract: By modifying the charging patterns of a pool of electric vehicles (EVs), aggregators are able to provide services to the electric grid. The parameters that shape the agreement between aggregators and EV owners, such as plug-in duration and guaranteed driving range, affect the appeal of signing up with an aggregator. Our study examines how these contract parameters influence the profitability of vehicle pools. We use a bottom-up model that encompasses the entire planning problem faced by an aggregator. The model is applied to the German secondary reserve market using actual driving patterns and market data. Our results indicate that contract parameters influence EVs’ value to aggregators in surprising ways, partially contradicting findings in previous literature. In essence, high levels of plug-in durations or low levels of guaranteed driving for planned trips do not necessarily provide the highest profit. Furthermore, we find that realistic nonanticipative strategies lead to annual profits in the range of €167 to €125 per vehicle, which is in the lower range of previous studies. Our results are a starting point for a discussion about optimal contract parameters and the design of corresponding marketing strategies.The online appendix is available at <ext-link ext-link-type="uri"  href="https://doi.org/10.1287/msom.2016.0601">https://doi.org/10.1287/msom.2016.0601</ext-link>.
+Keywords: electric vehicles, grid integrated vehicles, ancillary services, reserve market, stochastic optimization, OR in energy
+Pages: 150-164
+Volume: 19
+Issue: 1
+Year: 2017
+Month: February
+File-URL: http://dx.doi.org/10.1287/msom.2016.0601
+File-Format: Application/pdf
+Handle: RePEc:inm:ormsom:v:19:y:2017:i:1:p:150-164
+

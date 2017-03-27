@@ -1,0 +1,442 @@
+﻿Template-Type: ReDIF-Article 1.0
+Author-Name: Chemmanur, Thomas J.
+Author-Name: Fulghieri, Paolo
+Title: Why Include Warrants in New Equity Issues? A Theory of Unit IPOs
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 1-24
+Issue: 01
+Volume: 32
+Year: 1997
+Month: March    
+Abstract: We develop a theory of unit IPOs in which the firm going public issues a package of equity with warrants. We model an equity market where insiders have private information about the riskiness as well as the expected value of their firm's future cash flows. We demonstrate that, in equilibrium, high risk firms issue underpriced “units” of equity and warrants; lower risk firms, on the other hand, issue underpriced equity alone. In contrast to the existing literature, underpricing arises as a signal in our model in the context of a <italic>one-shot</italic> equity offering. Though developed in the context of IPOs, our model can also explain the issuance of seasoned equity offerings packaged with warrants. Further, the intuition behind the model generalizes readily to provide a new rationale for packaging call-option-like claims with risky securities other than equity, including convertible debt and debt with warrants.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000648
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:01:p:1-24_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Bhushan, Ravi
+Author-Name: Brown, David P.
+Author-Name: Mello, Antonio S.
+Title: Do Noise Traders “Create Their Own Space?”
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 25-45
+Issue: 01
+Volume: 32
+Year: 1997
+Month: March    
+Abstract: We analyze myopic trader models of noisy prices in financial markets. Unlike extant analysis, such as De Long et al. (1990a), a classical equilibrium exists in our analysis, e.g., a riskless perpetuity is priced by arbitrage and its price does not vary with noise. A unique noisy equilibrium exists only when i) noise traders' beliefs are rational regarding volatility and irrational regarding expected returns, and ii) noise traders can hold infinite positions. In the absence of these strong assumptions, multiple noisy equilibria can coexist with the classical equilibrium, but these equilibria exhibit conflicting comparative statics. Furthermore, the price of a long-lived asset with risky cash flows can vary with noise even when investors are not myopic. One conclusion is that myopia is neither a necessary nor a sufficient condition for noisy prices. A second is that it is difficult, if not impossible, to use myopic trader models to derive implications for investment or regulatory policy.
+File-URL: http://journals.cambridge.org/abstract_S002210900000065X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:01:p:25-45_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Johnson, Shane A.
+Title: An Empirical Analysis of the Determinants of Corporate Debt Ownership Structure
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 47-69
+Issue: 01
+Volume: 32
+Year: 1997
+Month: March    
+Abstract: I examine the relation between corporate debt ownership structure and several firm characteristics suggested by recent theory. The results demonstrate the importance of monitoring and information costs, the likelihood and costs of inefficient liquidation, and borrowers' incentives in affecting firms' debt source preferences. Several theoretical predictions receive support, while others do not. The results also suggest important differences between bank and private non-bank debt, which contrasts with most theoretical models. Additionally, I find evidence of systematic use of bank debt by firms with access to public debt, suggesting the benefits attributed to bank debt in theoretical models remain important after firms gain access to public debt markets. Although different lenders appear to have different maturity preferences, the results also suggest debt maturity and debt ownership decisions may be separable.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000661
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:01:p:47-69_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Hemler, Michael L.
+Author-Name: Miller, Thomas W.
+Title: Box Spread Arbitrage Profits following the 1987 Market Crash: Real or Illusory?
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 71-90
+Issue: 01
+Volume: 32
+Year: 1997
+Month: March    
+Abstract: We examine market efficiency before and after the 1987 Market Crash using the box spread strategy implemented with European-style S&P 500 Index (SPX) options. Before the Crash, apparent arbitrage opportunities were rare and simulated trades were unprofitable assuming a one-minute execution delay. After the Crash, apparent arbitrage opportunities were frequent and simulated trades were profitable even assuming a five-minute execution delay. Our analysis makes the routine assumption that quotes are good until updated to construct a time series of prevailing quotes sampled at 30-second intervals. If this assumption is valid, then arbitrage profits were actually available. If this assumption is invalid, then such profits could have been illusory. Either scenario, however, implies that SPX market efficiency decreased following the Crash—prevailing price quotes repeatedly failed to satisfy the fundamental parity relation underlying the box spread.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000673
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:01:p:71-90_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Melick, William R.
+Author-Name: Thomas, Charles P.
+Title: Recovering an Asset's Implied PDF from Option Prices: An Application to Crude Oil during the Gulf Crisis
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 91-115
+Issue: 01
+Volume: 32
+Year: 1997
+Month: March    
+Abstract: We develop a general method for estimating the implied, martingale equivalent, probability density function (PDF) for futures prices from American options prices. The early exercise feature of American options precludes expressing the price of the option in terms of the PDF. There exist tight bounds for the price of American options in terms of the PDF. We demonstrate how these bounds, together with observed option prices, can be used to estimate the parameters of the PDF. We estimate the distribution for crude oil during the Persian Gulf crisis and find the distribution differs significantly from that recovered using standard techniques.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000685
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:01:p:91-115_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Hubbard, Jeff
+Author-Name: Michaely, Roni
+Title: Do Investors Ignore Dividend Taxation? A Reexamination of the Citizens Utilities Case
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 117-135
+Issue: 01
+Volume: 32
+Year: 1997
+Month: March    
+Abstract: Citizens Utilities Company (CU), Stamford, CT, has two classes of common stock, one paying cash dividends and one paying stock dividends. Unless CU shareholders ignore dividend taxation, the price of the cash dividend shares should increase relative to the stock dividend shares after the 1986 tax change. Contrary to this hypothesis, we find that the relative valuation of these two classes of shares was not permanently affected by the tax change. We do observe a pricing change around the time of the tax reform, but the effect is only temporary—the relative valuation before the tax change (1982–1984) and after (1987–1989) is almost equal. Two possible explanations for the observed valuation of the two stocks are clientele effects and differences in liquidity. We find that neither of these explanations can account for the relative pricing of the shares.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000697
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:01:p:117-135_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Balduzzi, Pierluigi
+Author-Name: Foresi, Silverio
+Author-Name: Hait, David J.
+Title: Price Barriers and the Dynamics of Asset Prices in Equilibrium
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 137-159
+Issue: 02
+Volume: 32
+Year: 1997
+Month: June     
+Abstract: A price barrier is a price level at which a large number of investors either buy or sell securities. We analyze the dynamics of asset prices in an economy in which price barriers exist. Our analysis suggests that asset prices and volatility can exhibit jumps when the price barrier is reached. Interestingly, the market's anticipation of future trades can influence prices in the opposite direction from what one might expect. For example, when multiple barriers exist, stock prices can be inflated, rather than depressed, in the proximity of an anticipated stock sale.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000776
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:02:p:137-159_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Rankine, Graeme
+Author-Name: Stice, Earl K.
+Title: The Market Reaction to the Choice of Accounting Method for Stock Splits and Large Stock Dividends
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 161-182
+Issue: 02
+Volume: 32
+Year: 1997
+Month: June     
+Abstract: Prior research has used inaccurate classification rules to distinguish between stock splits and stock dividends. The CRSP classification of two-for-one stock distributions agrees with the actual accounting treatment only 23% of the time. In addition, the accounting treatment impacts the announcement period reaction—two-for-one distributions accounted for as stock dividends are associated with five-day announcement period returns of 2.70%, significantly greater that the 0.93% announcement returns for distributions accounted for as stock splits. Announcement returns are positively related to earnings growth in the two years following the distribution for stock dividend firms but not for stock split firms. The accounting choice appears to be used to confirm management's private information about future earnings revealed at the time of the distribution announcement.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000788
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:02:p:161-182_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ronen, Tavy
+Title: Tests and Properties of Variance Ratios in Microstructure Studies
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 183-204
+Issue: 02
+Volume: 32
+Year: 1997
+Month: June     
+Abstract: The properties of variance ratio tests across trading and non-trading periods are examined using the generalized method of moments. For the case of opening and closing return variances, the joint tests indicate that the null hypothesis that the variance of opening returns equals the variance of closing returns cannot be rejected for a sample of New York Stock Exchange stocks. This example demonstrates the importance of accounting for overlapping observations and cross correlation in such frameworks. The conventional average (across assets) variance ratio test is shown to be biased against the null in small samples. Specifically, when non-zero correlations are ignored, previous tests have the wrong asymptotic size. This bias persists in other frameworks as well: although this study confirms earlier findings that the return variance during non-trading periods is significantly lower than during trading periods, test statistics that ignore correlations are shown to be inflated.
+File-URL: http://journals.cambridge.org/abstract_S002210900000079X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:02:p:183-204_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kryzanowski, Lawrence
+Author-Name: Lalancette, Simon
+Author-Name: To, Minh Chau
+Title: Performance Attribution using an APT with Prespecified Macrofactors and Time-Varying Risk Premia and Betas
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 205-224
+Issue: 02
+Volume: 32
+Year: 1997
+Month: June     
+Abstract: This paper assesses the selection and timing abilities of 130 equity mutual funds using a conditional APT model with specified macrofactors, and time-varying risk premia and betas. For all fund categories based on investment objectives, a significant proportion of the funds exhibits negative abnormal asset selection performance based on the unconditional Jensen (1968) alpha, and a reduced proportion of the funds in each category attempts to time the realizations of the macrofactors (including those captured by the residual market factor). The average selection performance of the mutual funds improves and the proportion of funds attempting to time macrofactor realizations declines when measured using the asset selection and factor-timing models with time-varying risk premia and betas.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000806
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:02:p:205-224_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Battalio, Robert H.
+Author-Name: Hatch, Brian
+Author-Name: Jennings, Robert
+Title: SOES Trading and Market Volatility
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 225-238
+Issue: 02
+Volume: 32
+Year: 1997
+Month: June     
+Abstract: The National Association of Security Dealers alleges that professional-trader use of the Small Order Execution System (SOES) causes greater security price volatility. We document bidirectional Granger causality between a proxy for professional SOES trading (the frequency of maximum-sized SOES trades) and a measure of stock price volatility. We find that high levels of volatility precede high levels of maximum-sized SOES trades, suggesting that volatility causes more frequent large SOES trades. Likewise, over a one-minute time interval, high levels of maximum-sized SOES trades cause high volatility. Over longer periods, however, intense maximum-sized SOES trading causes <italic>lower</italic> volatility. Interpreted in conjunction with Harris and Schultz (1997), these results suggest that high levels of maximum-sized SOES trades lead to more efficient price discovery. In light of these results, we believe that efforts to eliminate SOES based on volatility considerations are unwarranted.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000818
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:02:p:225-238_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Briys, Eric
+Author-Name: de Varenne, François
+Title: Valuing Risky Fixed Rate Debt: An Extension
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 239-248
+Issue: 02
+Volume: 32
+Year: 1997
+Month: June     
+Abstract: This paper develops a corporate bond valuation model that takes into account both early default and interest rate risk. It corrects a defect of recent contributions where pricing equations do not assure that the payment to bondholders upon bankruptcy is no greater than firm value. The bankruptcy-triggering mechanism is directly related to the payoff received by bondholders when early bankruptcy is forced upon the firm. More specifically, the default barrier is defined simply as a fixed quantity discounted at the riskless rate up to the maturity date of the risky corporate bond. As soon as this threshold is crossed, bondholders receive an exogenously specified fraction of the remaining assets. Deviations from the absolute priority rule also are captured. Because it accounts for Gaussian interest rate uncertainty, default risk, and deviations from the absolute priority rule, this model is capable of producing quite diverse shapes for the term structure of yield spreads.
+File-URL: http://journals.cambridge.org/abstract_S002210900000082X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:02:p:239-248_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Loughran, Tim
+Title: Book-to-Market across Firm Size, Exchange, and Seasonality: Is There an Effect?
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 249-268
+Issue: 03
+Volume: 32
+Year: 1997
+Month: September
+Abstract: Fama and French (1992) report that size and the book-to-market ratio capture the cross-sectional variation of average stock returns for the universe of NYSE, Amex, and Nasdaq securities. This paper, in providing an exhaustive exploration of book-to-market across the dimensions of firm size, exchange listing, and calendar seasonally, reports that Fama and French's empirical findings are driven by two features of the data: a January seasonal in the book-to-market effect, and exceptionally low returns on small, young, growth stocks. In the largest size quintile of all firms (accounting for 73% of the total market value of all publicly traded firms), book-to-market has <italic>no</italic> significant explanatory power on the cross-section of realized returns during the 1963–1995 period. Thus, book-to-market as such would have less importance to money managers than the literature would have led us to believe.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000831
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:03:p:249-268_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ravid, S. Abraham
+Author-Name: Spiegel, Matthew
+Title: Optimal Financial Contracts for a Start-Up with Unlimited Operating Discretion
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 269-286
+Issue: 03
+Volume: 32
+Year: 1997
+Month: September
+Abstract: The model presented here shows that extreme uncertainty between an entrepreneur and potential investors can lead to the exclusive use of equity and riskless debt for small business financing. The paper derives these results without any restrictions on the available contract space, the distribution function governing a project's payoff, or the risk aversion of most potential entrepreneurs. In addition, the model produces predictions regarding the “under-pricing”; of securities to outside financiers, the order in which firms will issue securities, and the relationship between the types of securities a firm will issue and its available collateral.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000843
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:03:p:269-286_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Bessembinder, Hendrik
+Author-Name: Kaufman, Herbert M.
+Title: A Comparison of Trade Execution Costs for NYSE and NASDAQ-Listed Stocks
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 287-310
+Issue: 03
+Volume: 32
+Year: 1997
+Month: September
+Abstract: We compare average trade execution costs during 1994 for sets of large, medium, and small capitalization stocks listed on the New York and NASDAQ stock markets. All measures of execution costs examined, including quoted bid-ask spreads, effective spreads (which allow for executions within the quotes), and realized spreads (which measure price reversal after trades), are larger for NASDAQ-listed than for NYSE-listed stocks. The differentials in average trading costs across exchanges are greater for medium and small capitalization issues than for large capitalization stocks and are greater for small compared to large trades. These differentials cannot be attributed to cross-exchange differences in the adverse selection costs of market-making. Furthermore, we find no evidence that average execution costs on NASDAQ declined after the publicized events of May 1994.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000855
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:03:p:287-310_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Anderson, Ronald C.
+Author-Name: Lee, D. Scott
+Title: Ownership Studies: The Data Source Does Matter
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 311-329
+Issue: 03
+Volume: 32
+Year: 1997
+Month: September
+Abstract: We examine the fit between the ownership data provided by four surrogate databases and the data collected from proxy statements. We discover an unambiguous pecking order among the surrogates relative to the benchmark ownership statistics of corporate proxy statements. Corporate Text is first, followed in descending order by Compact Disclosure, Value Line, and Spectrum. Further tests show that reporting discrepancies in the Value Line and Spectrum databases could affect economic inferences drawn from regressions using their ownership data. A field guide describing each data source's reporting conventions, formats, and strategies for data aggregation may be downloaded from the Journal of Financial and Quantitative Analysis' web site (http://webenu.washington.edu/~jfqa/hold/andeapdx.pdf).
+File-URL: http://journals.cambridge.org/abstract_S0022109000000867
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:03:p:311-329_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Hallock, Kevin F.
+Title: Reciprocally Interlocking Boards of Directors and Executive Compensation
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 331-344
+Issue: 03
+Volume: 32
+Year: 1997
+Month: September
+Abstract: Is executive compensation influenced by the composition of the board of directors? About 8% of chief executive officers (CEOs) are reciprocally interlocked with another CEO—the current CEO of firm A serves as a director of firm B and the current CEO of firm B serves as a director of firm A. Roughly 20% of firms have at least one current or retired employee sitting on the board of another firm and vice versa. I investigate how these and other features of board composition affect CEO pay by using a sample of 9,804 director positions in America's largest companies. CEOs who lead interlocked firms earn significantly higher compensation. Also, interlocked CEOs tend to head larger firms. After controlling for firm and CEO characteristics, the pay gap is reduced dramatically. However, when firms that are interlocked due to documented business relationships are considered not interlocked, the measured return to interlock is as high as 17%. There also is evidence that the return to interlock was higher in the 1970s than in the early 1990s.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000879
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:03:p:331-344_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Bremer, Marc
+Author-Name: Hiraki, Takato
+Author-Name: Sweeney, Richard J.
+Title: Predictable Patterns after Large Stock Price Changes on the Tokyo Stock Exchange
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 345-365
+Issue: 03
+Volume: 32
+Year: 1997
+Month: September
+Abstract: This paper extends to Japanese stocks recent research on short-term stock price adjustment to new information. Using standard methodologies, we find that stock returns of firms included in the Nikkei 300 tend to be significantly positive after large price decreases. This is similar to the pattern observed for American stocks in other research. The pattern remains when returns are adjusted for market movements, and exists independently of the October 1987 market break. We find little evidence of significant patterns following large stock price increases. We also find little evidence that non-transaction prices explain the persistent, significant returns observed following large price decreases on the Tokyo Stock Exchange. We conjecture that broker/dealers and TSE member firms respond to large price decreases not by trading for their own profit, but rather by selectively supplying liquidity to their preferred retail customers. We conclude that ordinary investors probably cannot earn economic profits from these statistically significant patterns.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000880
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:03:p:345-365_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Golec, Joseph
+Title: Herding on Noise: The Case of Johnson Redbook's Weekly Retail Sales Data
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 367-381
+Issue: 03
+Volume: 32
+Year: 1997
+Month: September
+Abstract: Recent models of herding suggest that speculators may rationally trade on information unrelated to fundamentals when their trading horizons are short. This study provides an empirical example where this appears to be the case. Johnson Redbook's weekly retail sales figures predicted bond returns for a short time after a significant number of bond traders began purchasing and trading on the data. The significant relationship between the data and bond returns disappeared just after the Wall Street Journal started to report it. Meanwhile, there was little or no change in the relationship between the data and retailers' stock returns, perhaps because the data have long been followed by retail stock analysts, Johnson Redbook's original investor clientele.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000892
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:03:p:367-381_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Benveniste, Lawrence M.
+Author-Name: Busaba, Walid Y.
+Title: Bookbuilding vs. Fixed Price: An Analysis of Competing Strategies for Marketing IPOs
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 383-403
+Issue: 04
+Volume: 32
+Year: 1997
+Month: December 
+Abstract: We compare two mechanisms for selling IPOs, the fixed price method and American book-building, when investors have correlated information and can observe each other's subscription decisions. In this environment, the fixed price method is a strategy that can create cascading demand. Alternatively, an underwriter building a book aggregates investor information into the offer price. We find that bookbuilding generates higher expected proceeds but exposes the issuer to greater uncertainty, and that it provides the option to sell additional shares that are not underpriced on the margin.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000703
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:04:p:383-403_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Neely, Christopher
+Author-Name: Weller, Paul
+Author-Name: Dittmar, Rob
+Title: Is Technical Analysis in the Foreign Exchange Market Profitable? A Genetic Programming Approach
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 405-426
+Issue: 04
+Volume: 32
+Year: 1997
+Month: December 
+Abstract: Using genetic programming techniques to find technical trading rules, we find strong evidence of economically significant out-of-sample excess returns to those rules for each of six exchange rates over the period 1981–1995. Further, when the dollar/Deutsche mark rules are allowed to determine trades in the other markets, there is significant improvement in performance in all cases, except for the Deutsche mark/yen. Betas calculated for the returns according to various benchmark portfolios provide no evidence that the returns to these rules are compensation for bearing systematic risk. Bootstrapping results on the dollar/Deutsche mark indicate that the trading rules detect patterns in the data that are not captured by standard statistical models.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000715
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:04:p:405-426_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: David, Alexander
+Title: Fluctuating Confidence in Stock Markets: Implications for Returns and Volatility
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 427-462
+Issue: 04
+Volume: 32
+Year: 1997
+Month: December 
+Abstract: The average relative profitability of different firms in the economy jumps erratically. Although investors are unable to observe these productivity switches, they continuously update their beliefs regarding high and low productivity firms by observing the total return on each firm, which consists of the average productivity plus noise. The portfolio choices, interest rate, and stock return processes are derived in a Cox-Ingersoll-Ross (1985a) style general equilibrium model. Three stylized facts of stock market returns are addressed: negative skewness, excess kurtosis, and predictive asymmetry (excess returns and future changes in volatility are negatively correlated). To measure the last stylized fact, an EGARCH model is fitted to sample paths simulated from the model. Parameter values that permit faster learning fit the three facts better.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000727
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:04:p:427-462_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kim, Dongcheol
+Title: A Reexamination of Firm Size, Book-to-Market, and Earnings Price in the Cross-Section of Expected Stock Returns
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 463-489
+Issue: 04
+Volume: 32
+Year: 1997
+Month: December 
+Abstract: This paper reexamines the explanatory power of beta, firm size, book-to-market equity, and the earnings-price ratio for average stock returns, correcting two currently controversial biases: selection bias in COMPUSTAT and the errors-in-variables (EIV) bias. After filling in the missing data on COMPUSTAT with the Moody's sample, I do not find any significantly different results for book-to-market equity from using the COMPUSTAT sample only. After correcting for the EIV bias, I find stronger support for the beta pricing theory than previous studies. Regardless of the presence of firm size, book-to-market equity, and earnings-price ratios, betas have significant explanatory power for average stock returns. In particular, firm size is barely significant using monthly returns, but no longer significant using quarterly returns. However, book-to-market equity still has significant explanatory power for average stock returns, even though the EIV bias is corrected.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000739
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:04:p:463-489_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: McWilliams, Victoria B.
+Author-Name: Sen, Nilanjan
+Title: Board Monitoring and Antitakeover Amendments
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 491-505
+Issue: 04
+Volume: 32
+Year: 1997
+Month: December 
+Abstract: This study examines the joint influence of board composition, leadership structure, and board ownership structure on the market's reaction to corporate antitakeover amendment proposals. The stock price reaction to antitakeover amendments is more negative when the board is dominated by inside and affiliated outside board members. Further, for firms in which the CEO also chairs the board, the reaction becomes increasingly negative as inside and affiliated outside board members increase their ownership stake in the firm and proportional representation on the board. In contrast, board composition and ownership structure have little power to explain the stock price reaction when the CEO does not chair the board. We conclude that monitoring by outside independent board members is important particularly when the CEO is also the board chair.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000740
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:04:p:491-505_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kim, Sok Tae
+Author-Name: Lin, Ji-Chai
+Author-Name: Slovin, Myron B.
+Title: Market Structure, Informed Trading, and Analysts' Recommendations
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 507-524
+Issue: 04
+Volume: 32
+Year: 1997
+Month: December 
+Abstract: We examine stock price behavior in response to initial coverage, buy recommendations that are pre-released to important clients before the stock market opens, and find a strong positive valuation effect at the open. On average, it takes five minutes of trading for NYSE/AMEX stocks and 15 minutes for NASDAQ stocks to reflect the private information contained in these analyst recommendations, so when informational asymmetry is high, the centralized call market is more efficient than a competitive, but fragmented dealer market. Public news release leaves share prices unaltered. Overall, competition among informed traders causes private information to be rapidly incorporated into stock prices.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000752
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:04:p:507-524_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Brooks, Raymond M.
+Author-Name: Su, Tie
+Title: A Simple Cost Reduction Strategy for Small Liquidity Traders: Trade at the Opening
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 525-540
+Issue: 04
+Volume: 32
+Year: 1997
+Month: December 
+Abstract: We extend the market microstructure literature by examining trading strategies of a small discretionary liquidity trader in call and continuous markets. Our investigation of trading strategies uses intraday market and limit orders, and introduces the market-at-open order as an alternative strategy for a small liquidity trader. We find that a small trader can reduce transaction costs by trading at the opening. Using tick-by-tick transaction data, we demonstrate that the market-at-open order consistently produces better prices than market and limit orders executed during the trading day.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000764
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:32:y:1997:i:04:p:525-540_00
+
+

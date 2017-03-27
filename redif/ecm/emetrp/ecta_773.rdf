@@ -1,0 +1,299 @@
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Nicholas Bloom 
+Title: The Impact of Uncertainty Shocks 
+Abstract:
+				 Uncertainty appears to jump up after major
+ shocks like the Cuban Missile crisis, the assassination of JFK, the OPEC I
+ oil-price shock, and the 9/11 terrorist attacks. This paper offers a
+ structural framework to analyze the impact of these uncertainty shocks. I
+ build a model with a time-varying second moment, which is numerically
+ solved and estimated using firm-level data. The parameterized model is
+ then used to simulate a macro uncertainty shock, which produces a rapid
+ drop and rebound in aggregate output and employment. This occurs because
+ higher uncertainty causes firms to temporarily pause their investment and
+ hiring. Productivity growth also falls because this pause in activity
+ freezes reallocation across units. In the medium term the increased
+ volatility from the shock induces an overshoot in output, employment, and
+ productivity. Thus, uncertainty shocks generate short sharp recessions and
+ recoveries. This simulated impact of an uncertainty shock is compared to
+ vector autoregression estimations on actual data, showing a good match in
+ both magnitude and timing. The paper also jointly estimates labor and
+ capital adjustment costs (both convex and nonconvex). Ignoring capital
+ adjustment costs is shown to lead to substantial bias, while ignoring
+ labor adjustment costs does not. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 623-685 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA6248
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:623-685 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Whitney K. Newey 
+Author-Name: Frank Windmeijer 
+Title: Generalized Method of Moments With Many Weak Moment Conditions 
+Abstract:
+				 Using many moment conditions can improve
+ efficiency but makes the usual generalized method of moments (GMM)
+ inferences inaccurate. Two-step GMM is biased. Generalized empirical
+ likelihood (GEL) has smaller bias, but the usual standard errors are too
+ small in instrumental variable settings. In this paper we give a new
+ variance estimator for GEL that addresses this problem. It is consistent
+ under the usual asymptotics and, under many weak moment asymptotics, is
+ larger than usual and is consistent. We also show that the Kleibergen
+ (2005) Lagrange multiplier and conditional likelihood ratio statistics are
+ valid under many weak moments. In addition, we introduce a jackknife GMM
+ estimator, but find that GEL is asymptotically more efficient under many
+ weak moments. In Monte Carlo examples we find that t-statistics based on
+ the new variance estimator have nearly correct size in a wide range of
+ cases. 			       Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 687-719 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA6224
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:687-719 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Donald W. K. Andrews 
+Author-Name: Patrik Guggenberger 
+Title: Hybrid and Size-Corrected Subsampling Methods 
+Abstract:
+				 This paper considers inference in a broad
+ class of nonregular models. The models considered are nonregular in the
+ sense that standard test statistics have asymptotic distributions that are
+ discontinuous in some parameters. It is shown in Andrews and Guggenberger
+ (2009a) that standard fixed critical value, subsampling, and m out of n
+ bootstrap methods often have incorrect asymptotic size in such models.
+ This paper introduces general methods of constructing tests and confidence
+ intervals that have correct asymptotic size. In particular, we consider a
+ hybrid subsampling/fixed-critical-value method and size-correction
+ methods. The paper discusses two examples in detail. They are (i)
+ confidence intervals in an autoregressive model with a root that may be
+ close to unity and conditional heteroskedasticity of unknown form and (ii)
+ tests and confidence intervals based on a post-conservative model
+ selection estimator.				     Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 721-762 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA7015
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:721-762 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: P.-A. Chiappori 
+Author-Name: I. Ekeland 
+Title: The Microeconomics of Efficient Group Behavior: Identification  							  				 
+Abstract:
+				 Consider a group consisting of S members
+ facing a common budget constraint p'xi=1: any demand vector belonging to
+ the budget set can be (privately or publicly) consumed by the members.
+ Although the intragroup decision process is not known, it is assumed to
+ generate Pareto-efficient outcomes; neither individual consumptions nor
+ intragroup transfers are observable. The paper analyzes when, to what
+ extent, and under which conditions it is possible to recover the
+ underlying structure-individual preferences and the decision process-from
+ the group's aggregate behavior. We show that the general version of the
+ model is not identified. However, a simple exclusion assumption (whereby
+ each member does not consume at least one good) is sufficient to guarantee
+ generic identifiability of the welfare-relevant structural concepts.	     Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 763-799 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA5929
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:763-799 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Marciano Siniscalchi 
+Title: Vector Expected Utility and Attitudes Toward Variation 
+Abstract:
+				 This paper proposes a model of decision
+ under ambiguity deemed vector expected utility, or VEU. In this model, an
+ uncertain prospect, or Savage act, is assessed according to (a) a baseline
+ expected-utility evaluation, and (b) an adjustment that reflects the
+ individual's perception of ambiguity and her attitudes toward it. The
+ adjustment is itself a function of the act's exposure to distinct sources
+ of ambiguity, as well as its variability. The key elements of the VEU
+ model are a baseline probability and a collection of random variables, or
+ adjustment factors, which represent acts exposed to distinct ambiguity
+ sources and also reflect complementarities among ambiguous events. The
+ adjustment to the baseline expected-utility evaluation of an act is a
+ function of the covariance of its utility profile with each adjustment
+ factor, which reflects exposure to the corresponding ambiguity source.      Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 801-855 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA7564
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:801-855 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Frank Riedel 
+Title: Optimal Stopping With Multiple Priors 
+Abstract:
+				 We develop a theory of optimal stopping
+ under Knightian uncertainty. A suitable martingale theory for multiple
+ priors is derived that extends the classical dynamic programming or Snell
+ envelope approach to multiple priors. We relate the multiple prior theory
+ to the classical setup via a minimax theorem. In a multiple prior version
+ of the classical model of independent and identically distributed random
+ variables, we discuss several examples from microeconomics, operation
+ research, and finance. For monotone payoffs, the worst-case prior can be
+ identified quite easily with the help of stochastic dominance arguments.
+ For more complex payoff structures like barrier options, model ambiguity
+ leads to stochastic changes in the worst-case beliefs. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 857-908 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA7594
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:857-908 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Gary Charness 
+Author-Name: Uri Gneezy 
+Title: Incentives to Exercise 
+Abstract:
+				 Can incentives be effective in encouraging
+ the development of good habits? We investigate the post-intervention
+ effects of paying people to attend a gym a number of times during one
+ month. In two studies we find marked attendance increases after the
+ intervention relative to attendance changes for the respective control
+ groups. This is entirely driven by people who did not previously attend
+ the gym on a regular basis. In our second study, we find improvements on
+ health indicators such as weight, waist size, and pulse rate, suggesting
+ the intervention led to a net increase in total physical activity rather
+ than to a substitution away from nonincentivized ones. We argue that there
+ is scope for financial intervention in habit formation, particularly in
+ the area of health. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 909-931 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA7416
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:909-931 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ning Sun 
+Author-Name: Zaifu Yang 
+Title: A Double-Track Adjustment Process for Discrete Markets With Substitutes and Complements 
+Abstract:
+				 We propose a new Walrasian
+ tatonnement process called a double-track procedure for efficiently
+ allocating multiple heterogeneous indivisible items in two distinct sets
+ to many buyers who view items in the same set as substitutes but items
+ across the two sets as complements. In each round of the process, a
+ Walrasian auctioneer first announces the current prices for all items,
+ buyers respond by reporting their demands at these prices, and then the
+ auctioneer adjusts simultaneously the prices of items in one set upward
+ but those of items in the other set downward. It is shown that this
+ procedure converges globally to a Walrasian equilibrium in finitely many
+ rounds. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 933-952 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA6514
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:933-952 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Sergio Firpo 
+Author-Name: Nicole M. Fortin 
+Author-Name: Thomas Lemieux 
+Title: Unconditional Quantile Regressions 
+Abstract:
+				 We propose a new regression method to
+ evaluate the impact of changes in the distribution of the explanatory
+ variables on quantiles of the unconditional (marginal) distribution of an
+ outcome variable. The proposed method consists of running a regression of
+ the (recentered) influence function (RIF) of the unconditional quantile on
+ the explanatory variables. The influence function, a widely used tool in
+ robust estimation, is easily computed for quantiles, as well as for other
+ distributional statistics. Our approach, thus, can be readily generalized
+ to other distributional statistics. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 953-973 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA6822
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:953-973 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Michael P. Keane 
+Author-Name: Robert M. Sauer 
+Title: Classification Error in Dynamic Discrete Choice Models: Implications for Female Labor Supply Behavior 
+Abstract:
+				 Two key issues in the literature on female
+ labor supply are (i) whether persistence in employment status is due to
+ unobserved heterogeneity or state dependence, and (ii) whether fertility
+ is exogenous to labor supply. Until recently, the consensus was that
+ unobserved heterogeneity is very important and fertility is endogenous.
+ Hyslop (1999) challenged this. Using a dynamic panel probit model of
+ female labor supply including heterogeneity and state dependence, he found
+ that adding autoregressive errors led to a substantial diminution in the
+ importance of heterogeneity. This, in turn, meant he could not reject that
+ fertility is exogenous. Here, we extend Hyslop (1999) to allow
+ classification error in employment status, using an estimation procedure
+ developed by Keane and Wolpin (2001) and Keane and Sauer (2005). We find
+ that a fairly small amount of classification error is enough to overturn
+ Hyslop's conclusions, leading to overwhelming rejection of the hypothesis
+ of exogenous fertility. Copyright  2009 The Econometric Society. 
+Journal: Econometrica 
+Pages: 975-991 
+Issue: 3 
+Volume: 77 
+Year: 2009 
+Month: 05 
+File-URL: http://hdl.handle.net/10.3982/ECTA7642
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:ecm:emetrp:v:77:y:2009:i:3:p:975-991 
+

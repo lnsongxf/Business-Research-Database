@@ -1,0 +1,600 @@
+﻿Template-Type: ReDIF-Article 1.0
+Author-Name: Boyle, Phelim P.
+Title: A Lattice Framework for Option Pricing with Two State Variables
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 1-12
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: A procedure is developed for the valuation of options when there are two underlying state variables. The approach involves an extension of the lattice binomial approach developed by Cox, Ross, and Rubinstein to value options on a single asset. Details are given on how the jump probabilities and jump amplitudes may be obtained when there are two state variables. This procedure can be used to price any contingent claim whose payoff is a piece-wise linear function of two underlying state variables, provided these two variables have a bivariate lognormal distribution. The accuracy of the method is illustrated by valuing options on the maximum and minimum of two assets and comparing the results for cases in which an exact solution has been obtained for European options. One advantage of the lattice approach is that it handles the early exercise feature of American options. In addition, it should be possible to use this approach to value a number of financial instruments that have been created in recent years.
+File-URL: http://journals.cambridge.org/abstract_S0022109000012874
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:1-12_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Blomeyer, Edward C.
+Author-Name: Johnson, Herb
+Title: An Empirical Examination of the Pricing of American Put Options
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 13-22
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: This study is an <italic>ex post</italic> performance test comparing the accuracy of an American model to a European model for valuing listed options. Specifically, the Geske and Johnson American put valuation model is compared with the Black and Scholes European put model. On average, both models undervalue, relative to market prices, put options. However, the Geske and Johnson model values are significantly closer to market prices than are the Black and Scholes values.
+File-URL: http://journals.cambridge.org/abstract_S0022109000012886
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:13-22_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Grinblatt, Mark
+Author-Name: Johnson, Herb
+Title: A Put Option Paradox
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 23-26
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: What happens to the price of a put in a period during which the stock price stays constant? The hedging strategy implicit in the Black-Scholes model would seem to imply that the put goes up in value. Pure arbitrage arguments imply the opposite result. This paper resolves the paradox and uses it to explore the restrictions inherent in the diffusion processes assumed for all option pricing models.
+File-URL: http://journals.cambridge.org/abstract_S0022109000012898
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:23-26_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Haugen, Robert A.
+Author-Name: Senbet, Lemma W.
+Title: Bankruptcy and Agency Costs: Their Significance to the Theory of Optimal Capital Structure
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 27-38
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: We support and generalize our original results (1978) in light of potential impediments to a pure market solution to agency problems and potential causal links between liquidation and bankruptcy. In the case of bankruptcy costs, market impediments are easily eliminated through the inclusion of simple provisions in corporate charters and bond indentures. Further, we demonstrate that recent attempts to link liquidation costs to capital structure are without merit. If the firm is to be liquidated on the basis of a rule other than one that maximizes the total value of all the claimants, arbitrage profits arise, and informal reorganization will discipline management to follow the liquidation rule that is optimal for existing securityholders. Also, we find that the pure market solution is not readily generalizable to other classes of agency problems, particularly the risk incentive problem. However, the alternative solution of the risk incentive problem through complex financing contracting may be useful in explaining complexities in contemporary financial contracts.
+File-URL: http://journals.cambridge.org/abstract_S0022109000012904
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:27-38_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Narayanan, M. P.
+Title: Debt versus Equity under Asymmetric Information
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 39-51
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: In a world of asymmetric information in which only the insiders know the quality of the firm, it is claimed that debt, even if it is risky, is more advantageous than outside equity because issuance of debt is less attractive to inferior firms. The advantage to debt arises from the fact that it can keep unprofitable firms out of the market, thus improving the average quality of firms in the market. This advantage exists even if the firms cannot be perfectly sorted in the signaling equilibrium.
+File-URL: http://journals.cambridge.org/abstract_S0022109000012916
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:39-51_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ho, Thomas S. Y.
+Author-Name: Michaely, Roni
+Title: Information Quality and Market Efficiency
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 53-70
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: The purpose of this paper is to analyze the optimal individual behavior in acquiring information and to determine the amount of information incorporated in a stock at equilibrium, in the presence of a cost schedule in acquiring information. Our paper shows that at equilibrium the cost to acquire information that is not already incorporated in the price depends only on the representative investor's risk preferences. It follows that the marginal information costs are the same across all stocks at equilibrium even though the stock's information costs schedules may differ. This suggests that the prices of small stocks may not incorporate all publicly available information. This paper also provides empirical evidence that newspapers' publication of publicly available information can affect the stock prices.
+File-URL: http://journals.cambridge.org/abstract_S0022109000012928
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:53-70_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Heinkel, Robert
+Author-Name: Kraus, Alan
+Title: Measuring Event Impacts in Thinly Traded Stocks
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 71-88
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: The purpose of this paper is to suggest simple procedures designed to cope with the effects of thin trading on event study tests. The procedures are directed at two central problems: (i) missing individual stock returns (i.e., days on which no trading is observed in a security), and (ii) the effect of a bid-ask spread on the time series behavior of daily stock return data. We attack these problems by explicitly incorporating them in the construction of a generating process for observed security returns. First, we develop a procedure for “filling in” missing returns. Then, we model a return-generating process of observed security returns that allows estimation of the variance of unobserved true security returns for use in hypothesis testing.
+File-URL: http://journals.cambridge.org/abstract_S002210900001293X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:71-88_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Chambers, Donald R.
+Author-Name: Carleton, Willard T.
+Author-Name: McEnally, Richard W.
+Title: Immunizing Default-Free Bond Portfolios with a Duration Vector
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 89-104
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: Dissatisfaction occasionally has been expressed with traditional measures of duration for immunization on conceptual grounds. However, more elegant duration measures have not been found to be superior to the traditional ones in empirical tests of immunization efficacy. Under the assumption that the term structure of continuously compounded interest rates can be expressed as a polynomial, Chambers and Carleton (1981) demonstrate that the finite and noninstantaneous return of a default-free bond can be expressed as a vector product of a duration vector and a shift vector. This study derives immunization strategies from the model and tests them. The results of the portfolio tests indicate that the traditional duration approach of Macaulay provides enhanced immunization relative to maturity approaches or naive approaches. However, the duration vector approach produces further improvements.
+File-URL: http://journals.cambridge.org/abstract_S0022109000012941
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:89-104_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Siegel, Andrew F.
+Author-Name: Nelson, Charles R.
+Title: Long-Term Behavior of Yield Curves
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 105-110
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: The flattening of yield curves at long-term maturities is proven to be approximately proportional to the reciprocal of the time to maturity under general conditions. This is a consequence of the persistence of earlier forward rates in the averaging process, which produces yields from forward rates. This relationship suggests the use of a “reciprocal maturity yield curve,” which significantly facilitates the interpretation of the behavior of long-term yields by linearizing them for display over a shorter interval. This is illustrated using a yield curve for U.S. Treasury bills.
+File-URL: http://journals.cambridge.org/abstract_S0022109000012953
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:105-110_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Rodriguez, Ricardo J.
+Title: Default Risk, Yield Spreads, and Time to Maturity
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 111-117
+Issue: 01
+Volume: 23
+Year: 1988
+Month: March    
+Abstract: This paper extends the default model of yield spreads for bonds by showing that, in general, they are a complex function of maturity and, in particular, are not always monotonically increasing, contrary to what one traditional view suggests. Our results may help explain the apparently conflicting empirical results found in the literature.
+File-URL: http://journals.cambridge.org/abstract_S0022109000012965
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:01:p:111-117_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Mikkelson, Wayne H.
+Author-Name: Partch, M. Megan
+Title: Withdrawn Security Offerings
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 119-133
+Issue: 02
+Volume: 23
+Year: 1988
+Month: June     
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000012990
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:02:p:119-133_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Alexander, Gordon J.
+Author-Name: Eun, Cheol S.
+Author-Name: Janakiramanan, S.
+Title: International Listings and Stock Returns: Some Empirical Evidence
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 135-151
+Issue: 02
+Volume: 23
+Year: 1988
+Month: June     
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013004
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:02:p:135-151_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Bick, Avi
+Title: Producing Derivative Assets with Forward Contracts
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 153-160
+Issue: 02
+Volume: 23
+Year: 1988
+Month: June     
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013016
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:02:p:153-160_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Omberg, Edward
+Title: Efficient Discrete Time Jump Process Models in Option Pricing
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 161-174
+Issue: 02
+Volume: 23
+Year: 1988
+Month: June     
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013028
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:02:p:161-174_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Stoughton, Neal M.
+Title: The Information Content of Corporate Merger and Acquisition Offers
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 175-197
+Issue: 02
+Volume: 23
+Year: 1988
+Month: June     
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S002210900001303X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:02:p:175-197_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Bruner, Robert F.
+Title: The Use of Excess Cash and Debt Capacity as a Motive for Merger
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 199-217
+Issue: 02
+Volume: 23
+Year: 1988
+Month: June     
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013041
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:02:p:199-217_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Choi, J. Y.
+Author-Name: Salandro, Dan
+Author-Name: Shastri, Kuldeep
+Title: On the Estimation of Bid-Ask Spreads: Theory and Evidence
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 219-230
+Issue: 02
+Volume: 23
+Year: 1988
+Month: June     
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013053
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:02:p:219-230_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Allen, Linda
+Title: The Determinants of Bank Interest Margins: A Note
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 231-235
+Issue: 02
+Volume: 23
+Year: 1988
+Month: June     
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013065
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:02:p:231-235_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Hull, John
+Author-Name: White, Alan
+Title: The Use of the Control Variate Technique in Option Pricing
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 237-251
+Issue: 03
+Volume: 23
+Year: 1988
+Month: September
+Abstract: This paper presents a generalized version of the lattice approach to pricing options. It shows how the control variate technique can produce significant improvements in the efficiency of the approach. The control variate technique is illustrated using American puts on dividend and nondividend paying stocks.
+File-URL: http://journals.cambridge.org/abstract_S0022109000013090
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:03:p:237-251_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Joerding, Wayne
+Title: Excess Stock Price Volatility as a Misspecified Euler Equation
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 253-267
+Issue: 03
+Volume: 23
+Year: 1988
+Month: September
+Abstract: Speculative bubbles have been offered to explain the excess volatility results by Shiller (1981) and LeRoy and Porter (1981). Recent work by Flood, Hodrick, and Kaplan has shown that rational speculative bubbles cannot be the explanation for the excess volatility results. This paper provides an analytical framework for examining the hypothesis that the simple present value model used for the excess volatility studies is a misspecification of the true model. The method is applied to data from a market index and four large corporations. The results are consistent with the hypothesis that the simple present value model is not the correct specification for stock market pricing.
+File-URL: http://journals.cambridge.org/abstract_S0022109000013107
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:03:p:253-267_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jain, Prem C.
+Author-Name: Joh, Gun-Ho
+Title: The Dependence between Hourly Prices and Trading Volume
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 269-283
+Issue: 03
+Volume: 23
+Year: 1988
+Month: September
+Abstract: This study provides evidence on joint characteristics of hourly common stock trading volume and returns on the New York Stock Exchange. Average volume traded shows significant differences across trading hours of the day and across days of the week. Average returns differ across hours of the day, and, to some extent, across days of the week. There is a strong contemporaneous relation between trading volume and returns and also a relation between trading volume and returns lagged up to four hours. Furthermore, the trading volume-returns relation is steeper for positive returns than for nonpositive returns.
+File-URL: http://journals.cambridge.org/abstract_S0022109000013119
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:03:p:269-283_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Sweeney, Richard J.
+Title: Some New Filter Rule Tests: Methods and Results
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 285-300
+Issue: 03
+Volume: 23
+Year: 1988
+Month: September
+Abstract: Mechanical trading rules seem to have more potential than previous tests found. Fama and Blume (1966), looking at the Dow 30 of the late 1950s, found no profits for the best (½-percent) rule after adjusting for transactions costs. Fifteen of these stocks looked profitable in their sample, however; for the same rule, the surviving fourteen show statistically significant profits for 1970–1982 for transactions costs obtainable by floor traders. The test used here assumes constant risk premia, or more generally, that risk premia are on average approximately the same on days “in” as for the total period.
+File-URL: http://journals.cambridge.org/abstract_S0022109000013120
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:03:p:285-300_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jayaraman, Narayanan
+Author-Name: Shastri, Kuldeep
+Title: The Valuation Impacts of Specially Designated Dividends
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 301-312
+Issue: 03
+Volume: 23
+Year: 1988
+Month: September
+Abstract: This paper examines the valuation impacts of specially designated dividends (SDDs) by analyzing the behavior of stock and bond prices on dates surrounding their announcements. The evidence presented here suggests that SDDs are considered positive signals by the market, with (most of) the gains associated with their announcements accruing to stockholders. In addition, we present some evidence that the gain to stockholders is negatively related to the frequency of SDD announcements.
+File-URL: http://journals.cambridge.org/abstract_S0022109000013132
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:03:p:301-312_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Stock, Duane
+Author-Name: Simonson, Donald G.
+Title: Tax-Adjusted Duration for Amortizing Debt Instruments
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 313-327
+Issue: 03
+Volume: 23
+Year: 1988
+Month: September
+Abstract: This research provides improved techniques for analyzing the after-tax risk exposure of taxable institutions holding amortizing instruments such as commercial, real estate, and consumer loans. We derive after-tax duration for amortizing instruments and analyze it for sensitivity to tax rates, coupon, and maturity. Taxable investors who hedge and ignore the effects of taxes on amortizing instruments will underestimate differences in durations on bonds versus amortizing instruments of equal maturities; bond durations increase much faster as tax rates increase. One unexpected result shows that, unlike bond duration, amortizing instrument duration often increases with coupon rate, and sometimes is independent of coupon rate.
+File-URL: http://journals.cambridge.org/abstract_S0022109000013144
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:03:p:313-327_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Nielsen, Lars Tyge
+Title: Uniqueness of Equilibrium in the Classical Capital Asset Pricing Model
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 329-336
+Issue: 03
+Volume: 23
+Year: 1988
+Month: September
+Abstract: General equilibrium in the classical two-period mean-variance capital asset pricing model is not unique. Corresponding to one single set of expectations, utility functions, and an initial wealth distribution, there may be several equilibria, and an asset may have different prices, expected rates of return, and betas in different equilibria. However, any equilibrium portfolio is sustained by a unique price system, and if investors have decreasing risk aversion, then any equilibrium allocation of the risky assets is sustained by a unique price system.
+File-URL: http://journals.cambridge.org/abstract_S0022109000013156
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:03:p:329-336_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kane, Alex
+Author-Name: Marcus, Alan J.
+Title: The Delivery Option on Forward Contracts: A Note
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 337-341
+Issue: 03
+Volume: 23
+Year: 1988
+Month: September
+Abstract: A number of futures contracts conveys to the short position various delivery options regarding the quality and exact timing of delivery. Moreover, the compensation to the long position is not solely determined by the market value of the delivered asset at the time of delivery. Sometimes, the long position can hedge this delivery risk by holding an appropriate portfolio of the underlying asset. It often has been stated that whenever the long position can form a dynamic hedge against the delivery risk, the delivery option has a zero value. This paper demonstrates the implication of such erroneous intuition to the pricing of options. It is shown that the root of the issue is the property of diffusion processes whereas, within a given time interval, a random variable either will never cross a given boundary or else, cross it an infinite number of times.
+File-URL: http://journals.cambridge.org/abstract_S0022109000013168
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:03:p:337-341_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Barnhill, Theodore M.
+Title: The Delivery Option on Forward Contracts: A Comment
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 343-349
+Issue: 03
+Volume: 23
+Year: 1988
+Month: September
+Abstract: Livingston contends that short futures/long cash traders can eliminate the potential costs of the quality option through use of a dynamic trading strategy. It is proposed here that if this is possible then futures prices will never reach a stable equilibrium. Alternatively, if Livingston's argument is flawed, then no <italic>risk-free</italic> arbitrage opportunities are likely to be available to either short cash/long futures or long cash/short futures traders. Under such conditions, futures prices will reach an equilibrium when the expected return and risk of each type position are equally attractive.
+File-URL: http://journals.cambridge.org/abstract_S002210900001317X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:03:p:343-349_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ogden, Joseph P.
+Author-Name: Tucker, Alan L.
+Title: The Relative Valuation of American Currency Spot and Futures Options: Theory and Empirical Tests
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 351-368
+Issue: 04
+Volume: 23
+Year: 1988
+Month: December 
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S002210900001320X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:04:p:351-368_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Masulis, Ronald W.
+Author-Name: Trueman, Brett
+Title: Corporate Investment and Dividend Decisions under Differential Personal Taxation
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 369-385
+Issue: 04
+Volume: 23
+Year: 1988
+Month: December 
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013211
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:04:p:369-385_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Lewellen, Wilbur G.
+Author-Name: Mauer, David C.
+Title: Tax Options and Corporate Capital Structures
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 387-400
+Issue: 04
+Volume: 23
+Year: 1988
+Month: December 
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013223
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:04:p:387-400_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Spindt, Paul A.
+Author-Name: Hoffmeister, J. Ronald
+Title: The Micromechanics of the Federal Funds Market: Implications for Day-of-the-Week Effects in Funds Rate Variability
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 401-416
+Issue: 04
+Volume: 23
+Year: 1988
+Month: December 
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013235
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:04:p:401-416_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Sanders, Anthony B.
+Author-Name: Unal, Haluk
+Title: On the Intertemporal Behavior of the Short-Term Rate of Interest
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 417-423
+Issue: 04
+Volume: 23
+Year: 1988
+Month: December 
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013247
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:04:p:417-423_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kane, Alex
+Author-Name: Marks, Stephen Gary
+Title: Performance Evaluation of Market Timers: Theory and Evidence
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 425-435
+Issue: 04
+Volume: 23
+Year: 1988
+Month: December 
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013259
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:04:p:425-435_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Overdahl, James A.
+Title: The Early Exercise of Options on Treasury Bond Futures
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 437-449
+Issue: 04
+Volume: 23
+Year: 1988
+Month: December 
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013260
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:04:p:437-449_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Merrick, John J.
+Title: Hedging with Mispriced Futures
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 451-464
+Issue: 04
+Volume: 23
+Year: 1988
+Month: December 
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013272
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:04:p:451-464_01
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Goldenberg, David H.
+Title: Trading Frictions and Futures Price Movements
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 465-481
+Issue: 04
+Volume: 23
+Year: 1988
+Month: December 
+Abstract: 
+File-URL: http://journals.cambridge.org/abstract_S0022109000013284
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:23:y:1988:i:04:p:465-481_01
+
+

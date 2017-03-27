@@ -1,0 +1,299 @@
+﻿
+
+Template-Type: ReDIF-Article 1.0
+Title: A Dynamic Model of Demand for Houses and Neighborhoods 
+Author-Name: Patrick Bayer  
+Author-Name: Robert McMillan  
+Author-Name: Alvin Murphy  
+Author-Name: Christopher Timmins  
+Abstract:
+  This paper develops a dynamic model of neighborhood choice along with a
+ computationally light multi‐step estimator. The proposed empirical
+ framework captures observed and unobserved preference heterogeneity across
+ households and locations in a flexible way. We estimate the model using a
+ newly assembled data set that matches demographic information from
+ mortgage applications to the universe of housing transactions in the San
+ Francisco Bay Area from 1994 to 2004. The results provide the first
+ estimates of the marginal willingness to pay for several non‐marketed
+ amenities—neighborhood air pollution, violent crime, and racial
+ composition—in a dynamic framework. Comparing these estimates with those
+ from a static version of the model highlights several important biases
+ that arise when dynamic considerations are ignored. 
+Journal: Econometrica 
+Pages: 893-942 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:893-942 
+
+Template-Type: ReDIF-Article 1.0
+Title: Buy, Keep, or Sell: Economic Growth and the Market for Ideas 
+Author-Name: Ufuk Akcigit  
+Author-Name: Murat Alp Celik  
+Author-Name: Jeremy Greenwood  
+Abstract:
+  An endogenous growth model is developed where each period firms invest in
+ researching and developing new ideas. An idea increases a firm's
+ productivity. By how much depends on the technological propinquity between
+ an idea and the firm's line of business. Ideas can be bought and sold on a
+ market for patents. A firm can sell an idea that is not relevant to its
+ business or buy one if it fails to innovate. The developed model is
+ matched up with stylized facts about the market for patents in the United
+ States. The analysis gauges how efficiency in the patent market affects
+ growth. 
+Journal: Econometrica 
+Pages: 943-984 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:943-984 
+
+Template-Type: ReDIF-Article 1.0
+Title: Time‐Varying Risk Premium in Large Cross‐Sectional Equity Data Sets 
+Author-Name: Patrick Gagliardini  
+Author-Name: Elisa Ossola  
+Author-Name: Olivier Scaillet  
+Abstract:
+  We develop an econometric methodology to infer the path of risk premia
+ from a large unbalanced panel of individual stock returns. We estimate the
+ time‐varying risk premia implied by conditional linear asset pricing
+ models where the conditioning includes both instruments common to all
+ assets and asset‐specific instruments. The estimator uses simple weighted
+ two‐pass cross‐sectional regressions, and we show its consistency and
+ asymptotic normality under increasing cross‐sectional and time series
+ dimensions. We address consistent estimation of the asymptotic variance by
+ hard thresholding, and testing for asset pricing restrictions induced by
+ the no‐arbitrage assumption. We derive the restrictions given by a
+ continuum of assets in a multi‐period economy under an approximate factor
+ structure robust to asset repackaging. The empirical analysis on returns
+ for about ten thousand U.S. stocks from July 1964 to December 2009 shows
+ that risk premia are large and volatile in crisis periods. They exhibit
+ large positive and negative strays from time‐invariant estimates, follow
+ the macroeconomic cycles, and do not match risk premia estimates on
+ standard sets of portfolios. The asset pricing restrictions are rejected
+ for a conditional four‐factor model capturing market, size, value, and
+ momentum effects. 
+Journal: Econometrica 
+Pages: 985-1046 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:985-1046 
+
+Template-Type: ReDIF-Article 1.0
+Title: No‐Bubble Condition: Model‐Free Tests in Housing Markets 
+Author-Name: Stefano Giglio  
+Author-Name: Matteo Maggiori  
+Author-Name: Johannes Stroebel  
+Abstract:
+  We test for the existence of housing bubbles associated with a failure of
+ the transversality condition that requires the present value of payments
+ occurring infinitely far in the future to be zero. The most prominent such
+ bubble is the classic rational bubble. We study housing markets in the
+ United Kingdom and Singapore, where residential property ownership takes
+ the form of either leaseholds or freeholds. Leaseholds are
+ finite‐maturity, pre‐paid, and tradeable ownership contracts with
+ maturities often exceeding 700 years. Freeholds are infinite‐maturity
+ ownership contracts. The price difference between leaseholds with
+ extremely‐long maturities and freeholds reflects the present value of a
+ claim to the freehold after leasehold expiry, and is thus a direct
+ empirical measure of the transversality condition. We estimate this price
+ difference, and find no evidence of failures of the transversality
+ condition in housing markets in the U.K. and Singapore, even during
+ periods when a sizable bubble was regularly thought to be present. 
+Journal: Econometrica 
+Pages: 1047-1091 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1047-1091 
+
+Template-Type: ReDIF-Article 1.0
+Title: Berk–Nash Equilibrium: A Framework for Modeling Agents With Misspecified Models 
+Author-Name: Ignacio Esponda  
+Author-Name: Demian Pouzo  
+Abstract:
+  We develop an equilibrium framework that relaxes the standard assumption
+ that people have a correctly specified view of their environment. Each
+ player is characterized by a (possibly misspecified) subjective model,
+ which describes the set of feasible beliefs over payoff‐relevant
+ consequences as a function of actions. We introduce the notion of a
+ Berk–Nash equilibrium: Each player follows a strategy that is optimal
+ given her belief, and her belief is restricted to be the best fit among
+ the set of beliefs she considers possible. The notion of best fit is
+ formalized in terms of minimizing the Kullback–Leibler divergence, which
+ is endogenous and depends on the equilibrium strategy profile. Standard
+ solution concepts such as Nash equilibrium and self‐confirming equilibrium
+ constitute special cases where players have correctly specified models. We
+ provide a learning foundation for Berk–Nash equilibrium by extending and
+ combining results from the statistics literature on misspecified learning
+ and the economics literature on learning in games. 
+Journal: Econometrica 
+Pages: 1093-1130 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1093-1130 
+
+Template-Type: ReDIF-Article 1.0
+Title: Reputational Bargaining and Deadlines 
+Author-Name: Jack Fanning  
+Abstract:
+  I highlight how reputational concerns provide a natural explanation for
+ “deadline effects,” the high frequency of deals prior to a deadline in
+ bargaining. Rational agents imitate the demands of obstinate behavioral
+ types and engage in brinkmanship in the face of uncertainty about the
+ deadline's arrival. I also identify how surplus is divided when the prior
+ probability of behavioral types is vanishingly small. If behavioral types
+ are committed to fixed demands, outcomes converge to the Nash bargaining
+ solution regardless of agents' respective impatience. If behavioral types
+ can adopt more complex demand strategies, outcomes converge to the
+ solution of an alternating offers game without behavioral types for the
+ deadline environment. 
+Journal: Econometrica 
+Pages: 1131-1179 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1131-1179 
+
+Template-Type: ReDIF-Article 1.0
+Title: Utilitarian Preferences With Multiple Priors 
+Author-Name: Shiri Alon  
+Author-Name: Gabi Gayer  
+Abstract:
+  This paper proposes a method for aggregating individual preferences in
+ the context of uncertainty. Individuals are assumed to abide by Savage's
+ model of Subjective Expected Utility, in which everyone has his/her own
+ utility and subjective probability. Disagreement on probabilities among
+ individuals gives rise to uncertainty at the societal level, and thus
+ society may entertain a set of probabilities rather than only one. We
+ assume that social preference admits a Maxmin Expected Utility
+ representation. In this context, two Pareto‐type conditions are shown to
+ be equivalent to social utility being a weighted average of individual
+ utilities and the social set of priors containing only weighted averages
+ of individual priors. Thus, society respects consensus among individuals'
+ beliefs and does not add ambiguity beyond disagreement on beliefs. We also
+ deal with the case in which society does not rule out any individual
+ belief. 
+Journal: Econometrica 
+Pages: 1181-1201 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1181-1201 
+
+Template-Type: ReDIF-Article 1.0
+Title: Menu‐Dependent Stochastic Feasibility 
+Author-Name: Richard L. Brady  
+Author-Name: John Rehbeck  
+Abstract:
+  We examine the role of stochastic feasibility in consumer choice using a
+ random conditional choice set rule (RCCSR) and uniquely characterize the
+ model from conditions on stochastic choice data. Feasibility is modeled to
+ permit correlation in availability of alternatives. This provides a
+ natural way to examine substitutability/complementarity. We show that an
+ RCCSR generalizes the random consideration set rule of [Manzini and
+ Mariotti, 2014]. We then relate this model to existing literature. In
+ particular, an RCCSR is not a random utility model. 
+Journal: Econometrica 
+Pages: 1203-1223 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1203-1223 
+
+Template-Type: ReDIF-Article 1.0
+Title: Individual Heterogeneity and Average Welfare 
+Author-Name: Jerry A. Hausman  
+Author-Name: Whitney K. Newey  
+Abstract:
+  Individual heterogeneity is an important source of variation in demand.
+ Allowing for general heterogeneity is needed for correct welfare
+ comparisons. We consider general heterogeneous demand where preferences
+ and linear budget sets are statistically independent. Only the marginal
+ distribution of demand for each price and income is identified from
+ cross‐section data where only one price and income is observed for each
+ individual. Thus, objects that depend on varying price and/or income for
+ an individual are not generally identified, including average exact
+ consumer surplus. We use bounds on income effects to derive relatively
+ simple bounds on the average surplus, including for discrete/continuous
+ choice. We also sketch an approach to bounding surplus that does not use
+ income effect bounds. We apply the results to gasoline demand. We find
+ tight bounds for average surplus in this application, but wider bounds for
+ average deadweight loss. 
+Journal: Econometrica 
+Pages: 1225-1248 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1225-1248 
+
+Template-Type: ReDIF-Article 1.0
+Title: A Geometric Approach to Nonlinear Econometric Models 
+Author-Name: Isaiah Andrews  
+Author-Name: Anna Mikusheva  
+Abstract:
+  Conventional tests for composite hypotheses in minimum distance models
+ can be unreliable when the relationship between the structural and
+ reduced‐form parameters is highly nonlinear. Such nonlinearity may arise
+ for a variety of reasons, including weak identification. In this note, we
+ begin by studying the problem of testing a “curved null” in a
+ finite‐sample Gaussian model. Using the curvature of the model, we develop
+ new finite‐sample bounds on the distribution of minimum‐distance
+ statistics. These bounds allow us to construct tests for composite
+ hypotheses which are uniformly asymptotically valid over a large class of
+ data generating processes and structural models. 
+Journal: Econometrica 
+Pages: 1249-1264 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1249-1264 
+
+Template-Type: ReDIF-Article 1.0
+Title: Shadow Insurance 
+Author-Name: Ralph S. J. Koijen  
+Author-Name: Motohiro Yogo  
+Abstract:
+  Life insurers use reinsurance to move liabilities from regulated and
+ rated companies that sell policies to shadow reinsurers, which are less
+ regulated and unrated off‐balance‐sheet entities within the same insurance
+ group. U.S. life insurance and annuity liabilities ceded to shadow
+ reinsurers grew from $11 billion in 2002 to $364 billion in 2012. Life
+ insurers using shadow insurance, which capture half of the market share,
+ ceded 25 cents of every dollar insured to shadow reinsurers in 2012, up
+ from 2 cents in 2002. By relaxing capital requirements, shadow insurance
+ could reduce the marginal cost of issuing policies and thereby improve
+ retail market efficiency. However, shadow insurance could also reduce
+ risk‐based capital and increase expected loss for the industry. We model
+ and quantify these effects based on publicly available data and plausible
+ assumptions. 
+Journal: Econometrica 
+Pages: 1265-1287 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1265-1287 

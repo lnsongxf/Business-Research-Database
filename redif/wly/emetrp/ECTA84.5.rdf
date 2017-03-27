@@ -1,0 +1,241 @@
+﻿
+
+Template-Type: ReDIF-Article 1.0
+Title: A Theory of Macroprudential Policies in the Presence of Nominal Rigidities 
+Author-Name: Emmanuel Farhi  
+Author-Name: Iván Werning  
+Abstract:
+  We propose a theory of monetary policy and macroprudential interventions
+ in financial markets. We focus on economies with nominal rigidities in
+ goods and labor markets and subject to constraints on monetary policy,
+ such as the zero lower bound or fixed exchange rates. We identify an
+ aggregate demand externality that can be corrected by macroprudential
+ interventions in financial markets. Ex post, the distribution of wealth
+ across agents affects aggregate demand and output. Ex ante, however, these
+ effects are not internalized in private financial decisions. We provide a
+ simple formula for the required financial interventions that depends on a
+ small number of measurable sufficient statistics. We also characterize
+ optimal monetary policy. We extend our framework to incorporate pecuniary
+ externalities, providing a unified approach to both externalities.
+ Finally, we provide a number of applications which illustrate the
+ relevance of our theory. 
+Journal: Econometrica 
+Pages: 1645-1704 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1645-1704 
+
+Template-Type: ReDIF-Article 1.0
+Title: Female Labor Supply, Human Capital, and Welfare Reform 
+Author-Name: Richard Blundell  
+Author-Name: Monica Costa Dias  
+Author-Name: Costas Meghir  
+Author-Name: Jonathan Shaw  
+Abstract:
+  We estimate a dynamic model of employment, human capital
+ accumulation—including education, and savings for women in the United
+ Kingdom, exploiting tax and benefit reforms, and use it to analyze the
+ effects of welfare policy. We find substantial elasticities for labor
+ supply and particularly for lone mothers. Returns to experience, which are
+ important in determining the longer‐term effects of policy, increase with
+ education, but experience mainly accumulates when in full‐time employment.
+ Tax credits are welfare improving in the U.K., increase lone‐mother labor
+ supply and marginally reduce educational attainment, but the employment
+ effects do not extend beyond the period of eligibility. Marginal increases
+ in tax credits improve welfare more than equally costly increases in
+ income support or tax cuts. 
+Journal: Econometrica 
+Pages: 1705-1753 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1705-1753 
+
+Template-Type: ReDIF-Article 1.0
+Title: An Empirical Equilibrium Model of a Decentralized Asset Market 
+Author-Name: Alessandro Gavazza  
+Abstract:
+  I estimate a search‐and‐bargaining model of a decentralized market to
+ quantify the effects of trading frictions on asset allocations, asset
+ prices, and welfare, and to quantify the effects of intermediaries that
+ facilitate trade. Using business‐aircraft data, I find that, relative to
+ the Walrasian benchmark, 18.3 percent of the assets are misallocated;
+ prices are 19.2 percent lower; and the aggregate welfare losses equal 23.9
+ percent. Dealers play an important role in reducing trading frictions: In
+ a market with no dealers, a larger fraction of assets would be
+ misallocated, and prices would be higher. However, dealers reduce
+ aggregate welfare because their operations are costly, and they impose a
+ negative externality by decreasing the number of agents' direct
+ transactions. 
+Journal: Econometrica 
+Pages: 1755-1798 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1755-1798 
+
+Template-Type: ReDIF-Article 1.0
+Title: Robust Confidence Regions for Incomplete Models 
+Author-Name: Larry G. Epstein  
+Author-Name: Hiroaki Kaido  
+Author-Name: Kyoungwon Seo  
+Abstract:
+  Call an economic model incomplete if it does not generate a probabilistic
+ prediction even given knowledge of all parameter values. We propose a
+ method of inference about unknown parameters for such models that is
+ robust to heterogeneity and dependence of unknown form. The key is a
+ Central Limit Theorem for belief functions; robust confidence regions are
+ then constructed in a fashion paralleling the classical approach. Monte
+ Carlo simulations support tractability of the method and demonstrate its
+ enhanced robustness relative to existing methods. 
+Journal: Econometrica 
+Pages: 1799-1838 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1799-1838 
+
+Template-Type: ReDIF-Article 1.0
+Title: Consistent Probabilistic Social Choice 
+Author-Name: Florian Brandl  
+Author-Name: Felix Brandt  
+Author-Name: Hans Georg Seedig  
+Abstract:
+  Two fundamental axioms in social choice theory are consistency with
+ respect to a variable electorate and consistency with respect to
+ components of similar alternatives. In the context of traditional
+ non‐probabilistic social choice, these axioms are incompatible with each
+ other. We show that in the context of probabilistic social choice, these
+ axioms uniquely characterize a function proposed by Fishburn (1984).
+ Fishburn's function returns so‐called maximal lotteries, that is,
+ lotteries that correspond to optimal mixed strategies in the symmetric
+ zero‐sum game induced by the pairwise majority margins. Maximal lotteries
+ are guaranteed to exist due to von Neumann's Minimax Theorem, are almost
+ always unique, and can be efficiently computed using linear programming. 
+Journal: Econometrica 
+Pages: 1839-1880 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1839-1880 
+
+Template-Type: ReDIF-Article 1.0
+Title: The Effect of Changes in Risk Attitude on Strategic Behavior 
+Author-Name: Jonathan Weinstein  
+Abstract:
+  We study families of normal‐form games with fixed preferences over pure
+ action profiles but varied preferences over lotteries. That is, we subject
+ players' utilities to monotone but nonlinear transformations and examine
+ changes in the rationalizable set and set of equilibria. Among our
+ results: The rationalizable set always grows under concave transformations
+ (risk aversion) and shrinks under convex transformations (risk love). The
+ rationalizable set reaches an upper bound under extreme risk aversion, and
+ lower bound under risk love, and both of these bounds are characterized by
+ elimination processes. For generic two‐player games, under extreme risk
+ love or aversion, all Nash equilibria are close to pure and the limiting
+ set of equilibria can be described using preferences over pure action
+ profiles. 
+Journal: Econometrica 
+Pages: 1881-1902 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1881-1902 
+
+Template-Type: ReDIF-Article 1.0
+Title: A Note on Comparative Ambiguity Aversion and Justifiability 
+Author-Name: P. Battigalli  
+Author-Name: S. Cerreia‐Vioglio  
+Author-Name: F. Maccheroni  
+Author-Name: M. Marinacci  
+Abstract:
+  We consider a decision maker who ranks actions according to the smooth
+ ambiguity criterion of Klibanoff, Marinacci, and Mukerji (2005). An action
+ is justifiable if it is a best reply to some belief over probabilistic
+ models. We show that higher ambiguity aversion expands the set of
+ justifiable actions. A similar result holds for risk aversion. Our results
+ follow from a generalization of the duality lemma of Wald (1949) and
+ Pearce (1984). 
+Journal: Econometrica 
+Pages: 1903-1916 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1903-1916 
+
+Template-Type: ReDIF-Article 1.0
+Title: Farms, Families, and Markets: New Evidence on Completeness of Markets in Agricultural Settings 
+Author-Name: Daniel LaFave  
+Author-Name: Duncan Thomas  
+Abstract:
+  The farm household model has played a central role in improving the
+ understanding of small‐scale agricultural households and non‐farm
+ enterprises. Under the assumptions that all current and future markets
+ exist and that farmers treat all prices as given, the model simplifies
+ households' simultaneous production and consumption decisions into a
+ recursive form in which production can be treated as independent of
+ preferences of household members. These assumptions, which are the
+ foundation of a large literature in labor and development, have been
+ tested and not rejected in several important studies including Benjamin
+ (1992). Using multiple waves of longitudinal survey data from Central
+ Java, Indonesia, this paper tests a key prediction of the recursive model:
+ demand for farm labor is unrelated to the demographic composition of the
+ farm household. The prediction is unambiguously rejected. The rejection
+ cannot be explained by contamination due to unobserved heterogeneity that
+ is fixed at the farm level, local area shocks, or farm‐specific shocks
+ that affect changes in household composition and farm labor demand. We
+ conclude that the recursive form of the farm household model is not
+ consistent with the data. Developing empirically tractable models of farm
+ households when markets are incomplete remains an important challenge. 
+Journal: Econometrica 
+Pages: 1917-1960 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1917-1960 
+
+Template-Type: ReDIF-Article 1.0
+Title: Large Market Asymptotics for Differentiated Product Demand Estimators With Economic Models of Supply 
+Author-Name: Timothy B. Armstrong  
+Abstract:
+  IO economists often estimate demand for differentiated products using
+ data sets with a small number of large markets. This paper addresses the
+ question of consistency and asymptotic distributions of instrumental
+ variables estimates as the number of products increases in some commonly
+ used models of demand under conditions on economic primitives. I show
+ that, in a Bertrand–Nash equilibrium, product characteristics lose their
+ identifying power as price instruments in the limit in certain cases,
+ leading to inconsistent estimates. The reason is that product
+ characteristic instruments achieve identification through correlation with
+ markups, and, depending on the model of demand, the supply side can
+ constrain markups to converge to a constant quickly relative to sampling
+ error. I find that product characteristic instruments can yield consistent
+ estimates in many of the cases I consider, but care must be taken in
+ modeling demand and choosing instruments. A Monte Carlo study confirms
+ that the asymptotic results are relevant in market sizes of practical
+ importance. 
+Journal: Econometrica 
+Pages: 1961-1980 
+Issue:  
+Volume: 84 
+Year: 2016 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:84:y:2016:i::p:1961-1980 

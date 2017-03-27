@@ -1,0 +1,298 @@
+﻿
+
+Template-Type: ReDIF-Article 1.0
+Title: Dynamic Preference for Flexibility 
+Author-Name: R. Vijay Krishna  
+Author-Name: Philipp Sadowski  
+Abstract:
+  We consider a decision maker who faces dynamic decision situations that
+ involve intertemporal trade‐offs, as in consumption–savings problems, and
+ who experiences taste shocks that are transient contingent on the state of
+ the world. We axiomatize a recursive representation of choice over state
+ contingent infinite horizon consumption problems, where uncertainty about
+ consumption utilities depends on the observable state and the state
+ follows a subjective Markov process. The parameters of the representation
+ are the subjective process that governs the evolution of beliefs over
+ consumption utilities and the discount factor; they are uniquely
+ identified from behavior. We characterize a natural notion of greater
+ preference for flexibility in terms of a dilation of beliefs. An important
+ special case of our representation is a recursive version of the
+ Anscombe–Aumann model with parameters that include a subjective Markov
+ process over states and state‐dependent utilities, all of which are
+ uniquely identified. 
+Journal: Econometrica 
+Pages: 655-703 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:655-703 
+
+Template-Type: ReDIF-Article 1.0
+Title: Hazardous Times for Monetary Policy: What Do Twenty‐Three Million Bank Loans Say About the Effects of Monetary Policy on Credit Risk‐Taking? 
+Author-Name: Gabriel Jiménez  
+Author-Name: Steven Ongena  
+Author-Name: José‐Luis Peydró  
+Author-Name: Jesús Saurina  
+Abstract:
+  We identify the effects of monetary policy on credit risk‐taking with an
+ exhaustive credit register of loan applications and contracts. We separate
+ the changes in the composition of the supply of credit from the concurrent
+ changes in the volume of supply and quality, and the volume of demand. We
+ employ a two‐stage model that analyzes the granting of loan applications
+ in the first stage and loan outcomes for the applications granted in the
+ second stage, and that controls for both observed and unobserved,
+ time‐varying, firm and bank heterogeneity through time firm and time bank
+ fixed effects. We find that a lower overnight interest rate induces lowly
+ capitalized banks to grant more loan applications to ex ante risky firms
+ and to commit larger loan volumes with fewer collateral requirements to
+ these firms, yet with a higher ex post likelihood of default. A lower
+ long‐term interest rate and other relevant macroeconomic variables have no
+ such effects. 
+Journal: Econometrica 
+Pages: 463-505 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:463-505 
+
+Template-Type: ReDIF-Article 1.0
+Title: Dynamic Mechanism Design: A Myersonian Approach 
+Author-Name: Alessandro Pavan  
+Author-Name: Ilya Segal  
+Author-Name: Juuso Toikka  
+Abstract:
+  We study mechanism design in dynamic quasilinear environments where
+ private information arrives over time and decisions are made over multiple
+ periods. We make three contributions. First, we provide a necessary
+ condition for incentive compatibility that takes the form of an envelope
+ formula for the derivative of an agent's equilibrium expected payoff with
+ respect to his current type. It combines the familiar marginal effect of
+ types on payoffs with novel marginal effects of the current type on future
+ ones that are captured by “impulse response functions.” The formula yields
+ an expression for dynamic virtual surplus that is instrumental to the
+ design of optimal mechanisms and to the study of distortions under such
+ mechanisms. Second, we characterize the transfers that satisfy the
+ envelope formula and establish a sense in which they are pinned down by
+ the allocation rule (“revenue equivalence”). Third, we characterize
+ perfect Bayesian equilibrium‐implementable allocation rules in Markov
+ environments, which yields tractable sufficient conditions that facilitate
+ novel applications. We illustrate the results by applying them to the
+ design of optimal mechanisms for the sale of experience goods (“bandit
+ auctions”). 
+Journal: Econometrica 
+Pages: 601-653 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:601-653 
+
+Template-Type: ReDIF-Article 1.0
+Title: Identifying Treatment Effects Under Data Combination 
+Author-Name: Yanqin Fan  
+Author-Name: Robert Sherman  
+Author-Name: Matthew Shum  
+Abstract:
+  We consider the identification of counterfactual distributions and
+ treatment effects when the outcome variables and conditioning covariates
+ are observed in separate data sets. Under the standard selection on
+ observables assumption, the counterfactual distributions and treatment
+ effect parameters are no longer point identified. However, applying the
+ classical monotone rearrangement inequality, we derive sharp bounds on the
+ counterfactual distributions and policy parameters of interest. 
+Journal: Econometrica 
+Pages: 811-822 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:811-822 
+
+Template-Type: ReDIF-Article 1.0
+Title: Non‐Manipulable House Allocation With Rent Control 
+Author-Name: Tommy Andersson  
+Author-Name: Lars‐Gunnar Svensson  
+Abstract:
+  In many real‐life house allocation problems, rents are bounded from above
+ by price ceilings imposed by a government or a local administration. This
+ is known as rent control. Because some price equilibria may be
+ disqualified given such restrictions, this paper proposes an alternative
+ equilibrium concept, called rationing price equilibrium, tailored to
+ capture the specific features of housing markets with rent control. An
+ allocation rule that always selects a rationing price equilibrium is
+ defined, and it is demonstrated to be constrained efficient and (group)
+ non‐manipulable for “almost all” preference profiles. In its bounding
+ cases, the rule reduces to a number of well‐known mechanisms from the
+ matching literature. In this sense, the housing market with rent control
+ investigated in this paper integrates several of the predominant matching
+ models into a more general framework. 
+Journal: Econometrica 
+Pages: 507-539 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:507-539 
+
+Template-Type: ReDIF-Article 1.0
+Title: Stable Matching With Incomplete Information 
+Author-Name: Qingmin Liu  
+Author-Name: George J. Mailath  
+Author-Name: Andrew Postlewaite  
+Author-Name: Larry Samuelson  
+Abstract:
+  We formulate a notion of stable outcomes in matching problems with
+ one‐sided asymmetric information. The key conceptual problem is to
+ formulate a notion of a blocking pair that takes account of the inferences
+ that the uninformed agent might make. We show that the set of stable
+ outcomes is nonempty in incomplete‐information environments, and is a
+ superset of the set of complete‐information stable outcomes. We then
+ provide sufficient conditions for incomplete‐information stable matchings
+ to be efficient. Lastly, we define a notion of price‐sustainable
+ allocations and show that the set of incomplete‐information stable
+ matchings is a subset of the set of such allocations. 
+Journal: Econometrica 
+Pages: 541-587 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:541-587 
+
+Template-Type: ReDIF-Article 1.0
+Title: Preference Aggregation With Incomplete Information 
+Author-Name: Christopher P. Chambers  
+Author-Name: Takashi Hayashi  
+Abstract:
+  We show in an environment of incomplete information that monotonicity and
+ the Pareto property applied only when there is common knowledge of Pareto
+ dominance imply (i) there must exist a common prior over the smallest
+ common knowledge event, and (ii) aggregation must be ex ante and ex post
+ utilitarian with respect to that common prior and individual von
+ Neumann–Morgenstern utility indices. 
+Journal: Econometrica 
+Pages: 589-599 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:589-599 
+
+Template-Type: ReDIF-Article 1.0
+Title: Optimal Test for Markov Switching Parameters 
+Author-Name: Marine Carrasco  
+Author-Name: Liang Hu  
+Author-Name: Werner Ploberger  
+Abstract:
+  This paper proposes a class of optimal tests for the constancy of
+ parameters in random coefficients models. Our testing procedure covers the
+ class of Hamilton's models, where the parameters vary according to an
+ unobservable Markov chain, but also applies to nonlinear models where the
+ random coefficients need not be Markov. We show that the contiguous
+ alternatives converge to the null hypothesis at a rate that is slower than
+ the standard rate. Therefore, standard approaches do not apply. We use
+ Bartlett‐type identities for the construction of the test statistics. This
+ has several desirable properties. First, it only requires estimating the
+ model under the null hypothesis where the parameters are constant. Second,
+ the proposed test is asymptotically optimal in the sense that it maximizes
+ a weighted power function. We derive the asymptotic distribution of our
+ test under the null and local alternatives. Asymptotically valid bootstrap
+ critical values are also proposed. 
+Journal: Econometrica 
+Pages: 765-784 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:765-784 
+
+Template-Type: ReDIF-Article 1.0
+Title: Returns to Tenure or Seniority? 
+Author-Name: I. Sebastian Buhai  
+Author-Name: Miguel A. Portela  
+Author-Name: Coen N. Teulings  
+Author-Name: Aico van Vuuren  
+Abstract:
+  This study documents two empirical facts using matched employer–employee
+ data for Denmark and Portugal. First, workers who are hired last, are the
+ first to leave the firm. Second, workers' wages rise with seniority, where
+ seniority is defined as a worker's tenure relative to the tenure of his
+ colleagues. Controlling for tenure, the probability of a worker leaving
+ the firm decreases with seniority. The increase in expected seniority with
+ tenure explains a large part of the negative duration dependence of the
+ separation hazard. Conditional on ten years of tenure, the wage
+ differential between the 10th and the 90th percentiles of the seniority
+ distribution is 1.1–1.4 percentage points in Denmark and 2.3–3.4 in
+ Portugal. 
+Journal: Econometrica 
+Pages: 705-730 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:705-730 
+
+Template-Type: ReDIF-Article 1.0
+Title: Macroeconomic Implications of Agglomeration 
+Author-Name: Morris A. Davis  
+Author-Name: Jonas D. M. Fisher  
+Author-Name: Toni M. Whited  
+Abstract:
+  Cities exist because of the productivity gains that arise from clustering
+ production and workers, a process called agglomeration. How important is
+ agglomeration for aggregate growth? This paper constructs a dynamic
+ stochastic general equilibrium model of cities and uses it to estimate the
+ effect of local agglomeration on aggregate growth. We combine aggregate
+ time‐series and city‐level panel data to estimate the model's parameters
+ via generalized method of moments. The estimates imply a statistically and
+ economically significant impact of local agglomeration on the growth rate
+ of per capita consumption, raising it by about 10%. 
+Journal: Econometrica 
+Pages: 731-764 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:731-764 
+
+Template-Type: ReDIF-Article 1.0
+Title: Local Identification of Nonparametric and Semiparametric Models 
+Author-Name: Xiaohong Chen  
+Author-Name: Victor Chernozhukov  
+Author-Name: Sokbae Lee  
+Author-Name: Whitney K. Newey  
+Abstract:
+  In parametric, nonlinear structural models, a classical sufficient
+ condition for local identification, like Fisher (1966) and Rothenberg
+ (1971), is that the vector of moment conditions is differentiable at the
+ true parameter with full rank derivative matrix. We derive an analogous
+ result for the nonparametric, nonlinear structural models, establishing
+ conditions under which an infinite dimensional analog of the full rank
+ condition is sufficient for local identification. Importantly, we show
+ that additional conditions are often needed in nonlinear, nonparametric
+ models to avoid nonlinearities overwhelming linear effects. We give
+ restrictions on a neighborhood of the true value that are sufficient for
+ local identification. We apply these results to obtain new, primitive
+ identification conditions in several important models, including
+ nonseparable quantile instrumental variable (IV) models and semiparametric
+ consumption‐based asset pricing models. 
+Journal: Econometrica 
+Pages: 785-809 
+Issue: 2 
+Volume: 82 
+Year: 2014 
+Month: 03 
+File-URL: http://hdl.handle.net/10.1111/ecta.2014.82.issue-2.x 
+Handle: RePEc:wly:emetrp:v:82:y:2014:i:2:p:785-809 

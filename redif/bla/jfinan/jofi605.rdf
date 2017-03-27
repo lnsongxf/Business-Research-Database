@@ -1,0 +1,351 @@
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: RONALD L. GOETTLER 
+Author-Name: CHRISTINE A. PARLOUR 
+Author-Name: UDAY RAJAN 
+Title: Equilibrium in a Dynamic Limit Order Market 
+Abstract:
+ We model a dynamic limit order market as a stochastic sequential game with
+ rational traders. Since the model is analytically intractable, we provide
+ an algorithm based on <link rid="b43">Pakes and McGuire (2001)</link> to
+ find a stationary Markov-perfect equilibrium. We then generate artificial
+ time series and perform comparative dynamics. Conditional on a
+ transaction, the midpoint of the quoted prices is not a good proxy for the
+ true value. Further, transaction costs paid by market order submitters are
+ negative on average, and negatively correlated with the effective spread.
+ Reducing the tick size is not Pareto improving but increases total
+ investor surplus. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2149-2192 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00795.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2149-2192 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: ARTURO BRIS 
+Author-Name: IVO WELCH 
+Title: The Optimal Concentration of Creditors 
+Abstract:
+ Our model assumes that creditors need to expend resources to collect on
+ claims. Consequently, because diffuse creditors suffer from mutual
+ free-riding (<link rid="b13">Holmstrom (1982)</link>), they fare worse
+ than concentrated creditors (e.g., a house bank). The model predicts that
+ measures of debt concentration relate positively to creditors' (aggregate)
+ debt collection expenditures and positively to management's chosen
+ expenditures to resist paying. However, collection activity is purely
+ redistributive, so social waste is larger when creditors are concentrated.
+ If borrower quality is not known, the best firms choose the most
+ concentrated creditors and pay higher expected yields. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2193-2212 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00796.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2193-2212 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: FRANCIS A. LONGSTAFF 
+Author-Name: SANJAY MITHAL 
+Author-Name: ERIC NEIS 
+Title: Corporate Yield Spreads: Default Risk or Liquidity? New Evidence from the Credit Default Swap Market 
+Abstract:
+ We use the information in credit default swaps to obtain direct measures
+ of the size of the default and nondefault components in corporate spreads.
+ We find that the majority of the corporate spread is due to default risk.
+ This result holds for all rating categories and is robust to the
+ definition of the riskless curve. We also find that the nondefault
+ component is time varying and strongly related to measures of
+ bond-specific illiquidity as well as to macroeconomic measures of bond
+ market liquidity. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2213-2253 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00797.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2213-2253 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: ROBERTO BLANCO 
+Author-Name: SIMON BRENNAN 
+Author-Name: IAN W. MARSH 
+Title: An Empirical Analysis of the Dynamic Relation between Investment-Grade Bonds and Credit Default Swaps 
+Abstract:
+ We test the theoretical equivalence of credit default swap (CDS) prices
+ and credit spreads derived by <link rid="b13">Duffie (1999)</link>,
+ finding support for the parity relation as an equilibrium condition. We
+ also find two forms of deviation from parity. First, for three firms, CDS
+ prices are substantially higher than credit spreads for long periods of
+ time, arising from combinations of imperfections in the contract
+ specification of CDSs and measurement errors in computing the credit
+ spread. Second, we find short-lived deviations from parity for all other
+ companies due to a lead for CDS prices over credit spreads in the price
+ discovery process. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2255-2281 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00798.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2255-2281 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: JAIME CASASSUS 
+Author-Name: PIERRE COLLIN-DUFRESNE 
+Title: Stochastic Convenience Yield Implied from Commodity Futures and Interest Rates 
+Abstract:
+ We characterize a three-factor model of commodity spot prices, convenience
+ yields, and interest rates, which nests many existing specifications. The
+ model allows convenience yields to depend on spot prices and interest
+ rates. It also allows for time-varying risk premia. Both may induce mean
+ reversion in spot prices, albeit with very different economic
+ implications. Empirical results show strong evidence for spot-price level
+ dependence in convenience yields for crude oil and copper, which implies
+ mean reversion in prices under the risk-neutral measure. Silver, gold, and
+ copper exhibit time variation in risk premia that implies mean reversion
+ of prices under the physical measure. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2283-2331 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00799.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2283-2331 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: SUDIP DATTA 
+Author-Name: MAI ISKANDAR-DATTA 
+Author-Name: KARTIK RAMAN 
+Title: Managerial Stock Ownership and the Maturity Structure of Corporate Debt 
+Abstract:
+ This study documents that managerial stock ownership plays an important
+ role in determining corporate debt maturity. Controlling for previously
+ identified determinants of debt maturity and modeling leverage and debt
+ maturity as jointly endogenous, we document a significant and robust
+ inverse relation between managerial stock ownership and corporate debt
+ maturity. We also show that managerial stock ownership influences the
+ relation between credit quality and debt maturity and between growth
+ opportunities and debt maturity. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2333-2350 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00800.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2333-2350 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: BENJAMIN E. HERMALIN 
+Title: Trends in Corporate Governance 
+Abstract:
+ The popular press and scholarly studies have noted a number of trends in
+ corporate governance. This article addresses, from a theoretical
+ perspective, whether these trends are linked. And, if so, how? The article
+ finds that a trend toward greater board diligence will lead, sometimes
+ through subtle or indirect mechanisms, to trends toward more external
+ candidates becoming CEO, shorter tenures for CEOs, more effort/less
+ perquisite consumption by CEOs (even though such behavior is "not"
+ directly monitored), and greater CEO compensation. An additional
+ prediction is that, under plausible conditions, externally hired CEOs
+ should have shorter tenures, on average, than internally hired CEOs. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2351-2384 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00801.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2351-2384 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: MYRON B. SLOVIN 
+Author-Name: MARIE E. SUSHKA 
+Author-Name: JOHN A. POLONCHEK 
+Title: Methods of Payment in Asset Sales: Contracting with Equity versus Cash 
+Abstract:
+ We analyze intercorporate asset sales where equity is the means of
+ payment, and compare the results to cash asset sales. Equity deals are
+ value-enhancing for both buyers, 10%, and sellers, 3%, while cash sales
+ generate seller returns of 1.9% and buyer returns that are not
+ significant. Combined wealth gains are large for equity deals, but modest
+ for cash deals. Equity-based asset sales are not a precursor to
+ consolidations between buyers and sellers, and do not affect buyer
+ openness to the takeover market. We conclude that the use of buyer equity
+ conveys favorable information about the value of assets and buyers. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2385-2407 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00802.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2385-2407 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: JIANPING MEI 
+Author-Name: MICHAEL MOSES 
+Title: Vested Interest and Biased Price Estimates: Evidence from an Auction Market 
+Abstract:
+ This study employs a new data set from art auctions to examine the
+ relationship between auctioneer presale price estimates and the long-term
+ performance of artworks. We find that the price estimates for expensive
+ paintings have a consistent upward bias over a long period of 30 years.
+ High estimates at the time of purchase are associated with adverse
+ subsequent abnormal returns. Moreover, the estimation error for individual
+ paintings tends to persist over time. These results are consistent with
+ the view that auction house price estimates are affected by agency
+ problems and that some investors are credulous. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2409-2435 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00803.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2409-2435 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: CHITRU S. FERNANDO 
+Author-Name: VLADIMIR A. GATCHEV 
+Author-Name: PAUL A. SPINDT 
+Title: Wanna Dance? How Firms and Underwriters Choose Each Other 
+Abstract:
+ We develop and test a theory explaining the equilibrium matching of
+ issuers and underwriters. We assume that issuers and underwriters
+ associate by mutual choice, and that underwriter ability and issuer
+ quality are complementary. Our model implies that matching is positive
+ assortative, and that matches are based on firms' and underwriters'
+ relative characteristics at the time of issuance. The model predicts that
+ the market share of top underwriters and their average issue quality
+ varies inversely with issuance volume. Various cross-sectional patterns in
+ underwriting spreads are consistent with equilibrium matching. We find
+ strong empirical confirmation of our theory. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2437-2469 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00804.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2437-2469 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: MUKARRAM ATTARI 
+Author-Name: ANTONIO S. MELLO 
+Author-Name: MARTIN E. RUCKES 
+Title: Arbitraging Arbitrageurs 
+Abstract:
+ This paper develops a theory of strategic trading in markets with large
+ arbitrageurs. If arbitrageurs are not well capitalized, capital
+ constraints make their trades predictable. Other market participants can
+ exploit this by trading against them. Competitors may find it optimal to
+ lend to arbitrageurs that are financially fragile; additional capital
+ makes the arbitrageurs more viable, and lenders can reap profits from
+ trading against them for a longer time. The strategic behavior of these
+ market participants has implications for the functioning of financial
+ markets. Strategic trading may produce significant price distortions,
+ increase price manipulation, and trigger forced liquidations of large
+ traders. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2471-2511 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00805.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2471-2511 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: WOUTER DESSEIN 
+Title: Information and Control in Ventures and Alliances 
+Abstract:
+ This paper develops a theory of control as a signal of congruence of
+ objectives, and applies it to financial contracting between an investor
+ and a privately informed entrepreneur. We show that formal investor
+ control is (i) increasing in the information asymmetries ex ante, (ii)
+ increasing in the uncertainty surrounding the venture ex post, (iii)
+ decreasing in the entrepreneur's resources, and (iv) increasing in the
+ entrepreneur's incentive conflict. In contrast, real investor control-that
+ is, actual investor interference-is decreasing in information asymmetries.
+ Control rights are further such that control shifts to the investor in bad
+ states of nature. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2513-2549 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00806.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2513-2549 
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: GREGORY R. DURHAM 
+Author-Name: MICHAEL G. HERTZEL 
+Author-Name: J. SPENCER MARTIN 
+Title: The Market Impact of Trends and Sequences in Performance: New Evidence 
+Abstract:
+ <link rid="b6">Bloomfield and Hales (2002)</link> find strong evidence
+ that experimental market subjects are influenced by trends and patterns in
+ a manner supportive of the shifting regimes model of <link
+ rid="b3">Barberis, Shleifer, and Vishny (1998)</link>. We subject the
+ model to further empirical scrutiny using the football wagering market as
+ our price laboratory. Sports betting markets have several advantages over
+ traditional capital markets as an empirical setting, and commonalities
+ with traditional markets allow for useful insights. We find scant evidence
+ that investors behave in accordance with the model. Copyright 2005 by The American Finance Association. 
+Journal: The Journal of Finance 
+Pages: 2551-2569 
+Issue: 5 
+Volume: 60 
+Year: 2005 
+Month: 10 
+File-URL: http://www.blackwell-synergy.com/doi/abs/10.1111/j.1540-6261.2005.00807.x
+File-Format: text/html
+File-Function: link to full text
+File-Restriction: Access to full text is restricted to subscribers. 
+Handle: RePEc:bla:jfinan:v:60:y:2005:i:5:p:2551-2569 

@@ -1,0 +1,302 @@
+﻿
+
+Template-Type: ReDIF-Article 1.0
+Title: A Theory of the Stakeholder Corporation 
+Author-Name: Michael Magill  
+Author-Name: Martine Quinzii  
+Author-Name: Jean‐Charles Rochet  
+Abstract:
+  There is a widely held view within the general public that large
+ corporations should act in the interests of a broader group of agents than
+ just their shareholders (the stakeholder view). This paper presents a
+ framework where this idea can be justified. The point of departure is the
+ observation that a large firm typically faces endogenous risks that may
+ have a significant impact on the workers it employs and the consumers it
+ serves. These risks generate externalities on these stakeholders which are
+ not internalized by shareholders. As a result, in the competitive
+ equilibrium, there is under‐investment in the prevention of these risks.
+ We suggest that this under‐investment problem can be alleviated if firms
+ are instructed to maximize the total welfare of their stakeholders rather
+ than shareholder value alone (stakeholder equilibrium). The stakeholder
+ equilibrium can be implemented by introducing new property rights
+ (employee rights and consumer rights) and instructing managers to maximize
+ the total value of the firm (the value of these rights plus shareholder
+ value). If there is only one firm, the stakeholder equilibrium is Pareto
+ optimal. However, this is not true with more than one firm and/or
+ heterogeneous agents, which illustrates some of the limits of the
+ stakeholder model. 
+Journal: Econometrica 
+Pages: 1685-1725 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:1685-1725 
+
+Template-Type: ReDIF-Article 1.0
+Title: Knightian Analysis of the Vickrey Mechanism 
+Author-Name: Alessandro Chiesa  
+Author-Name: Silvio Micali  
+Author-Name: Zeyuan Allen Zhu  
+Abstract:
+  We analyze the Vickrey mechanism for auctions of multiple identical goods
+ when the players have both Knightian uncertainty over their own valuations
+ and incomplete preferences. In this model, the Vickrey mechanism is no
+ longer dominant‐strategy, and we prove that all dominant‐strategy
+ mechanisms are inadequate. However, we also prove that, in undominated
+ strategies, the social welfare produced by the Vickrey mechanism in the
+ worst case is not only very good, but also essentially optimal. 
+Journal: Econometrica 
+Pages: 1727-1754 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:1727-1754 
+
+Template-Type: ReDIF-Article 1.0
+Title: Strategic Learning and the Topology of Social Networks 
+Author-Name: Elchanan Mossel  
+Author-Name: Allan Sly  
+Author-Name: Omer Tamuz  
+Abstract:
+  We consider a group of strategic agents who must each repeatedly take one
+ of two possible actions. They learn which of the two actions is preferable
+ from initial private signals and by observing the actions of their
+ neighbors in a social network. We show that the question of whether or not
+ the agents learn efficiently depends on the topology of the social
+ network. In particular, we identify a geometric “egalitarianism” condition
+ on the social network that guarantees learning in infinite networks, or
+ learning with high probability in large finite networks, in any
+ equilibrium. We also give examples of nonegalitarian networks with
+ equilibria in which learning fails. 
+Journal: Econometrica 
+Pages: 1755-1794 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:1755-1794 
+
+Template-Type: ReDIF-Article 1.0
+Title: Truthful Equilibria in Dynamic Bayesian Games 
+Author-Name: Johannes Hörner  
+Author-Name: Satoru Takahashi  
+Author-Name: Nicolas Vieille  
+Abstract:
+  This paper characterizes an equilibrium payoff subset for dynamic
+ Bayesian games as discounting vanishes. Monitoring is imperfect,
+ transitions may depend on actions, types may be correlated, and values may
+ be interdependent. The focus is on equilibria in which players report
+ truthfully. The characterization generalizes that for repeated games,
+ reducing the analysis to static Bayesian games with transfers. With
+ independent private values, the restriction to truthful equilibria is
+ without loss, except for the punishment level: if players withhold their
+ information during punishment‐like phases, a folk theorem obtains. 
+Journal: Econometrica 
+Pages: 1795-1848 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:1795-1848 
+
+Template-Type: ReDIF-Article 1.0
+Title: Efficient Competition Through Cheap Talk: The Case of Competing Auctions 
+Author-Name: Kyungmin Kim  
+Author-Name: Philipp Kircher  
+Abstract:
+  We consider a large market where auctioneers with private reservation
+ values compete for bidders by announcing cheap‐talk messages. If
+ auctioneers run efficient first‐price auctions, then there always exists
+ an equilibrium in which each auctioneer truthfully reveals her type. The
+ equilibrium is constrained efficient, assigning more bidders to
+ auctioneers with larger gains from trade. The choice of the trading
+ mechanism is crucial for the result. Most notably, the use of second‐price
+ auctions (equivalently, ex post bidding) leads to the nonexistence of any
+ informative equilibrium. We examine the robustness of our finding in
+ various dimensions, including finite markets and equilibrium selection. 
+Journal: Econometrica 
+Pages: 1849-1875 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:1849-1875 
+
+Template-Type: ReDIF-Article 1.0
+Title: Poverty and Self‐Control 
+Author-Name: B. Douglas Bernheim  
+Author-Name: Debraj Ray  
+Author-Name: Şevin Yeltekin  
+Abstract:
+  We argue that poverty can perpetuate itself by undermining the capacity
+ for self‐control. In line with a distinguished psychological literature,
+ we consider modes of self‐control that involve the self‐imposed use of
+ contingent punishments and rewards. We study settings in which consumers
+ with quasi‐hyperbolic preferences confront an otherwise standard
+ intertemporal allocation problem with credit constraints. Our main result
+ demonstrates that low initial assets can limit self‐control, trapping
+ people in poverty, while individuals with high initial assets can
+ accumulate indefinitely. Thus, even temporary policies that initiate
+ accumulation among the poor may be effective. We examine implications
+ concerning the effect of access to credit on saving, the demand for
+ commitment devices, the design of financial accounts to promote
+ accumulation, and the variation of the marginal propensity to consume
+ across income from different sources. We also explore the nature of
+ optimal self‐control, demonstrating that it has a simple and behaviorally
+ plausible structure that is immune to self‐renegotiation. 
+Journal: Econometrica 
+Pages: 1877-1911 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:1877-1911 
+
+Template-Type: ReDIF-Article 1.0
+Title: The Value of Free Water: Analyzing South Africa's Free Basic Water Policy 
+Author-Name: Andrea Szabó  
+Abstract:
+  This paper analyzes South Africa's Free Basic Water Policy, under which
+ households receive a free water allowance equal to the World Health
+ Organization's recommended minimum. I estimate residential water demand,
+ evaluate the welfare effects of free water, and provide optimal price
+ schedules derived from a social planner's problem. I use a data set of
+ monthly metered billing data for 60,000 households for 2002–2009 from a
+ particularly disadvantaged suburb of Pretoria, with rich price variation
+ across 20 different nonlinear tariff schedules. I find that the free
+ allowance acts as a lump‐sum subsidy, without large effects on water
+ consumption. However, it is possible to reallocate the current subsidy to
+ form an optimal tariff without a free allowance, which would increase
+ welfare while leaving the water provider's profit unchanged. This optimal
+ tariff would also reduce the number of households consuming low quantities
+ of water, a desirable policy goal according to the WHO. 
+Journal: Econometrica 
+Pages: 1913-1961 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:1913-1961 
+
+Template-Type: ReDIF-Article 1.0
+Title: Sign Restrictions, Structural Vector Autoregressions, and Useful Prior Information 
+Author-Name: Christiane Baumeister  
+Author-Name: James D. Hamilton  
+Abstract:
+  This paper makes the following original contributions to the literature.
+ (i) We develop a simpler analytical characterization and numerical
+ algorithm for Bayesian inference in structural vector autoregressions
+ (VARs) that can be used for models that are overidentified,
+ just‐identified, or underidentified. (ii) We analyze the asymptotic
+ properties of Bayesian inference and show that in the underidentified
+ case, the asymptotic posterior distribution of contemporaneous
+ coefficients in an n‐variable VAR is confined to the set of values that
+ orthogonalize the population variance–covariance matrix of ordinary least
+ squares residuals, with the height of the posterior proportional to the
+ height of the prior at any point within that set. For example, in a
+ bivariate VAR for supply and demand identified solely by sign
+ restrictions, if the population correlation between the VAR residuals is
+ positive, then even if one has available an infinite sample of data, any
+ inference about the demand elasticity is coming exclusively from the prior
+ distribution. (iii) We provide analytical characterizations of the
+ informative prior distributions for impulse‐response functions that are
+ implicit in the traditional sign‐restriction approach to VARs, and we
+ note, as a special case of result (ii), that the influence of these priors
+ does not vanish asymptotically. (iv) We illustrate how Bayesian inference
+ with informative priors can be both a strict generalization and an
+ unambiguous improvement over frequentist inference in just‐identified
+ models. (v) We propose that researchers need to explicitly acknowledge and
+ defend the role of prior beliefs in influencing structural conclusions and
+ we illustrate how this could be done using a simple model of the U.S.
+ labor market. 
+Journal: Econometrica 
+Pages: 1963-1999 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:1963-1999 
+
+Template-Type: ReDIF-Article 1.0
+Title: Sharing Rule Identification for General Collective Consumption Models 
+Author-Name: Laurens Cherchye  
+Author-Name: Bram De Rock  
+Author-Name: Arthur Lewbel  
+Author-Name: Frederic Vermeulen  
+Abstract:
+  We propose a method to set identify bounds on the sharing rule for a
+ general collective household consumption model. Unlike the effects of
+ distribution factors, the level of the sharing rule cannot be uniquely
+ identified without strong assumptions on preferences across households.
+ Our new results show that, though not point identified without these
+ assumptions, strong bounds on the sharing rule can be obtained. We get
+ these bounds by applying revealed preference restrictions implied by the
+ collective model to the household's continuous aggregate demand functions.
+ We obtain informative bounds even if nothing is known about whether each
+ good is public, private, or assignable within the household, though having
+ such information tightens the bounds. We apply our method to US PSID data,
+ obtaining narrow bounds that yield useful conclusions regarding the
+ effects of income and wages on intrahousehold resource sharing, and on the
+ prevalence of individual (as opposed to household level) poverty. 
+Journal: Econometrica 
+Pages: 2001-2041 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:2001-2041 
+
+Template-Type: ReDIF-Article 1.0
+Title: A Test for Instrument Validity 
+Author-Name: Toru Kitagawa  
+Abstract:
+  This paper develops a specification test for instrument validity in the
+ heterogeneous treatment effect model with a binary treatment and a
+ discrete instrument. The strongest testable implication for instrument
+ validity is given by the condition for nonnegativity of point‐identifiable
+ compliers' outcome densities. Our specification test infers this testable
+ implication using a variance‐weighted Kolmogorov–Smirnov test statistic.
+ The test can be applied to both discrete and continuous outcome cases, and
+ an extension of the test to settings with conditioning covariates is
+ provided. 
+Journal: Econometrica 
+Pages: 2043-2063 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:2043-2063 
+
+Template-Type: ReDIF-Article 1.0
+Title: Identifying Higher‐Order Rationality 
+Author-Name: Terri Kneeland  
+Abstract:
+  Strategic choice data from a carefully chosen set of ring‐network games
+ are used to obtain individual‐level estimates of higher‐order rationality.
+ The experimental design exploits a natural exclusion restriction that is
+ considerably weaker than the assumptions underlying alternative designs in
+ the literature. In our data set, 93 percent of subjects are rational, 71
+ percent are rational and believe others are rational, 44 percent are
+ rational and hold second‐order beliefs that others are rational, and 22
+ percent are rational and hold at least third‐order beliefs that others are
+ rational. 
+Journal: Econometrica 
+Pages: 2065-2079 
+Issue: 5  
+Volume: 83 
+Year: 2015 
+Month: 09 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:5:p:2065-2079 

@@ -1,0 +1,562 @@
+﻿Template-Type: ReDIF-Article 1.0
+Author-Name: Bebchuk, Lucian Arye
+Author-Name: Fershtman, Chaim
+Title: Insider Trading and the Managerial Choice among Risky Projects
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 1-14
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: The concern of this paper is with the effects of insider trading on ex ante managerial behavior. Specifically, the paper focuses on how insider trading affects insiders' choice among investment projects. Other things equal, insider trading leads insiders to choose riskier investment projects, because increased volatility of results enables insiders to make greater trading profits if they learn these results in advance of the market. Thiseffect might be beneficial, however, because insiders' risk aversion pulls them toward aconservative investment policy. Insiders' choices of projects are identified and compared with insider trading and those without such trading. Using these results, the conditions under which insider trading increases or decreases corporate value by affecting the choice of projects with uncertain returns are identified.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008759
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:1-14_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Turtle, Harry
+Author-Name: Buse, Adolf
+Author-Name: Korkie, Bob
+Title: Tests of Conditional Asset Pricing with Time-Varying Moments and Risk Prices
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 15-29
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: This paper tests conditional capital asset pricing models in a multivariate GARCH framework employing both constant and time-varying prices of market and bond risk. Depending on the interpretation of the market portfolio, the ICAPM with one hedge portfolio or the two-factor myopic CAPM are supported using weekly data from July 1983 to December 1989. In contrast, we reject the myopic single-factor CAPM under a constant price of market risk. We find that interest rate risk is highly significant, which suggests that previous rejections of the conditional CAPM using only stock market data may be due to omitted hedge terms or an incomplete market factor.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008760
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:15-29_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Heynen, Ronald
+Author-Name: Kemna, Angelien
+Author-Name: Vorst, Ton
+Title: Analysis of the Term Structure of Implied Volatilities
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 31-56
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: From various empirical work, it is well known that the volatility of asset returns changes over time. This might be one of the reasons that implied volatilities differ for options that only differ in time to maturity. We construct models for the relation between short- and long-term implied volatilities based on three different assumptions of stock return volatility behavior, i.e., mean-reverting, GARCH, and EGARCH models. We test these relations on option price data and conclude that EGARCH gives the best description of asset prices and the term structure of options' implied volatilities.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008772
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:31-56_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Xu, Xinzhong
+Author-Name: Taylor, Stephen J.
+Title: The Term Structure of Volatility Implied by Foreign Exchange Options
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 57-74
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: This paper illustrates regression and Kalman filtering methods for estimating the time-varying term structure of volatility expectations revealed by options prices. Short- and long-term expectations are estimated for four currencies using daily PHLX options prices from 1985 to 1989. Throughout this period, there were important differences between shortand long-term expectations. The slope of the term structure changed frequently and there were significant variations in long-term volatility expectations. The expectation estimates can be used to value OTC options, to improve hedging strategies, and to test the hypothesis that the options market overreacts.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008784
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:57-74_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Dezhbakhsh, Hashem
+Title: Foreign Exchange Forward and Futures Prices: Are They Equal?
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 75-87
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: Small sample <italic>t</italic>-test results are reported in the literature that indicate the difference between futures and forward exchange rates are statistically insignificant. Much research draws on this finding, which is in contrast with theory. The evidence presented here suggests this difference does not follow a normal distribution, so the small sample inferences based on the <italic>t</italic>-tests may be suspect. As appropriate alternatives, nonparametric distribution-free tests are used to reexamine the difference for two sample periods, one covering the 1970s and the other the 1970s and 1980s. A significant divergence is observed for several currencies as well as for a sample of pooled currencies. The results are stronger for samples covering the 1980s. The economic significance of the forward-futures differentials is examined and theoretical justifications are discussed.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008796
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:75-87_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Hsieh, Su-Jane
+Author-Name: Chen, Andrew H.
+Author-Name: Ferris, Kenneth R.
+Title: The Valuation of PBGC Insurance Premiums Using an Option Pricing Model
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 89-99
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: This study applies an option pricing model to empirically derive pension put values for a sample of 176 individual pension plan sponsors insured by the Pension Benefit Guaranty Corporation (PBGC). This study finds that the pension put values for a group of 22 underfunded sponsors were significantly greater than the insurance premiums paid to the PBGC. On the other hand, for a group of 154 overfunded sponsors, the put values were also greater than the pension premiums paid to the PBGC, although the difference was not statistically significant. These findings suggest that underfunded plan sponsors are significantly undercharged by the PBGC, while overfunded plan sponsors are approximately fairly charged.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008802
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:89-99_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Richardson, Matthew
+Author-Name: Smith, Tom
+Title: A Direct Test of the Mixture of Distributions Hypothesis: Measuring the Daily Flow of Information
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 101-116
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: This paper proposes and conducts direct tests of the mixture of distributions model for stock prices. By exploiting the model's bivariate conditional normality of price changes and trading volume, these restrictions can be tested under very weak assumptions regarding the daily flow of information to the market. As a technical byproduct, important parameters governing the distribution of this unobservable information flow are estimated.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008814
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:101-116_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Chowdhry, Bhagwan
+Author-Name: Jegadeesh, Narasimhan
+Title: Pre-Tender Offer Share Acquisition Strategy in Takeovers
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 117-129
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: This paper models the strategic pre-tender offer share acquisition problem faced by potential bidders in takeovers. The model provides a rational explanation for the seemingly anomalous empirical evidence that the information about the impending tender offers is not fully conveyed through the potential bidders' pre-tender offer trades and for the evidence that a large fraction of bidders do not hold <italic>any</italic> target shares prior to launching the tender offers. Additional testable implications are also provided.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008826
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:117-129_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Long, Michael S.
+Author-Name: Malitz, Ileen B.
+Author-Name: Sefcik, Stephan E.
+Title: An Empirical Examination of Dividend Policy Following Debt Issues
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 131-144
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: This paper empirically examines the underinvestment problem and the use of dividends to expropriate lenders' wealth. Rather than analyzing the market's reaction to potential wealthexpropriating events, a different aspect of potential conflicts of interest is addressed: do managers who control dividends act in a manner consistent with wealth expropriation? If so, then debt issues should be followed by increases in dividends. Two samples of firms are used: those issuing straight debt and those issuing convertible debt. The study finds no evidence that firms manipulate dividend policy to transfer wealth from the bondholders to stockholders. Two possible explanations are suggested. First, wealth expropriation may be a potential problem, but existing bond covenants restricting a firm's ability to pay dividends are effective. Second, firms may believe that reputation has greater value than what can be transferred from creditors in a one-time expropriation of wealth. Since the paper fails to find support for the covenant argument, it concludes that reputation is the most plausible explanation.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008838
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:131-144_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kim, Chan-Wung
+Author-Name: Park, Jinwoo
+Title: Holiday Effects and Stock Returns: Further Evidence
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 145-157
+Issue: 01
+Volume: 29
+Year: 1994
+Month: March    
+Abstract: This paper provides further evidence of the holiday effect in stock returns and additional insight into the effect. This paper reports abnormally high returns on the trading day before holidays in all three of the major stock markets in the U.S.: the NYSE, AMEX, and NASDAQ. The holiday effect is also present in the U.K. and Japanese stock markets, even though each country has different holidays and institutional arrangements. This study finds that the holiday effects in the U.K. and Japanese stock markets are independent of the holiday effect in the U.S. stock market. Unlike the other seasonal patterns in stock returns, such as January and weekend effects, this investigation of size decile portfolios shows that the size effect is not present in mean returns on preholidays.
+File-URL: http://journals.cambridge.org/abstract_S002210900000884X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:01:p:145-157_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Denis, David J.
+Title: Investment Opportunities and the Market Reaction to Equity Offerings
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 159-177
+Issue: 02
+Volume: 29
+Year: 1994
+Month: June     
+Abstract: This paper examines the relation between the market reaction to primary seasoned equity offerings and alternative measures of the profitability of the issuing firm's growth opportunities. While the sample offerings display a positive relation between announcement period prediction errors and several ex ante measures of growth opportunities, this relation is not monotonic and appears to be driven by a small subset of younger, higher growth firms, whose announcement effects are insignificantly different from zero. For the remainder of the sample firms, there is no relation between the estimated profitability of new investment and the market reaction to announced equity offerings. Moreover, announcement effects are nonpositive regardless of how profitable investment opportunities are expected to be. These findings collectively suggest that investment opportunities play, at best, a minor role in explaining the cross-sectional distribution of equity offering announcement effects.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008875
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:02:p:159-177_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Houston, Joel F.
+Author-Name: Venkataraman, S.
+Title: Optimal Maturity Structure with Multiple Debt Claims
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 179-197
+Issue: 02
+Volume: 29
+Year: 1994
+Month: June     
+Abstract: This paper provides an explanation for why firms may choose to simultaneously issue multiple debt claims with varying maturities. The optimal mix of short- and long-term debt allows the firm to precommit to a more efficient liquidation policy. Even in risk-neutral settings, the optimal mix hinges critically on the mean and the variability of the firm's liquidation value. Determining the optimal mix of debt is more complex than just weighing the costs of issuing short- or long-term debt exclusively. The implications of alternate priority structures, informational settings, interest rate uncertainty, and maturity matching strategies are also considered.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008887
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:02:p:179-197_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Naik, Vasanttilak
+Author-Name: Uppal, Raman
+Title: Leverage Constraints and the Optimal Hedging of Stock and Bond Options
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 199-222
+Issue: 02
+Volume: 29
+Year: 1994
+Month: June     
+Abstract: This paper considers the problem of a financial institution that needs to hedge a stream of state-contingent cash flows while facing borrowing and short-sales restrictions. The study determines analytically the strategy that minimizes the initial cost of hedging the desired cash flow, which is also the upper bound on its market price, and shows that the impact of leverage constraints on the cost of hedging call and put options is significant and, therefore, the biases detected by tests of option pricing models may not represent arbitrage opportunities. The paper also shows that with credit limits, it is optimal to reduce the rate of trading; thus, these constraints need to be recognized when estimating the trading volume generated in replicating contingent payoffs such as portfolio insurance.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008899
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:02:p:199-222_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Heaney, John
+Author-Name: Poitras, Geoffrey
+Title: Securities Markets, Diffusion State Processes, and Arbitrage-Free Shadow Prices
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 223-239
+Issue: 02
+Volume: 29
+Year: 1994
+Month: June     
+Abstract: This paper develops the parametric restrictions imposed on diffusion state processes by the requirement of arbitrage-free asset pricing. Using the equivalent martingale measure as a starting point, the diffusion property is exploited to specify the shadow pricing function, which takes conditional state variable probabilities under the reference measure into arbitrage-free contingent claim prices. The main results of the paper provide differential equations associated with the shadow price function that are used to identify restrictions on the parameters of assumed diffusion processes. The paper concludes with an application to the CIR model where the state variable, the instantaneous interest rate, is assumed to follow a square root process. Calculations are also provided for the parametric restrictions imposed on the Brownian bridge and OU state variable processes.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008905
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:02:p:223-239_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Jarrow, Robert A.
+Title: Derivative Security Markets, Market Manipulation, and Option Pricing Theory
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 241-261
+Issue: 02
+Volume: 29
+Year: 1994
+Month: June     
+Abstract: This paper studies a new theory for pricing options in a large trader economy. This theory necessitates studying the impact that derivative security markets have on market manipulation. In an economy with a stock, money market account, and a derivative security, it is shown, by example, that the introduction of the derivative security generates market manipulation trading strategies that would otherwise not exist. A sufficient condition is provided on the price process such that no additional market manipulation trading strategies are introduced by a derivative security. Options are priced under this condition, where it is shown that the standard binomial option model still applies but with random volatilities.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008917
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:02:p:241-261_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Abraham, Abraham
+Author-Name: Ikenberry, David L.
+Title: The Individual Investor and the Weekend Effect
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 263-277
+Issue: 02
+Volume: 29
+Year: 1994
+Month: June     
+Abstract: It is well known that stock returns, on average, are negative on Mondays. Yet, it is less well known that this finding is substantially the consequence of returns in prior trading sessions. When Friday's return is negative, Monday's return is negative nearly 80 percent of the time with a mean return of −0.61 percent. When Friday's return is positive, the subsequent Monday's mean return is <italic>positive</italic>, 0.11 percent. This relationship is stronger than for any other pair of trading days and is most acute in small- and medium-size companies. The trading behavior of individual investors appears to be at least one factor contributing to this pattern. Individual investors are more active sellers of stock on Mondays, particularly following bad news in the market.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008929
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:02:p:263-277_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Karafiath, Imre
+Title: On the Efficiency of Least Squares Regression with Security Abnormal Returns as the Dependent Variable
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 279-300
+Issue: 02
+Volume: 29
+Year: 1994
+Month: June     
+Abstract: Monte Carlo procedures are used to compare the finite sample performance of several estimators that may be used in cross-sectional regressions with security abnormal returns as the dependent variable. Alternative models of event-induced increases in stock return variance are examined for the “event-clustering” scenario. Event clustering implies crosssectional correlation and heteroskedasticity in market model prediction errors, violating one of the fundamental ordinary least squares (OLS) assumptions (i.i.d. disturbances). Nonetheless, provided that the conditions for asymptotic validity derived by Greenwald (1983) are met, the OLS estimator is well specified in finite samples. Further, for sufficiently large cross sections there is no advantage to several other more complex estimators.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008930
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:02:p:279-300_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Prisman, Eliezer Z.
+Author-Name: Tian, Yisong
+Title: Immunization in Markets with Tax-Clientele Effects: Evidence from the Canadian Market
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 301-321
+Issue: 02
+Volume: 29
+Year: 1994
+Month: June     
+Abstract: Empirical immunization studies have considered the efficacy of immunization strategies, in which <italic>the durations of assets and of liabilities are equated</italic>, against a strategy involving maturity matching. However, all these studies have ignored tax effects. In the presence of <italic>tax-clientele effects</italic>, immunization requires that the portfolio consists <italic>only</italic> of bonds that are correctly priced for a particular clientele. Testing for these effects, therefore, requires the identification of the correctly priced bonds for the investors in the clientele. However, since bond prices contain noise, determining these bonds is still an unresolved problem. Consequently, an empirical test of the magnitude of the error caused by ignoring taxes may be an impossible task in some markets, and indeed has never been conducted. The Canadian bond market provides perfect laboratory conditions for such a test. Tax-clientele effects are present in the Canadian market, and among the clienteles is a representative clientele. This paper examines the tax effects on immunization strategies. The results show that the error caused by ignoring tax effects is not negligible, and practitioners should use immunization with reference to tax effects.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008942
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:02:p:301-321_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Shefrin, Hersh
+Author-Name: Statman, Meir
+Title: Behavioral Capital Asset Pricing Theory
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 323-349
+Issue: 03
+Volume: 29
+Year: 1994
+Month: September
+Abstract: This paper develops a capital asset pricing theory in a market where noise traders interact with information traders. Noise traders are traders who commit cognitive errors while information traders are free of cognitive errors. The theory includes the determination of the mean-variance efficient frontier, the return on the market portfolio, the term structure, and option prices. The paper derives a necessary and sufficient condition for the existence of price efficiency in the presence of noise traders and analyzes the effects of noise traders on price efficiency, volatility, return anomalies, volume, and noise trader survival.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008978
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:03:p:323-349_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Giammarino, Ronald
+Author-Name: Heinkel, Robert
+Author-Name: Hollifield, Burton
+Title: Corporate Financing Decisions and Anonymous Trading
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 351-377
+Issue: 03
+Volume: 29
+Year: 1994
+Month: September
+Abstract: This study considers a model in which a corporate manager has private information and engages in i) anonymous trading on personal account in the secondary market, and ii) the corporate issuance of new shares in the primary market. The paper examines the equilibrium tradeoff of insider trading profits against the manager's share of the corporate consequences of the primary issue. In the resulting equilibrium, managers, acting in their own best interests, seem to behave according to differing objective functions. In some cases, they seem to maximize intrinsic value, in others, insider trading profits seem to dominate, and still others seem to be concerned with both. Hence, the presence of anonymous trading around corporate financings brings into question the use of corporate objective functions with exogenously fixed weights.
+File-URL: http://journals.cambridge.org/abstract_S002210900000898X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:03:p:351-377_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: McQueen, Grant
+Author-Name: Thorley, Steven
+Title: Bubbles, Stock Returns, and Duration Dependence
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 379-401
+Issue: 03
+Volume: 29
+Year: 1994
+Month: September
+Abstract: A new testable implication is derived from the rational speculative bubbles model stating that the presence of bubbles implies positive duration dependence in runs of high returns. Specifically, the probability of observing an end to a run of high returns declines with the length of the run. Traditional duration dependence tests are adapted for use with discrete stock runs data and, consistent with the existence of bubbles, evidence of duration dependence in monthly real stock returns is found.
+File-URL: http://journals.cambridge.org/abstract_S0022109000008991
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:03:p:379-401_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kamara, Avraham
+Title: Liquidity, Taxes, and Short-Term Treasury Yields
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 403-417
+Issue: 03
+Volume: 29
+Year: 1994
+Month: September
+Abstract: This article investigates differences in yields on identical Treasury notes and bills and shows that they reflect differences in liquidity (immediacy) risk and taxes. It proposes an empirical measure for differences in the liquidity risk of notes and bills: the volatility of the underlying rate times the ratio of bills' turnover to notes' turnover. Because differential taxes affect sellers but not buyers of bills and notes, the results reject, free of informational problems, the hypothesis that the notes' demand curve is horizonta. Note-bill yield differences also decrease with inventories of notes—the less liquid asset.
+File-URL: http://journals.cambridge.org/abstract_S0022109000009005
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:03:p:403-417_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Grinblatt, Mark
+Author-Name: Titman, Sheridan
+Title: A Study of Monthly Mutual Fund Returns and Performance Evaluation Techniques
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 419-444
+Issue: 03
+Volume: 29
+Year: 1994
+Month: September
+Abstract: This paper empirically contrasts the Jensen Measure, the Positive Period Weighting Measure, developed in Grinblatt and Titman (1989b), and a measure developed from the Treynor-Mazuy (1966) quadratic regression on a sample of 279 mutual funds and 109 passive portfolios, using a variety of benchmark portfolios. The study finds that the measures generally yield similar inferences when using the same benchmark and that inferences can vary, even from the same measure, when using different benchmarks. This paper also analyzes the determinants of mutual fund performance. Tests of fund performance that employ fund characteristics, such as net asset value, load, expenses, portfolio turnover, and management fee are reported. These tests surprisingly suggest that turnover is significantly positively related to the ability of fund managers to earn abnormal returns.
+File-URL: http://journals.cambridge.org/abstract_S0022109000009017
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:03:p:419-444_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Fields, L. Paige
+Author-Name: Mais, Eric L.
+Title: Managerial Voting Rights and Seasoned Public Equity Issues
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 445-457
+Issue: 03
+Volume: 29
+Year: 1994
+Month: September
+Abstract: This paper examines the relation between changes in firm value associated with public equityissue announcements and management ownership, nonmanagement large block ownership, institutional ownership, information variables, and leverage. A significant negative relationis found between the ratio of announcement period abnormal returns to changes in management ownership and the level of management ownership. This result is consistent with Stulz (1988) who predicts that firm value increases at a decreasing rate as management control of voting rights increases. This finding is also consistent with improvements in alignment of interests, where such improvements diminish as management becomes entrenched. The announcement period abnormal returns appear to be unrelated to outside blockholdings (large block ownership or institutional holdings), information variables, or leverage.
+File-URL: http://journals.cambridge.org/abstract_S0022109000009029
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:03:p:445-457_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Christie, William G.
+Title: Are Dividend Omissions Truly the Cruelest Cut of All?
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 459-480
+Issue: 03
+Volume: 29
+Year: 1994
+Month: September
+Abstract: Signaling and agency cost theories of dividend policy predict that omissions will produce a larger average decline in equity values than will reductions of less than 100 percent. However, this paper identifies a U-shaped relation between announcement day risk-adjusted excess returns and the percentage decline in dividends. The significantly smaller than expected price reaction to dividend omissions cannot be traced to growth opportunities, nor to a tendency for firms to delay omission announcements. While omitting firms provide higher per share dividends within five years of the dividend action than do firms that severely reduce payments, future dividends are unrelated to the market's response.
+File-URL: http://journals.cambridge.org/abstract_S0022109000009030
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:03:p:459-480_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Brook, Yaron
+Author-Name: Rao, Ramesh K. S.
+Title: Shareholder Wealth Effects of Directors' Liability Limitation Provisions
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 481-497
+Issue: 03
+Volume: 29
+Year: 1994
+Month: September
+Abstract: The adoption of liability limitation provisions (LLPs) is associated with insignificant stock price reactions for all firms, but with positive stock price reactions for poorly performing firms. This result is consistent with the hypothesis that the net benefit of LLPs is larger for financially troubled firms than for other firms because outside directors are valuable to the distressed firm and LLPs substantially affect experts' expected costs of serving as directors of troubled firms.
+File-URL: http://journals.cambridge.org/abstract_S0022109000009042
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:03:p:481-497_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Foster, F. Douglas
+Author-Name: Viswanathan, S.
+Title: Strategic Trading with Asymmetrically Informed Traders and Long-Lived Information
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 499-518
+Issue: 04
+Volume: 29
+Year: 1994
+Month: December 
+Abstract: A dynamic model of strategic trading with two asymmetrically informed traders is analyzed where one informed trader knows the information seen by both informed traders, and the other informed trader only knows his private information. While the first informed trader is better informed, the second informed trader can make inferences about this extra information; in fact, the second informed trader can make sharper inferences from the order flow than the market maker about the extra information. In this setting, competition among the informed traders has a very interesting form. The informed trader with the additional information trades less intensely on that information early on, and both informed traders trade very intensely on their common information. This makes it more difficult for the trader with less information to learn about the information he does not have. When there are only a few remaining trading periods and the information known to both traders has largely been revealed through their trading, then the trader with the additional information trades more intensely on the basis of his private information.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000016
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:04:p:499-518_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Smith, Tom
+Title: Econometrics of Financial Models and Market Microstructure Effects
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 519-540
+Issue: 04
+Volume: 29
+Year: 1994
+Month: December 
+Abstract: This paper addresses the problem of testing financial models in the presence of market micro structure effects. The moment restrictions implied by the financial and market microstructure models are jointly tested using Hansen's (1982) GMM approach. To illustrate the methodology, I consider the random walk model in combination with the bid-ask price effect model of Blume and Stambaugh (1983). Within this sufficiently simple framework, I obtain closed-form expressions for the estimators, standard errors of the estimators, and the test statistic, which affords an opportunity to examine the precision of the estimators and the power of the test as the return interval increases. I show that apparent rejections of the random walk model cannot be sustained when tests of the model are adjusted for market micro structure effects, and I discuss other applications of the methodology.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000028
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:04:p:519-540_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Clark, Kent
+Author-Name: Ofek, Eli
+Title: Mergers as a Means of Restructuring Distressed Firms: An Empirical Investigation
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 541-565
+Issue: 04
+Volume: 29
+Year: 1994
+Month: December 
+Abstract: We examine 38 takeovers of distressed firms and find that these takeovers are more likely to involve firms in the same industry and less likely to be hostile takeovers than are acquisitions in general. We use five different measures to evaluate post-merger performance of the combined bidder and target firms. All performance measures suggest that bidders are unable to successfully restructure targets. The market demonstrates an ability to forecast the success of restructuring. Restructuring success is negatively related to the size of premium paid by the bidder for the target and positively related to the financial distress of the target.
+File-URL: http://journals.cambridge.org/abstract_S002210900000003X
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:04:p:541-565_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Denis, David J.
+Author-Name: Denis, Diane K.
+Author-Name: Sarin, Atulya
+Title: The Information Content of Dividend Changes: Cash Flow Signaling, Overinvestment, and Dividend Clienteles
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 567-587
+Issue: 04
+Volume: 29
+Year: 1994
+Month: December 
+Abstract: We examine the cash flow signaling, overinvestment, and dividend clientele explanations for the information content of dividend change announcements. After simultaneously controlling for the standardized dividend change, dividend yield, and Tobin's Q, we find that announcement period excess returns are positively related to the magnitude of the standardized dividend change and to the dividend yield, but unrelated to Tobin's Q. We provide further evidence on the cash flow signaling and overinvestment hypotheses by examining revisions in analysts' earnings forecasts and changes in capital expenditures following dividend change announcements. We find that analysts significantly revise their earnings forecasts following dividend changes and that Q < 1 firms actually increase their capital expenditures following dividend increases and decrease them following dividend decreases. Overall, our findings support the cash flow signaling and dividend clientele hypotheses for stock price reactions to dividend change announcements, but provide little support for the overinvestment hypothesis.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000041
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:04:p:567-587_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Ball, Clifford A.
+Author-Name: Roma, Antonio
+Title: Stochastic Volatility Option Pricing
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 589-607
+Issue: 04
+Volume: 29
+Year: 1994
+Month: December 
+Abstract: This paper examines alternative methods for pricing options when the underlying security volatility is stochastic. We show that when there is no correlation between innovations in security price and volatility, the characteristic function of the average variance of the price process plays a pivotal role. It may be used to simplify Fourier option pricing techniques and to implement simple power series methods. We compare these methods for the alternative mean-reverting stochastic volatility models introduced by Stein and Stein (1991) and Heston (1993). We also examine the biases in the Black-Scholes model that are eliminated by allowing for stochastic volatility, and we correct some errors in the Stein and Stein (1991) analysis of this issue.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000053
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:04:p:589-607_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Kim, Myung-Jig
+Author-Name: Oh, Young-Ho
+Author-Name: Brooks, Robert
+Title: Are Jumps in Stock Returns Diversifiable? Evidence and Implications for Option Pricing
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 609-631
+Issue: 04
+Volume: 29
+Year: 1994
+Month: December 
+Abstract: This paper studies the diversifiability of jumps in stock returns. It presents a multivariate time-series model of the stochastic process for an index and its component stocks that explicitly admits discrete common jumps. Maximum likelihood estimation for such a model is developed and applied to the daily Major Market Index and its component stocks for the period 1985 through 1990. The paper finds that Poisson-distributed jumps observed from both the index and its component stocks constitute nondiversifiable risk, implying that the standard assumption in option pricing that these jumps are not priced may be invalid.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000065
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:04:p:609-631_00
+
+
+Template-Type: ReDIF-Article 1.0
+Author-Name: Slovin, Myron B.
+Author-Name: Sushka, Marie E.
+Author-Name: Waller, Edward R.
+Title: Is There News in the Prime Rate?
+Journal: Journal of Financial and Quantitative Analysis
+Pages: 633-646
+Issue: 04
+Volume: 29
+Year: 1994
+Month: December 
+Abstract: Using intraday data, we find that bank announcements of changes in the prime rate have significant effects on Dow Jones stock price indexes and yields in the Treasury bill futures market. We find comparable effects using daily data for indexes of share prices of banks and financial firms as well as interest rates on various maturities of government securities. Our evidence is consistent with the view that banks have a comparative advantage in processing private information gained through bank-borrower relations and the regulatory supervision process.
+File-URL: http://journals.cambridge.org/abstract_S0022109000000077
+File-Function: link to article abstract page
+File-Format: text/html
+Handle: RePEc:cup:jfinqa:v:29:y:1994:i:04:p:633-646_00
+
+

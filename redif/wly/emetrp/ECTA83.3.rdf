@@ -1,0 +1,307 @@
+﻿
+
+Template-Type: ReDIF-Article 1.0
+Title: Investment and Competitive Matching 
+Author-Name: Georg Nöldeke  
+Author-Name: Larry Samuelson  
+Abstract:
+  We study markets in which agents first make investments and are then
+ matched into potentially productive partnerships. Equilibrium investments
+ and the equilibrium matching will be efficient if agents can
+ simultaneously negotiate investments and matches, but we focus on markets
+ in which agents must first sink their investments before matching.
+ Additional equilibria may arise in this sunk‐investment setting, even
+ though our matching market is competitive. These equilibria exhibit
+ inefficiencies that we can interpret as coordination failures. All
+ allocations satisfying a constrained efficiency property are equilibria,
+ and the converse holds if preferences satisfy a separability condition. We
+ identify sufficient conditions (most notably, quasiconcave utilities) for
+ the investments of matched agents to satisfy an exchange efficiency
+ property as well as sufficient conditions (most notably, a single crossing
+ property) for agents to be matched positive assortatively, with these
+ conditions then forming the core of sufficient conditions for the
+ efficiency of equilibrium allocations. 
+Journal: Econometrica 
+Pages: 835-896 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:835-896 
+
+Template-Type: ReDIF-Article 1.0
+Title: Large Matching Markets as Two‐Sided Demand Systems 
+Author-Name: Konrad Menzel  
+Abstract:
+  This paper studies two‐sided matching markets with non‐transferable
+ utility when the number of market participants grows large. We consider a
+ model in which each agent has a random preference ordering over individual
+ potential matching partners, and agents' types are only partially observed
+ by the econometrician. We show that in a large market, the inclusive value
+ is a sufficient statistic for an agent's endogenous choice set with
+ respect to the probability of being matched to a spouse of a given
+ observable type. Furthermore, while the number of pairwise stable
+ matchings for a typical realization of random utilities grows at a fast
+ rate as the number of market participants increases, the inclusive values
+ resulting from any stable matching converge to a unique deterministic
+ limit. We can therefore characterize the limiting distribution of the
+ matching market as the unique solution to a fixed‐point condition on the
+ inclusive values. Finally we analyze identification and estimation of
+ payoff parameters from the asymptotic distribution of observable
+ characteristics at the level of pairs resulting from a stable matching. 
+Journal: Econometrica 
+Pages: 897-941 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:897-941 
+
+Template-Type: ReDIF-Article 1.0
+Title: Tenable Strategy Blocks and Settled Equilibria 
+Author-Name: Roger Myerson  
+Author-Name: Jörgen Weibull  
+Abstract:
+  When people interact in familiar settings, social conventions usually
+ develop so that people tend to disregard alternatives outside the
+ convention. For rational players to usually restrict attention to a block
+ of conventional strategies, no player should prefer to deviate from the
+ block when others are likely to act conventionally and rationally inside
+ the block. We explore two set‐valued concepts, coarsely and finely tenable
+ blocks, that formalize this notion for finite normal‐form games. We then
+ identify settled equilibria, which are Nash equilibria with support in
+ minimal tenable blocks. For a generic class of normal‐form games, our
+ coarse and fine concepts are equivalent, and yet they differ from standard
+ solution concepts on open sets of games. We demonstrate the nature and
+ power of the solutions by way of examples. Settled equilibria are closely
+ related to persistent equilibria but are strictly more selective on an
+ open set of games. With fine tenability, we obtain invariance under the
+ insertion of a subgame with a unique totally mixed payoff‐equivalent
+ equilibrium, a property that other related concepts have not satisfied. 
+Journal: Econometrica 
+Pages: 943-976 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:943-976 
+
+Template-Type: ReDIF-Article 1.0
+Title: The Farsighted Stable Set 
+Author-Name: Debraj Ray  
+Author-Name: Rajiv Vohra  
+Abstract:
+  Harsanyi (1974) criticized the von Neumann–Morgenstern (vNM) stable set
+ for its presumption that coalitions are myopic about their prospects. He
+ proposed a new dominance relation incorporating farsightedness, but
+ retained another feature of the stable set: that a coalition S can impose
+ any imputation as long as its restriction to S is feasible for it. This
+ implicitly gives an objecting coalition complete power to arrange the
+ payoffs of players elsewhere, which is clearly unsatisfactory. While this
+ assumption is largely innocuous for myopic dominance, it is of crucial
+ significance for its farsighted counterpart. Our modification of the
+ Harsanyi set respects “coalitional sovereignty.” The resulting farsighted
+ stable set is very different from both the Harsanyi and the vNM sets. We
+ provide a necessary and sufficient condition for the existence of a
+ farsighted stable set containing just a single‐payoff allocation. This
+ condition roughly establishes an equivalence between core allocations and
+ the union of allocations over all single‐payoff farsighted stable sets. We
+ then conduct a comprehensive analysis of the existence and structure of
+ farsighted stable sets in simple games. This last exercise throws light on
+ both single‐payoff and multi‐payoff stable sets, and suggests that they do
+ not coexist. 
+Journal: Econometrica 
+Pages: 977-1011 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:977-1011 
+
+Template-Type: ReDIF-Article 1.0
+Title: Sieve Wald and QLR Inferences on Semi/Nonparametric Conditional Moment Models 
+Author-Name: Xiaohong Chen  
+Author-Name: Demian Pouzo  
+Abstract:
+  This paper considers inference on functionals of semi/nonparametric
+ conditional moment restrictions with possibly nonsmooth generalized
+ residuals, which include all of the (nonlinear) nonparametric instrumental
+ variables (IV) as special cases. These models are often ill‐posed and
+ hence it is difficult to verify whether a (possibly nonlinear) functional
+ is root‐n estimable or not. We provide computationally simple, unified
+ inference procedures that are asymptotically valid regardless of whether a
+ functional is root‐n estimable or not. We establish the following new
+ useful results: (1) the asymptotic normality of a plug‐in penalized sieve
+ minimum distance (PSMD) estimator of a (possibly nonlinear) functional;
+ (2) the consistency of simple sieve variance estimators for the plug‐in
+ PSMD estimator, and hence the asymptotic chi‐square distribution of the
+ sieve Wald statistic; (3) the asymptotic chi‐square distribution of an
+ optimally weighted sieve quasi likelihood ratio (QLR) test under the null
+ hypothesis; (4) the asymptotic tight distribution of a non‐optimally
+ weighted sieve QLR statistic under the null; (5) the consistency of
+ generalized residual bootstrap sieve Wald and QLR tests; (6) local power
+ properties of sieve Wald and QLR tests and of their bootstrap versions;
+ (7) asymptotic properties of sieve Wald and SQLR for functionals of
+ increasing dimension. Simulation studies and an empirical illustration of
+ a nonparametric quantile IV regression are presented. 
+Journal: Econometrica 
+Pages: 1013-1079 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:1013-1079 
+
+Template-Type: ReDIF-Article 1.0
+Title: Parametric Inference and Dynamic State Recovery From Option Panels 
+Author-Name: Torben G. Andersen  
+Author-Name: Nicola Fusari  
+Author-Name: Viktor Todorov  
+Abstract:
+  We develop a new parametric estimation procedure for option panels
+ observed with error. We exploit asymptotic approximations assuming an ever
+ increasing set of option prices in the moneyness (cross‐sectional)
+ dimension, but with a fixed time span. We develop consistent estimators
+ for the parameters and the dynamic realization of the state vector
+ governing the option price dynamics. The estimators converge stably to a
+ mixed‐Gaussian law and we develop feasible estimators for the limiting
+ variance. We also provide semiparametric tests for the option price
+ dynamics based on the distance between the spot volatility extracted from
+ the options and one constructed nonparametrically from high‐frequency data
+ on the underlying asset. Furthermore, we develop new tests for the
+ day‐by‐day model fit over specific regions of the volatility surface and
+ for the stability of the risk‐neutral dynamics over time. A comprehensive
+ Monte Carlo study indicates that the inference procedures work well in
+ empirically realistic settings. In an empirical application to S&P 500
+ index options, guided by the new diagnostic tests, we extend existing
+ asset pricing models by allowing for a flexible dynamic relation between
+ volatility and priced jump tail risk. Importantly, we document that the
+ priced jump tail risk typically responds in a more pronounced and
+ persistent manner than volatility to large negative market shocks. 
+Journal: Econometrica 
+Pages: 1081-1145 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:1081-1145 
+
+Template-Type: ReDIF-Article 1.0
+Title: Grouped Patterns of Heterogeneity in Panel Data 
+Author-Name: Stéphane Bonhomme  
+Author-Name: Elena Manresa  
+Abstract:
+  This paper introduces time‐varying grouped patterns of heterogeneity in
+ linear panel data models. A distinctive feature of our approach is that
+ group membership is left unrestricted. We estimate the parameters of the
+ model using a “grouped fixed‐effects” estimator that minimizes a least
+ squares criterion with respect to all possible groupings of the
+ cross‐sectional units. Recent advances in the clustering literature allow
+ for fast and efficient computation. We provide conditions under which our
+ estimator is consistent as both dimensions of the panel tend to infinity,
+ and we develop inference methods. Finally, we allow for grouped patterns
+ of unobserved heterogeneity in the study of the link between income and
+ democracy across countries. 
+Journal: Econometrica 
+Pages: 1147-1184 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:1147-1184 
+
+Template-Type: ReDIF-Article 1.0
+Title: Identification of Nonseparable Models Using Instruments With Small Support 
+Author-Name: Alexander Torgovitsky  
+Abstract:
+  I consider nonparametric identification of nonseparable instrumental
+ variables models with continuous endogenous variables. If both the outcome
+ and first stage equations are strictly increasing in a scalar
+ unobservable, then many kinds of continuous, discrete, and even binary
+ instruments can be used to point‐identify the levels of the outcome
+ equation. This contrasts sharply with related work by Imbens and Newey,
+ 2009 that requires continuous instruments with large support. One
+ implication is that assumptions about the dimension of heterogeneity can
+ provide nonparametric point‐identification of the distribution of
+ treatment response for a continuous treatment in a randomized controlled
+ experiment with partial compliance. 
+Journal: Econometrica 
+Pages: 1185-1197 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:1185-1197 
+
+Template-Type: ReDIF-Article 1.0
+Title: Identification of Nonseparable Triangular Models With Discrete Instruments 
+Author-Name: Xavier D'Haultfœuille  
+Author-Name: Philippe Février  
+Abstract:
+  We study the identification through instruments of a nonseparable
+ function that relates a continuous outcome to a continuous endogenous
+ variable. Using group and dynamical systems theories, we show that full
+ identification can be achieved under strong exogeneity of the instrument
+ and a dual monotonicity condition, even if the instrument is discrete.
+ When identified, the model is also testable. Our results therefore
+ highlight the identifying power of strong exogeneity when combined with
+ monotonicity restrictions. 
+Journal: Econometrica 
+Pages: 1199-1210 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:1199-1210 
+
+Template-Type: ReDIF-Article 1.0
+Title: The Economics of Counterfeiting 
+Author-Name: Elena Quercioli  
+Author-Name: Lones Smith  
+Abstract:
+  We develop a strategic theory of counterfeiting as a multi‐market large
+ game. Bad guys choose whether to counterfeit, and what quality to produce.
+ Opposing them is a continuum of good guys who select a costly verification
+ effort. In equilibrium, counterfeiters produce better quality at higher
+ notes, but verifiers try sufficiently harder that verification still
+ improves. We develop a graphical framework for deducing comparative
+ statics. Passed and counterfeiting rates vanish for low and high notes.
+ Our predictions are consistent with time series and cross‐sectional
+ patterns in a unique data set assembled largely from the Secret Service. 
+Journal: Econometrica 
+Pages: 1211-1236 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:1211-1236 
+
+Template-Type: ReDIF-Article 1.0
+Title: Corrigendum to “Discounted Stochastic Games With No Stationary Nash Equilibrium: Two Examples” 
+Author-Name: Yehuda John Levy  
+Author-Name: Andrew McLennan  
+Abstract:
+  Levy (2013) presented examples of discounted stochastic games that do not
+ have stationary equilibria. The second named author has pointed out that
+ one of these examples is incorrect. In addition to describing the details
+ of this error, this note presents a new example by the first named author
+ that succeeds in demonstrating that discounted stochastic games with
+ absolutely continuous transitions can fail to have stationary equilibria. 
+Journal: Econometrica 
+Pages: 1237-1252 
+Issue: 3  
+Volume: 83 
+Year: 2015 
+Month: 05 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i:3:p:1237-1252 

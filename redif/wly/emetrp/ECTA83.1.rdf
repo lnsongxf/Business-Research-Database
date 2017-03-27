@@ -1,0 +1,295 @@
+﻿
+
+Template-Type: ReDIF-Article 1.0
+Title: Estimation of Nonparametric Models With Simultaneity 
+Author-Name: Rosa L. Matzkin  
+Abstract:
+  We introduce methods for estimating nonparametric, nonadditive models
+ with simultaneity. The methods are developed by directly connecting the
+ elements of the structural system to be estimated with features of the
+ density of the observable variables, such as ratios of derivatives or
+ averages of products of derivatives of this density. The estimators are
+ therefore easily computed functionals of a nonparametric estimator of the
+ density of the observable variables. We consider in detail a model where
+ to each structural equation there corresponds an exclusive regressor and a
+ model with one equation of interest and one instrument that is included in
+ a second equation. For both models, we provide new characterizations of
+ observational equivalence on a set, in terms of the density of the
+ observable variables and derivatives of the structural functions. Based on
+ those characterizations, we develop two estimation methods. In the first
+ method, the estimators of the structural derivatives are calculated by a
+ simple matrix inversion and matrix multiplication, analogous to a standard
+ least squares estimator, but with the elements of the matrices being
+ averages of products of derivatives of nonparametric density estimators.
+ In the second method, the estimators of the structural derivatives are
+ calculated in two steps. In a first step, values of the instrument are
+ found at which the density of the observable variables satisfies some
+ properties. In the second step, the estimators are calculated directly
+ from the values of derivatives of the density of the observable variables
+ evaluated at the found values of the instrument. We show that both
+ pointwise estimators are consistent and asymptotically normal. 
+Journal: Econometrica 
+Pages: 1-66 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:1-66 
+
+Template-Type: ReDIF-Article 1.0
+Title: Necessity Is the Mother of Invention: Input Supplies and Directed Technical Change 
+Author-Name: W. Walker Hanlon  
+Abstract:
+  This study provides causal evidence that a shock to the relative supply
+ of inputs to production can (1) affect the direction of technological
+ progress and (2) lead to a rebound in the relative price of the input that
+ became relatively more abundant (the strong induced‐bias hypothesis). I
+ exploit the impact of the U.S. Civil War on the British cotton textile
+ industry, which reduced supplies of cotton from the Southern United
+ States, forcing British producers to shift to lower‐quality Indian cotton.
+ Using detailed new data, I show that this shift induced the development of
+ new technologies that augmented Indian cotton. As these new technologies
+ became available, I show that the relative price of Indian/U.S. cotton
+ rebounded to its pre‐war level, despite the increased relative supply of
+ Indian cotton. This is the first paper to establish both of these patterns
+ empirically, lending support to the two key predictions of leading
+ directed technical change theories. 
+Journal: Econometrica 
+Pages: 67-100 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:67-100 
+
+Template-Type: ReDIF-Article 1.0
+Title: Consumption Dynamics During Recessions 
+Author-Name: David Berger  
+Author-Name: Joseph Vavra  
+Abstract:
+  Are there times when durable spending is less responsive to economic
+ stimulus? We argue that aggregate durable expenditures respond more
+ sluggishly to economic shocks during recessions because microeconomic
+ frictions lead to declines in the frequency of households' durable
+ adjustment. We show this by first using indirect inference to estimate a
+ heterogeneous agent incomplete markets model with fixed costs of durable
+ adjustment to match consumption dynamics in PSID microdata. We then show
+ that aggregating this model delivers an extremely procyclical Impulse
+ Response Function (IRF) of durable spending to aggregate shocks. For
+ example, the response of durable spending to an income shock in 1999 is
+ estimated to be almost twice as large as if it occurred in 2009. This
+ procyclical IRF holds in response to standard business cycle shocks as
+ well as in response to various policy shocks, and it is robust to general
+ equilibrium. After estimating this robust theoretical implication of micro
+ frictions, we provide additional direct empirical evidence for its
+ importance using both cross‐sectional and time‐series data. 
+Journal: Econometrica 
+Pages: 101-154 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:101-154 
+
+Template-Type: ReDIF-Article 1.0
+Title: Consumer Heterogeneity and Paid Search Effectiveness: A Large‐Scale Field Experiment 
+Author-Name: Thomas Blake  
+Author-Name: Chris Nosko  
+Author-Name: Steven Tadelis  
+Abstract:
+  Internet advertising has been the fastest growing advertising channel in
+ recent years, with paid search ads comprising the bulk of this revenue. We
+ present results from a series of large‐scale field experiments done at
+ eBay that were designed to measure the causal effectiveness of paid search
+ ads. Because search clicks and purchase intent are correlated, we show
+ that returns from paid search are a fraction of non‐experimental
+ estimates. As an extreme case, we show that brand keyword ads have no
+ measurable short‐term benefits. For non‐brand keywords, we find that new
+ and infrequent users are positively influenced by ads but that more
+ frequent users whose purchasing behavior is not influenced by ads account
+ for most of the advertising expenses, resulting in average returns that
+ are negative. 
+Journal: Econometrica 
+Pages: 155-174 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:155-174 
+
+Template-Type: ReDIF-Article 1.0
+Title: A Characterization of Rationalizable Consumer Behavior 
+Author-Name: Philip J. Reny  
+Abstract:
+  For an arbitrary data set D = {(p, x)} ⊆ (ℝ<sub>+</sub>-super-m∖ {0}) ×
+ ℝ<sub>+</sub>-super-m, finite or infinite, it is shown that the following
+ three conditions are equivalent: (a) D satisfies GARP; (b) D can be
+ rationalized by a utility function; (c) D can be rationalized by a utility
+ function that is quasiconcave, nondecreasing, and that strictly increases
+ when all its coordinates strictly increase. Examples of infinite data sets
+ satisfying GARP are provided for which every utility rationalization fails
+ to be lower semicontinuous, upper semicontinuous, or concave. Thus
+ condition (c) cannot be substantively improved upon. 
+Journal: Econometrica 
+Pages: 175-192 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:175-192 
+
+Template-Type: ReDIF-Article 1.0
+Title: Agency Models With Frequent Actions 
+Author-Name: Tomasz Sadzik  
+Author-Name: Ennio Stacchetti  
+Abstract:
+  The paper analyzes dynamic principal–agent models with short period
+ lengths. The two main contributions are: (i) an analytic characterization
+ of the values of optimal contracts in the limit as the period length goes
+ to 0, and (ii) the construction of relatively simple (almost) optimal
+ contracts for fixed period lengths. Our setting is flexible and includes
+ the pure hidden action or pure hidden information models as special cases.
+ We show how such details of the underlying information structure affect
+ the optimal provision of incentives and the value of the contracts. The
+ dependence is very tractable and we obtain sharp comparative statics
+ results. The results are derived with a novel method that uses a quadratic
+ approximation of the Pareto boundary of the equilibrium value set. 
+Journal: Econometrica 
+Pages: 193-237 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:193-237 
+
+Template-Type: ReDIF-Article 1.0
+Title: Time and No Lotteries: An Axiomatization of Maxmin Expected Utility 
+Author-Name: Asen Kochov  
+Abstract:
+  This paper axiomatizes an intertemporal version of the maxmin
+ expected‐utility model. It employs two axioms specific to a dynamic
+ setting. The first requires that smoothing consumption across states of
+ the world is more beneficial to the individual than smoothing consumption
+ across time. Such behavior is viewed as the intertemporal manifestation of
+ ambiguity aversion. The second axiom extends Koopmans' notion of
+ stationarity from deterministic to stochastic environments. 
+Journal: Econometrica 
+Pages: 239-262 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:239-262 
+
+Template-Type: ReDIF-Article 1.0
+Title: Trade Dynamics in the Market for Federal Funds 
+Author-Name: Gara Afonso  
+Author-Name: Ricardo Lagos  
+Abstract:
+  We develop a model of the market for federal funds that explicitly
+ accounts for its two distinctive features: banks have to search for a
+ suitable counterparty, and once they meet, both parties negotiate the size
+ of the loan and the repayment. The theory is used to answer a number of
+ positive and normative questions: What are the determinants of the fed
+ funds rate? How does the market reallocate funds? Is the market able to
+ achieve an efficient reallocation of funds? We also use the model for
+ theoretical and quantitative analyses of policy issues facing modern
+ central banks. 
+Journal: Econometrica 
+Pages: 263-313 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:263-313 
+
+Template-Type: ReDIF-Article 1.0
+Title: Moment Inequalities and Their Application 
+Author-Name: A. Pakes  
+Author-Name: J. Porter  
+Author-Name: Kate Ho  
+Author-Name: Joy Ishii  
+Abstract:
+  This paper provides conditions under which the inequality constraints
+ generated by either single agent optimizing behavior or the best response
+ condition of multiple agent problems can be used as a basis for estimation
+ and inference. An application illustrates how the use of these inequality
+ constraints can simplify the analysis of complex behavioral models. 
+Journal: Econometrica 
+Pages: 315-334 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:315-334 
+
+Template-Type: ReDIF-Article 1.0
+Title: Time Consistency: Stationarity and Time Invariance 
+Author-Name: Yoram Halevy  
+Abstract:
+  A sequence of experiments documents static and dynamic “preference
+ reversals” between sooner‐smaller and later‐larger rewards, when the
+ sooner reward could be immediate. The theoretically motivated design
+ permits separate identification of time consistent, stationary, and time
+ invariant choices. At least half of the subjects are time consistent, but
+ only three‐quarters of them exhibit stationary choices. About half of
+ subjects with time inconsistent choices have stationary preferences. These
+ results challenge the view that present‐bias preferences are the main
+ source of time inconsistent choices. 
+Journal: Econometrica 
+Pages: 335-352 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:335-352 
+
+Template-Type: ReDIF-Article 1.0
+Title: Bayesian Learning, Smooth Approximate Optimal Behavior, and Convergence to ε‐Nash Equilibrium 
+Author-Name: Yuichi Noguchi  
+Abstract:
+  In this paper, I construct players' prior beliefs and show that these
+ prior beliefs lead the players to learn to play an approximate Nash
+ equilibrium uniformly in any infinitely repeated slightly perturbed game
+ with discounting and perfect monitoring. That is, given any ε > 0, there
+ exists a (single) profile of players' prior beliefs that leads play to
+ almost surely converge to an ε‐Nash equilibrium uniformly for any (finite
+ normal form) stage game with slight payoff perturbation and any discount
+ factor less than 1. 
+Journal: Econometrica 
+Pages: 353-373 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:353-373 
+
+Template-Type: ReDIF-Article 1.0
+Title: A Comment on “Can Relaxation of Beliefs Rationalize the Winner's Curse?: An Experimental Study” 
+Author-Name: Miguel A. Costa‐Gomes  
+Author-Name: Makoto Shimoji  
+Abstract:
+  Ivanov, Levin, and Niederle (2010) use a common‐value second‐price
+ auction experiment to reject beliefs‐based explanations for the winner's
+ curse. ILN's conclusion, however, stems from the misuse of theoretical
+ arguments. Beliefs‐based models are even compatible with some observations
+ from ILN's experiment. 
+Journal: Econometrica 
+Pages: 375-383 
+Issue:  
+Volume: 83 
+Year: 2015 
+Month: 01 
+File-URL: http://hdl.handle.net/ 
+Handle: RePEc:wly:emetrp:v:83:y:2015:i::p:375-383 
