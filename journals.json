@@ -29,5 +29,6 @@
     {"type":"redif","publisher":"oup","jname":"rfinst","journal":"Review of Financial Studies","subject":"Finance"},
     {"type":"redif","publisher":"bla","jname":"stratm","journal":"Strategic Management Journal","subject":"Management"},
     {"type":"oai","publisher":"dgc","jname":"misqrt","journal":"Management Information Systems Quarterly","subject":"Operations & Information Systems"},
-    {"type":"src","publisher":"moq","jname":"jrnmis","journal":"Journal of Management Information Systems","subject":"Operations & Information Systems"}
+    {"type":"src","publisher":"taf","jname":"jrnmis","journal":"Journal of Management Information Systems","subject":"Operations & Information Systems"},
+    {"type":"src","publisher":"sag","jname":"jrnmng","journal":"Journal of Management","subject":"Management"}
 ]
