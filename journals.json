@@ -30,5 +30,6 @@
     {"type":"redif","publisher":"bla","jname":"stratm","journal":"Strategic Management Journal","subject":"Management"},
     {"type":"oai","publisher":"dgc","jname":"misqrt","journal":"Management Information Systems Quarterly","subject":"Operations & Information Systems"},
     {"type":"src","publisher":"taf","jname":"jrnmis","journal":"Journal of Management Information Systems","subject":"Operations & Information Systems"},
-    {"type":"src","publisher":"sag","jname":"jrnmng","journal":"Journal of Management","subject":"Management"}
+    {"type":"src","publisher":"sag","jname":"jrnmng","journal":"Journal of Management","subject":"Management"},
+    {"type":"src","publisher":"sag","jname":"orgstd","journal":"Organization Studies","subject":"Organizational Behaviour"}
 ]
