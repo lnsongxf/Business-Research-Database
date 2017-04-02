@@ -31,5 +31,7 @@
     {"type":"oai","publisher":"dgc","jname":"misqrt","journal":"Management Information Systems Quarterly","subject":"Operations & Information Systems"},
     {"type":"src","publisher":"taf","jname":"jrnmis","journal":"Journal of Management Information Systems","subject":"Operations & Information Systems"},
     {"type":"src","publisher":"sag","jname":"jrnmng","journal":"Journal of Management","subject":"Management"},
-    {"type":"src","publisher":"sag","jname":"orgstd","journal":"Organization Studies","subject":"Organizational Behaviour"}
+    {"type":"src","publisher":"sag","jname":"orgstd","journal":"Organization Studies","subject":"Organizational Behaviour"},
+    {"type":"src","publisher":"sag","jname":"adscqt","journal":"Administrative Science Quarterly","subject":"Management"},
+    {"type":"src","publisher":"wly","jname":"popmgt","journal":"Production and Operations Management","subject":"Operations & Information Systems"}
 ]
