@@ -1,10 +1,4 @@
-
-# coding: utf-8
-
-# In[48]:
-
 import re
-keyword='abs (a) IT Iran'
 def fix_keyword(keyword):
     keyword=re.sub(r'\(.+?\)', '', keyword).strip()
     words=keyword.split()
@@ -20,9 +14,15 @@ def fix_keyword(keyword):
         words_fixed.append(word_fixed)
     keyword=' '.join(words_fixed)
     return keyword
-
-
-# In[ ]:
-
-
-
+def validate(article):
+    with open('title_remove') as f:
+        title_remove_list = f.readlines()
+    # you may also want to remove whitespace characters like `\n` at the end of each line
+    title_remove_list = [x.strip() for x in title_remove_list] 
+    title=article['ex:title'].lower()
+    validate=True
+    if title in title_remove_list:
+        validate=False
+    if title=='':
+        validate=False
+    return validate
