@@ -5,13 +5,13 @@
     {"data":[{"type":"redif","publisher":"inm"}],"jname":"orisre","journal":"Information Systems Research","subject":"Operations & Information Systems"},
     {"data":[{"type":"redif","publisher":"eee"}],"jname":"jaecon","journal":"Journal of Accounting and Economics","subject":"Accounting"},
     {"data":[{"type":"redif","publisher":"bla"}],"jname":"joares","journal":"Journal of Accounting Research","subject":"Accounting"},
-    {"data":[{"type":"redif","publisher":"kap"}],"jname":"jbuset","journal":"Journal of Business Ethics","subject":"Ethics"},
-    {"data":[{"type":"redif","publisher":"eee"}],"jname":"jbvent","journal":"Journal of Business Venturing","subject":"Entrepreneurship"},
+    {"data":[{"type":"redif","publisher":"kap"}],"jname":"jbuset","journal":"Journal of Business Ethics","subject":"Business, Entrepreneurship, Human Resources"},
+    {"data":[{"type":"redif","publisher":"eee"}],"jname":"jbvent","journal":"Journal of Business Venturing","subject":"Business, Entrepreneurship, Human Resources"},
     {"data":[{"type":"redif","publisher":"oup"}],"jname":"jconrs","journal":"Journal of Consumer Research","subject":"Marketing"},
     {"data":[{"type":"redif","publisher":"bla"}],"jname":"jfinan","journal":"Journal of Finance","subject":"Finance"},
     {"data":[{"type":"redif","publisher":"cup"}],"jname":"jfinqa","journal":"Journal of Financial and Quantitative Analysis","subject":"Finance"},
     {"data":[{"type":"redif","publisher":"eee"}],"jname":"jfinec","journal":"Journal of Financial Economics","subject":"Finance"},
-    {"data":[{"type":"redif","publisher":"pal"}],"jname":"jintbs","journal":"Journal of International Business Studies","subject":"International Business"},
+    {"data":[{"type":"redif","publisher":"pal"}],"jname":"jintbs","journal":"Journal of International Business Studies","subject":"Business, Entrepreneurship, Human Resources"},
     {"data":[{"type":"redif","publisher":"bla"}],"jname":"jomstd","journal":"Journal of Management Studies","subject":"Management"},
     {"data":[{"type":"redif","publisher":"ucp"}],"jname":"jpolec","journal":"Journal of Political Economy","subject":"Economics"},
     {"data":[{"type":"redif","publisher":"inm"}],"jname":"ormnsc","journal":"Management Science","subject":"Operations & Information Systems"},
@@ -31,5 +31,9 @@
     {"data":[{"type":"src","publisher":"taf"}],"jname":"jrnmis","journal":"Journal of Management Information Systems","subject":"Operations & Information Systems"},
     {"data":[{"type":"src","publisher":"sag"}],"jname":"jrnmng","journal":"Journal of Management","subject":"Management"},
     {"data":[{"type":"src","publisher":"sag"}],"jname":"orgstd","journal":"Organization Studies","subject":"Organizational Behaviour"},
-    {"data":[{"type":"src","publisher":"sag"}],"jname":"adscqt","journal":"Administrative Science Quarterly","subject":"Management"}
+    {"data":[{"type":"src","publisher":"sag"}],"jname":"adscqt","journal":"Administrative Science Quarterly","subject":"Management"},
+    {"data":[{"type":"src","publisher":"wly"}],"jname":"cnacre","journal":"Contemporary Accounting Research","subject":"Accounting"},
+    {"data":[{"type":"src","publisher":"wly"}],"jname":"enttap","journal":"Entrepreneurship Theory and Practice","subject":"Business, Entrepreneurship, Human Resources"},
+    {"data":[{"type":"src","publisher":"wly"}],"jname":"hrmngt","journal":"Human Resource Management","subject":"Business, Entrepreneurship, Human Resources"},
+    {"data":[{"type":"src","publisher":"wly"}],"jname":"stentj","journal":"Strategic Entrepreneurship Journal","subject":"Business, Entrepreneurship, Human Resources"}
 ]
