@@ -1,18 +1,9 @@
 import re
 def fix_keyword(keyword):
     keyword=re.sub(r'\(.+?\)', '', keyword).strip()
-    words=keyword.split()
-    words_fixed=[]
-    for idx, word in enumerate(words):
-        word_fixed=word
-        if idx==0:
-            word_fixed=word.capitalize()
-        else:
-            if len(word)>1:
-                if (word[0].isupper() and word[1].islower()):
-                    word_fixed=word.lower()
-        words_fixed.append(word_fixed)
-    keyword=' '.join(words_fixed)
+    if len(keyword)>1:
+        if (keyword[0].islower() and keyword[1].islower()):
+            keyword=keyword.capitalize()                                   
     return keyword
 def validate(article):
     with open('title_remove') as f:
