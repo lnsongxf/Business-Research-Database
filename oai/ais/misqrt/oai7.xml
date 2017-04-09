@@ -1,0 +1,2600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH
+	xmlns="http://www.openarchives.org/OAI/2.0/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+		http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+	<responseDate>2017-03-31T01:52:16Z</responseDate>
+	<request verb="ListRecords" resumptionToken="509567/oai_dc/700//" >http://aisel.aisnet.org/do/oai/</request>
+	
+	<ListRecords>
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2167</identifier>
+		<datestamp>2012-10-27T22:07:14Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Academic Issues in MIS: Journals and Books</dc:title>
+<dc:creator>Gillenson, Mark</dc:creator>
+<dc:creator>Stutz, Joel</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss4/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2167&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2163</identifier>
+		<datestamp>2012-10-27T22:07:14Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Supporting the Information Technology Champion</dc:title>
+<dc:creator>Breath, Cynthia</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss3/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2163&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2164</identifier>
+		<datestamp>2012-10-27T22:07:14Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Reuse and Productivity in Integrated Computer-Aided Software Engineering: An Empirical Study</dc:title>
+<dc:creator>Banker, Rajiv</dc:creator>
+<dc:creator>Kauffman, Robert</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss3/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2164&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2165</identifier>
+		<datestamp>2012-10-27T22:07:14Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>EPRINET: Leveraging Knowledge in the Electric Utility Industry</dc:title>
+<dc:creator>Mann, Marina</dc:creator>
+<dc:creator>Rudman, Richard</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss3/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2165&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2166</identifier>
+		<datestamp>2012-10-27T22:07:14Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Information Architecture: In Search of Efficient Flexibility</dc:title>
+<dc:creator>Allen, Brandt</dc:creator>
+<dc:creator>Boynton, Andrew</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss4/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2166&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2168</identifier>
+		<datestamp>2012-10-27T22:07:14Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>An Applied Framework for Classifying the Complexity of Knowledge-Based Systems</dc:title>
+<dc:creator>Meyer, Marc</dc:creator>
+<dc:creator>Curley, Kathleen</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss4/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2168&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2169</identifier>
+		<datestamp>2012-10-27T22:07:15Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Informational Systems Management Issues for the 1990&#39;s</dc:title>
+<dc:creator>Niederman, Fred</dc:creator>
+<dc:creator>Brancheau, James</dc:creator>
+<dc:creator>Wetherbe, James</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss4/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2169&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2170</identifier>
+		<datestamp>2012-10-27T22:07:15Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Educational Needs as Perceived by IS and End-User Personnel: A Survey of Knowledge and Skill Requirements</dc:title>
+<dc:creator>Nelson, Ryan</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss4/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2170&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2171</identifier>
+		<datestamp>2012-10-27T22:07:15Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Understanding Human Computer Interaction for Information Systems Design</dc:title>
+<dc:creator>Gerlach, James</dc:creator>
+<dc:creator>Kuo, Feng-Yang</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss4/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2171&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2172</identifier>
+		<datestamp>2012-10-27T22:07:15Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>USAA-IBM Partnerships in Information Technology: Managing the Image Project</dc:title>
+<dc:creator>Lasher, Donald</dc:creator>
+<dc:creator>Ives, Blake</dc:creator>
+<dc:creator>Jarvenpaa, Srikka</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss4/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2172&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2173</identifier>
+		<datestamp>2012-10-27T22:07:15Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Application Software Factory: Applying Total Quality Techniques to Systems Development</dc:title>
+<dc:creator>Swanson, Kent</dc:creator>
+<dc:creator>McComb, David</dc:creator>
+<dc:date>1991-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol15/iss4/8</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2173&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2122</identifier>
+		<datestamp>2012-10-27T22:07:16Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>What Chief Executives and Senior Managers Want from their IT Departments</dc:title>
+<dc:creator>Moynihan, Tony</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss1/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2122&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2123</identifier>
+		<datestamp>2012-10-27T22:07:16Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Expert Systems: A Question of Liability</dc:title>
+<dc:creator>Mykytyn, Kathleen</dc:creator>
+<dc:creator>Mykytyn, Peter</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss1/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2123&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2124</identifier>
+		<datestamp>2012-10-27T22:07:16Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Discovering and Disciplining Computer Abuse in Organizations: A Field Study</dc:title>
+<dc:creator>Straub, Detmar</dc:creator>
+<dc:creator>Nance, William</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss1/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2124&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2125</identifier>
+		<datestamp>2012-10-27T22:07:16Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Powers-of-Ten Information Biases</dc:title>
+<dc:creator>Ricketts, John</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss1/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2125&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2126</identifier>
+		<datestamp>2012-10-27T22:07:16Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Individual Adjustment to Information-Driven Technologies: A Critical Review</dc:title>
+<dc:creator>Nelson, Debra</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss1/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2126&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2127</identifier>
+		<datestamp>2012-10-27T22:07:16Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Importance of Learning Style in End-User Training</dc:title>
+<dc:creator>Bostrom, Robert</dc:creator>
+<dc:creator>Olfman, Lorne</dc:creator>
+<dc:creator>Sein, Maung</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss1/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2127&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2128</identifier>
+		<datestamp>2012-10-27T22:07:17Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>An Examination of the Impact of Expert Systems on the Firm: The Case of XCON</dc:title>
+<dc:creator>Sviokla, John</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss2/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2128&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2129</identifier>
+		<datestamp>2012-10-27T22:07:17Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Key Information Liability Issues Facing Managers: Software Piracy, Proprietary Databases, and Individual Rights Privacy</dc:title>
+<dc:creator>Straub, Detmar</dc:creator>
+<dc:creator>Collins, Rosann</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss2/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2129&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2130</identifier>
+		<datestamp>2012-10-27T22:07:17Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Information System Cost Estimating: A Management Perspective</dc:title>
+<dc:creator>Lederer, Albert</dc:creator>
+<dc:creator>Mirani, Rajesh</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss2/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2130&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2131</identifier>
+		<datestamp>2012-10-27T22:07:17Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>An Asset-Based Systems Development Approach to Software Reusability</dc:title>
+<dc:creator>Karimi, Jahangri</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss2/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2131&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2132</identifier>
+		<datestamp>2012-10-27T22:07:17Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>An Examination of Factors for the Strategic Use of Information Systems in the Healthcare Industry</dc:title>
+<dc:creator>Kim, K.</dc:creator>
+<dc:creator>Michelman, Jefferey</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss2/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2132&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2134</identifier>
+		<datestamp>2012-10-27T22:07:18Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Investigating the Support Role of the Information Center</dc:title>
+<dc:creator>Bergeron, Francois</dc:creator>
+<dc:creator>Rivard, Suzanne</dc:creator>
+<dc:creator>Serre, Lyne</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss3/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2134&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2133</identifier>
+		<datestamp>2012-10-27T22:07:18Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Influences on the IS Manager&#39;s Perceptions of Key Issues: Information Scanning and the Relationship with the CEO</dc:title>
+<dc:creator>Watson, Richard</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss2/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2133&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2135</identifier>
+		<datestamp>2012-10-27T22:07:19Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>An Empirical Investigation of the Relationship Between DSS Usage and System Performance: A Case Study of a Navigation Support System</dc:title>
+<dc:creator>Le, Louis</dc:creator>
+<dc:creator>Kozar, Kenneth</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss3/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2135&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2136</identifier>
+		<datestamp>2012-10-27T22:07:19Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Intelligent Interface Design: An Empirical Assessment of Knowledge Presentation in Expert Systems</dc:title>
+<dc:creator>Lamberti, Donna</dc:creator>
+<dc:creator>Wallace, William</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss3/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2136&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2137</identifier>
+		<datestamp>2012-10-27T22:07:19Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Effects of Anonymity on GDSS Group Process with and Idea-Generating Task</dc:title>
+<dc:creator>Jessup, Leonard</dc:creator>
+<dc:creator>Connolly, Terry</dc:creator>
+<dc:creator>Galegher, Jolene</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss3/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2137&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2138</identifier>
+		<datestamp>2012-10-27T22:07:19Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>KBS Circles: A Technology Transfer Initiative that Leverages Xerox&#39;s &#34;Leadership Through Quality Program&#34;</dc:title>
+<dc:creator>Maletz, Mark</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss3/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2138&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2139</identifier>
+		<datestamp>2012-10-27T22:07:19Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>TELCOT: An Application of Information Technology for Competitive Advantage in the Cotton Industry</dc:title>
+<dc:creator>Lindsey, Darryl</dc:creator>
+<dc:creator>Cheney, Paul</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss4/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2139&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2093</identifier>
+		<datestamp>2012-10-27T22:07:20Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Managing Investment in Information Technology: Mini Case Examples and Implications</dc:title>
+<dc:creator>Weill, Peter</dc:creator>
+<dc:creator>Olson, Margrethe</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss1/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2093&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2144</identifier>
+		<datestamp>2012-10-27T22:07:20Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Reusability-Based Strategy for Development of Information Systems: Implementation Experience of a Bank</dc:title>
+<dc:creator>Apte, Uday</dc:creator>
+<dc:creator>Sankar, Cheten</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss4/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2144&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2094</identifier>
+		<datestamp>2012-10-27T22:07:20Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>A Scientific Methodology for MIS Case Studies</dc:title>
+<dc:creator>Lee, Allen</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss1/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2094&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2140</identifier>
+		<datestamp>2012-10-27T22:07:20Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Marriage of Retail Marketing and Information Systems Technology: The Zellers Club Z Experience</dc:title>
+<dc:creator>Wightman, Kenneth</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss4/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2140&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2141</identifier>
+		<datestamp>2012-10-27T22:07:20Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Implementing Electronic Meeting Systems at IBM: Lessons Learned and Success Factors</dc:title>
+<dc:creator>Grohowski, Ron</dc:creator>
+<dc:creator>McGoff, Chris</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss4/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2141&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2142</identifier>
+		<datestamp>2012-10-27T22:07:20Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>A Principles-Based Enterprise Architecture: Lessons from Texaco and Start Enterprise</dc:title>
+<dc:creator>Richardson, Gary</dc:creator>
+<dc:creator>Jackson, Brad</dc:creator>
+<dc:creator>Dickson, Gary</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss4/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2142&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2143</identifier>
+		<datestamp>2012-10-27T22:07:20Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>A Network Infrastructure to Contain Costs and Enable Fast Response: The TRW Process</dc:title>
+<dc:creator>Railing, Larry</dc:creator>
+<dc:creator>Housel, Tom</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss4/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2143&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2145</identifier>
+		<datestamp>2012-10-27T22:07:20Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>EIS: It Can Work in the Public Sector</dc:title>
+<dc:creator>Mohan, Lakshmi</dc:creator>
+<dc:creator>Holstein, William</dc:creator>
+<dc:creator>Adams, Robert</dc:creator>
+<dc:date>1990-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol14/iss4/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2145&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2095</identifier>
+		<datestamp>2012-10-27T22:07:21Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Rethinking the Concept of User Involvement</dc:title>
+<dc:creator>Barki, Henri</dc:creator>
+<dc:creator>Hartwick, Jon</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss1/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2095&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2098</identifier>
+		<datestamp>2012-10-27T22:07:21Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Perceived Importance of Systems Analysts&#39; Job Skills, Roles, and Non-Salary Incentives</dc:title>
+<dc:creator>Green, Gary</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss2/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2098&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2099</identifier>
+		<datestamp>2012-10-27T22:07:21Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Implementing Security and Integrity in Micro-Mainframe Networks</dc:title>
+<dc:creator>Boockholdt, J.L.</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss2/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2099&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2101</identifier>
+		<datestamp>2012-10-27T22:07:21Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>A Study of the Relationship Between Decision Model Naturalness and Performance</dc:title>
+<dc:creator>Kottemann, Jeffery</dc:creator>
+<dc:creator>Remus, William</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss2/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2101&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2100</identifier>
+		<datestamp>2012-10-27T22:07:21Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Validating Instruments in MIS Research</dc:title>
+<dc:creator>Straub, Detmar</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss2/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2100&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2102</identifier>
+		<datestamp>2012-10-27T22:07:21Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>An Experimental Validation of the Gorry and Scott Morton Framework</dc:title>
+<dc:creator>Kris, Peeter</dc:creator>
+<dc:creator>Sanders, G.</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss2/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2102&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2096</identifier>
+		<datestamp>2012-10-27T22:07:21Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Logic Programming as a Paradigm for Financial Modeling</dc:title>
+<dc:creator>Minch, Robert</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss1/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2096&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2097</identifier>
+		<datestamp>2012-10-27T22:07:21Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Problem of Statistical Power in MIS Research</dc:title>
+<dc:creator>Baroudi, Jack</dc:creator>
+<dc:creator>Orlikowski, Wanda</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss1/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2097&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2103</identifier>
+		<datestamp>2012-10-27T22:07:22Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Integrating Decision Technologies: Implications for Management Curriculum</dc:title>
+<dc:creator>Adams, Carl</dc:creator>
+<dc:creator>Song, Jae</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss2/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2103&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2104</identifier>
+		<datestamp>2012-10-27T22:07:22Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Preparing IS Students to Deal with Ethical Issues</dc:title>
+<dc:creator>Couger, J.</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss2/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2104&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2105</identifier>
+		<datestamp>2012-10-27T22:07:22Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Characteristics of Periodical Literature for the Potential Reader of Author in Information Management</dc:title>
+<dc:creator>Boyer, Glen</dc:creator>
+<dc:creator>Carlson, Gary</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss2/8</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2105&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2106</identifier>
+		<datestamp>2012-10-27T22:07:22Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Technology Issues Facing Corporate Management in the 1990&#39;s</dc:title>
+<dc:creator>Dixon, Paul</dc:creator>
+<dc:creator>John, Darwin</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss3/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2106&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2107</identifier>
+		<datestamp>2012-10-27T22:07:22Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Incorporating Behavioral Techniques into the Systems Development Life Cycle</dc:title>
+<dc:creator>Mantei, Marilyn</dc:creator>
+<dc:creator>Teorey, Toby</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss3/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2107&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2108</identifier>
+		<datestamp>2012-10-27T22:07:22Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Understanding the Information Content in MIS Management Tools</dc:title>
+<dc:creator>Kydd, Christine</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss3/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2108&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2109</identifier>
+		<datestamp>2012-10-27T22:07:22Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Reconstructing the Systems Development Organization</dc:title>
+<dc:creator>Swanson, E.</dc:creator>
+<dc:creator>Beath, Cynthia</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss3/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2109&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2110</identifier>
+		<datestamp>2012-10-27T22:07:23Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Linking the Information Technology Structure with Organizational Competitive Strategy: A Survey</dc:title>
+<dc:creator>Tavakolian, Hamid</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss3/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2110&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2111</identifier>
+		<datestamp>2012-10-27T22:07:23Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology</dc:title>
+<dc:creator>Davis, Fred</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss3/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2111&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2112</identifier>
+		<datestamp>2012-10-27T22:07:23Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Measurement of Fairness or Equity Perceptions of Management Information Systems Users</dc:title>
+<dc:creator>Joshi, Kailash</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss3/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2112&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2113</identifier>
+		<datestamp>2012-10-27T22:07:23Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Establishing Telemarketing Leadership through Information Management: Creative Concepts at ATT American Transtech</dc:title>
+<dc:creator>Cobbin, W.</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss3/8</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2113&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2114</identifier>
+		<datestamp>2012-10-27T22:07:23Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Factors Affecting Policy for Distributing Computing Resources</dc:title>
+<dc:creator>Ahituv, Niv</dc:creator>
+<dc:creator>Neumann, Seev</dc:creator>
+<dc:creator>Zviran, Moshe</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss4/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2114&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2118</identifier>
+		<datestamp>2012-10-27T22:07:24Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Corporate Videotex: A Strategic Business Information System</dc:title>
+<dc:creator>Kusekoski, Gene</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss4/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2118&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2115</identifier>
+		<datestamp>2012-10-27T22:07:24Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Control and Audit of Electronic Data Interchange</dc:title>
+<dc:creator>Hansen, James</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss4/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2115&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2116</identifier>
+		<datestamp>2012-10-27T22:07:24Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Perceived Chargeback System Fairness in Decentralized Organizations: An Examination of the Issues</dc:title>
+<dc:creator>Hufnagel, Ellen</dc:creator>
+<dc:creator>Birnberg, Jacob</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss4/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2116&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2117</identifier>
+		<datestamp>2012-10-27T22:07:24Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Integrating Islands of Automation</dc:title>
+<dc:creator>Hale, David</dc:creator>
+<dc:creator>Haseman, William</dc:creator>
+<dc:creator>Groom, Frank</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss4/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2117&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2119</identifier>
+		<datestamp>2012-10-27T22:07:24Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Developing and Expert Systems Strategy</dc:title>
+<dc:creator>Braden, Barbara</dc:creator>
+<dc:creator>Kanter, Jerome</dc:creator>
+<dc:creator>Kopcso, David</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss4/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2119&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2120</identifier>
+		<datestamp>2012-10-27T22:07:24Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Managing the Merger Building Partnership through IT Planning at the New Baxter</dc:title>
+<dc:creator>Main, Thomas</dc:creator>
+<dc:creator>Short, James</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss4/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2120&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2121</identifier>
+		<datestamp>2012-10-27T22:07:24Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Reducing Data Processing Costs Through Centralized Procurement</dc:title>
+<dc:creator>Taylor, James</dc:creator>
+<dc:creator>Tucker, Charles</dc:creator>
+<dc:date>1989-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol13/iss4/8</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2121&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1988</identifier>
+		<datestamp>2012-10-27T22:07:25Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>After the Sale: Leveraging Maintenance with Information Technology</dc:title>
+<dc:creator>Ives, Blake</dc:creator>
+<dc:creator>Vitale, Michael</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1988&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1989</identifier>
+		<datestamp>2012-10-27T22:07:25Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>A Company University Join Venture to Build a Knowledge-Base System</dc:title>
+<dc:creator>Weitzel, John</dc:creator>
+<dc:creator>Andrews, Kenneth</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1989&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1990</identifier>
+		<datestamp>2012-10-27T22:07:25Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Developing Capabilities to Use Information Strategically</dc:title>
+<dc:creator>Johnston, H.</dc:creator>
+<dc:creator>Carrico, Shelley</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1990&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1991</identifier>
+		<datestamp>2012-10-27T22:07:25Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Determinants of Success for Computer Usage in Small Business</dc:title>
+<dc:creator>DeLone, William</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1991&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1992</identifier>
+		<datestamp>2012-10-27T22:07:25Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Matching Computer-Based Information Systems with Organizational Structures</dc:title>
+<dc:creator>Leifer, Richard</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1992&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1993</identifier>
+		<datestamp>2012-10-27T22:07:26Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Critical Factors in the User Environment: An Experimental Study of Users, Organizations and Tasks</dc:title>
+<dc:creator>Yaverbaum, Gayle</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1993&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1994</identifier>
+		<datestamp>2012-10-27T22:07:26Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Effect of User Involvement on System Success: A Contingency Approach</dc:title>
+<dc:creator>Tait, Peter</dc:creator>
+<dc:creator>Vessey, Iris</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1994&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1995</identifier>
+		<datestamp>2012-10-27T22:07:26Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Restoring a Sense of Control During Implementation: How User Involvement Leads to System Acceptance</dc:title>
+<dc:creator>Baronas, Ann-Marie</dc:creator>
+<dc:creator>Louis, Meryl</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/8</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1995&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1996</identifier>
+		<datestamp>2012-10-27T22:07:26Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Airline Management Information System at Arikia Israeli Airlines</dc:title>
+<dc:creator>Borovits, Israel</dc:creator>
+<dc:creator>Neumann, Seev</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/9</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1996&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1997</identifier>
+		<datestamp>2012-10-27T22:07:26Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Creating Competitive Advantage with Interorganizational Information Systems</dc:title>
+<dc:creator>Johnston, H.</dc:creator>
+<dc:creator>Vitale, Michael</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1997&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1998</identifier>
+		<datestamp>2012-10-27T22:07:26Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Software Maintainability: Perceptions of EDP Professionals</dc:title>
+<dc:creator>Kim, Chai</dc:creator>
+<dc:creator>Westin, Stu</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1998&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-1999</identifier>
+		<datestamp>2012-10-27T22:07:26Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Value of Strategic IS Planning: Understanding Consistency, Validity, and IS Markets</dc:title>
+<dc:creator>Henderson, John</dc:creator>
+<dc:creator>Sifonis, John</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=1999&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2000</identifier>
+		<datestamp>2012-10-27T22:07:27Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>A Framework for Comparing Information Engineering Methods</dc:title>
+<dc:creator>Hackathorn, Richard</dc:creator>
+<dc:creator>Karimi, Jahangir</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2000&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2001</identifier>
+		<datestamp>2012-10-27T22:07:27Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Implication of Decision Support Benefits Within the Context of Value Analysis</dc:title>
+<dc:creator>Money, Arthur</dc:creator>
+<dc:creator>Tromp, David</dc:creator>
+<dc:creator>Wegner, Trevor</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2001&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2002</identifier>
+		<datestamp>2012-10-27T22:07:27Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Factors Affecting Information Satisfaction in the Context of the Small Business Environment</dc:title>
+<dc:creator>Montazemi, Ali</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2002&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2003</identifier>
+		<datestamp>2012-10-27T22:07:28Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Measurement of End-User Computing Satisfaction</dc:title>
+<dc:creator>Doll, William</dc:creator>
+<dc:creator>Torkzadeh, Gholamreza</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2003&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2004</identifier>
+		<datestamp>2012-10-27T22:07:28Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Computer-Based Support for Group Problem-Finding: An Experimental Investigation</dc:title>
+<dc:creator>Gallupe, R.</dc:creator>
+<dc:creator>DeSanctis, Gerardine</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/8</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2004&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2005</identifier>
+		<datestamp>2012-10-27T22:07:28Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>An Information Systems Keyword Classification Scheme</dc:title>
+<dc:creator>Barki, Henri</dc:creator>
+<dc:creator>Rivard, Suzanne</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/9</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2005&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2006</identifier>
+		<datestamp>2012-10-27T22:07:28Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Measuring Information Systems Performance: Experience with the Management by Results System at Security Pacific Bank</dc:title>
+<dc:creator>Singleton, John</dc:creator>
+<dc:creator>McLean, Ephraim</dc:creator>
+<dc:creator>Altman, Edward</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss2/10</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2006&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2007</identifier>
+		<datestamp>2012-10-27T22:07:28Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Airline Reservations Systems: Lessons from History</dc:title>
+<dc:creator>Copeland, Duncan</dc:creator>
+<dc:creator>McKenney, James</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss3/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2007&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2008</identifier>
+		<datestamp>2012-10-27T22:07:28Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Managing the Data Resource: A Contingency Perspective</dc:title>
+<dc:creator>Goodhue, Dale</dc:creator>
+<dc:creator>Quillard, Judith</dc:creator>
+<dc:creator>Rockart, John</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss3/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2008&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2009</identifier>
+		<datestamp>2012-10-27T22:07:28Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Economics of Software Quality Assurance: A Simulation-Based Case Study</dc:title>
+<dc:creator>Abdel-Hamid, Tarek</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss3/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2009&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2010</identifier>
+		<datestamp>2012-10-27T22:07:28Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Critical Success Factors for Information Center Managers</dc:title>
+<dc:creator>Magai, Simha</dc:creator>
+<dc:creator>Carr, Houston</dc:creator>
+<dc:creator>Watson, Hugh</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss3/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2010&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2011</identifier>
+		<datestamp>2012-10-27T22:07:29Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Are Information Systems People Different: An Investigation of How They Are and Should be Managed</dc:title>
+<dc:creator>Ferratt, Thomas</dc:creator>
+<dc:creator>Short, Larry</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss3/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2011&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2012</identifier>
+		<datestamp>2012-10-27T22:07:29Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>The Implementation of Strategic Information Systems Planning Methodologies</dc:title>
+<dc:creator>Lederer, Albert</dc:creator>
+<dc:creator>Sethi, Vijay</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss3/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2012&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2013</identifier>
+		<datestamp>2012-10-27T22:07:29Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Using a GDSS to Facilitate Group Consensus: Some Intended and Unintended Consequences</dc:title>
+<dc:creator>Watson, Richard</dc:creator>
+<dc:creator>DeSanctis, Gerardine</dc:creator>
+<dc:creator>Poole, Marshall</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss3/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2013&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2014</identifier>
+		<datestamp>2012-10-27T22:07:29Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Dialogue Management: Support for Dialogue Independence</dc:title>
+<dc:creator>Kuo, Feng-Yang</dc:creator>
+<dc:creator>Konsynski, Benn</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss3/8</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2014&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2015</identifier>
+		<datestamp>2012-10-27T22:07:30Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Convincing Top Management of the Strategic Potential of Information Systems</dc:title>
+<dc:creator>Lederer, Albert</dc:creator>
+<dc:creator>Mendelow, Aubrey</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss4/1</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2015&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2016</identifier>
+		<datestamp>2012-10-27T22:07:30Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Implementing Packaged Software</dc:title>
+<dc:creator>Lucas, Henry</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss4/2</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2016&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2017</identifier>
+		<datestamp>2012-10-27T22:07:30Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Issue-Based Decision Support Systems for the Egyptian Cabinet</dc:title>
+<dc:creator>Sherif, Hisham</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss4/3</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2017&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2018</identifier>
+		<datestamp>2012-10-27T22:07:30Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Combining Qualitative and Quantitative Methods in Information Systems Research: A Case Study</dc:title>
+<dc:creator>Kaplan, Bonnie</dc:creator>
+<dc:creator>Duchon, Dennis</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss4/4</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2018&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2019</identifier>
+		<datestamp>2012-10-27T22:07:30Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Introduction to Special Section on GDSS</dc:title>
+<dc:creator>Benbasat, Izak</dc:creator>
+<dc:creator>Konsynski, Benn</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss4/5</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2019&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2020</identifier>
+		<datestamp>2012-10-27T22:07:30Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Information Technology to Support Electronic Meetings</dc:title>
+<dc:creator>Dennis, Alan</dc:creator>
+<dc:creator>George, Joey</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss4/6</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2020&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2021</identifier>
+		<datestamp>2012-10-27T22:07:30Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>A Study of Influence in Computer-Mediated Group Decision Making</dc:title>
+<dc:creator>Zigurs, Ilze</dc:creator>
+<dc:creator>Poole, M.</dc:creator>
+<dc:creator>DeSanctis, Gerardine</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss4/7</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2021&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2057</identifier>
+		<datestamp>2012-10-27T22:07:31Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>After the Sale: Leveraging Maintenance with Information Technology</dc:title>
+<dc:creator>Ives, Blake</dc:creator>
+<dc:creator>Vitale, Michael</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/10</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2057&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+			
+<record>
+	<header>
+		<identifier>oai:aisel.aisnet.org:misq-2061</identifier>
+		<datestamp>2012-10-27T22:07:31Z</datestamp>
+				<setSpec>publication:journals</setSpec>
+				<setSpec>publication:misq</setSpec>
+			</header>
+	<metadata>
+		<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+			<dc:title>Matching Computer-Based Information Systems with Organizational Structures</dc:title>
+<dc:creator>Leifer, Richard</dc:creator>
+<dc:date>1988-12-31T08:00:00Z</dc:date>
+<dc:type>text</dc:type>
+<dc:format>application/pdf</dc:format>
+<dc:identifier >http://aisel.aisnet.org/misq/vol12/iss1/14</dc:identifier>
+<dc:identifier>http://aisel.aisnet.org/cgi/viewcontent.cgi?article=2061&#38;amp;context=misq</dc:identifier>
+<dc:source>Management Information Systems Quarterly</dc:source>
+<dc:publisher>AIS Electronic Library (AISeL)</dc:publisher>
+
+
+		</oai_dc:dc>
+	</metadata>
+</record>
+
+				
+			<resumptionToken completeListSize="1372" cursor="700">509567/oai_dc/800//</resumptionToken>
+		
+		</ListRecords>
+</OAI-PMH>
