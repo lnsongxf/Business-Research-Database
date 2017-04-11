@@ -3,7 +3,7 @@ def fix_keyword(keyword):
     keyword=re.sub(r'\(.+?\)', '', keyword).strip()
     if len(keyword)>1:
         if (keyword[0].islower() and keyword[1].islower()):
-            keyword=keyword.capitalize()                                   
+            keyword=keyword[0].capitalize()+keyword[1:]                        
     return keyword
 def validate(article):
     with open('title_remove') as f:
