@@ -10,7 +10,7 @@ def validate(article):
         title_remove_list = f.readlines()
     # you may also want to remove whitespace characters like `\n` at the end of each line
     title_remove_list = [x.strip() for x in title_remove_list] 
-    title=article['ex:title'].lower()
+    title=article['e:title'].lower()
     validate=True
     if title in title_remove_list:
         validate=False
