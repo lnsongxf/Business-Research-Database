@@ -1,0 +1,131 @@
+extends ../node_modules/pug-bootstrap/_bootstrap
+append styles
+	link(href='../css/starter-template.css', rel='stylesheet')
+block body
+	+navbar-fixed("","navbar","inverse")
+		+nav_item("/","active") Journals
+		+nav_item("/search") Search
+		+nav_item("mailto:moqri@ufl.edu") Contact
+	.container
+		.starter-template
+			-var source_enc=encodeURIComponent(source)
+			h4
+				a(href='/') Journals
+				=' / ' + source
+		h4 Top Keywords:
+		for res in qkeys
+			if (typeof(res.keyword) !== 'undefined')
+				-var keyword=res.keyword.value
+				-var count=res.count.value
+				a(href='keyword?keyword='+keyword)
+					=keyword 
+				="("+count+"); "
+		h4 Top Authors:
+		for res in qcreators
+			if (typeof(res.creator) !== 'undefined')
+				-var creator=res.creator.value
+				-var count=res.count.value
+				a(href='author?name='+creator)
+					=creator 
+				="("+count+"); "
+		br
+		h4  Years and Volumes
+		.panel-group
+			.panel
+				.panel-heading
+					h4(class="panel-title")
+						a(data-toggle="collapse", href="#collapse2010") 
+							="2010 - "+max
+				#collapse2010(class="panel-collapse collapse in")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=2010
+								li(class="list-group-item")
+									a(href='year_articles?source='+source_enc+'&year='+year)
+										=year
+			if min<2010	
+				.panel
+					.panel-heading
+						h4(class="panel-title")
+							a(data-toggle="collapse", href="#collapse2000") 2000 - 2009
+				#collapse2000(class="panel-collapse collapse")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=2000 & year < 2010
+								li(class="list-group-item") 
+									a(href='year_articles?source='+source_enc+'&year='+year)
+										=year
+			if min<2000	
+				.panel
+					.panel-heading
+						h4(class="panel-title")
+							a(data-toggle="collapse", href="#collapse1990") 1990 - 1999
+				#collapse1990(class="panel-collapse collapse")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=1990 & year < 2000
+								li(class="list-group-item") 
+									a(href='year_articles?source='+source_enc+'&year='+year)
+										=year
+			if min<1990	
+				.panel
+					.panel-heading
+						h4(class="panel-title")
+							a(data-toggle="collapse", href="#collapse1980") 1980 - 1989
+				#collapse1980(class="panel-collapse collapse")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=1980 & year < 1990
+								li(class="list-group-item") 
+									a(href='year_articles?source='+source_enc+'&year='+year)
+										=year
+			if min<1980	
+				.panel
+					.panel-heading
+						h4(class="panel-title")
+							a(data-toggle="collapse", href="#collapse1970") 1970 - 1979
+				#collapse1970(class="panel-collapse collapse")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=1970 & year < 1980
+								li(class="list-group-item") 
+									a(href='year_articles?source='+source_enc+'&year='+year)
+										=year
+			if min<1970	
+				.panel
+					.panel-heading
+						h4(class="panel-title")
+							a(data-toggle="collapse", href="#collapse1960") 1960 - 1969
+				#collapse1960(class="panel-collapse collapse")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=1960 & year < 1970
+								li(class="list-group-item") 
+									a(href='year_articles?source='+source_enc+'&year='+year)
+										=year
+			if min<1960	
+				.panel
+					.panel-heading
+						h4(class="panel-title")
+							a(data-toggle="collapse", href="#collapse1950") 1950 - 1959
+				#collapse1950(class="panel-collapse collapse")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=1950 & year < 1960
+								li(class="list-group-item") 
+									a(href='year_articles?source='+source_enc+'&year='+year)
+										=year										

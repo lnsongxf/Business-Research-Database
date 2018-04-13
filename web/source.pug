@@ -1,0 +1,105 @@
+extends ../node_modules/pug-bootstrap/_bootstrap
+append styles
+	link(href='../css/starter-template.css', rel='stylesheet')
+block body
+	+navbar-fixed("","navbar","inverse")
+		+nav_item("/","active") Journals
+		+nav_item("/search") Search
+		+nav_item("mailto:moqri@ufl.edu") Contact
+	.container
+		.starter-template
+			-var journal_enc=encodeURIComponent(journal)
+			h4
+				a(href='/') Journals
+				=' / ' + journal
+
+		h4 Most Common Keywords
+		for res in qkeys
+			if (typeof(res.keyword) !== 'undefined')
+				-var keyword=res.keyword.value
+				-var count=res.count.value
+				a(href='keyword?keyword='+keyword+'&issn='+issn+'&journal='+journal_enc)
+					=keyword 
+				="("+count+"); "
+
+		h4 Most Prolific Authors
+		for res in qcreators
+			if (typeof(res.creator) !== 'undefined')
+				-var creator=res.creator.value
+				-var count=res.count.value
+				a(href='author?name='+creator+'&issn='+issn+'&journal='+journal_enc)
+					=creator 
+				="("+count+"); "
+
+		h4 Most Cited Articles
+		lu
+			for res in qarticles
+				-var id=res.id[0].value
+				if (typeof(res.title) !== 'undefined')
+					-var title=res.title.value
+				if (typeof(res.citation[0]) !== 'undefined')
+					-var citation=res.citation[0].value
+				else 
+					-var citation=''
+
+				if (typeof(res.year[0]) !== 'undefined')
+					-var year=res.year[0].value
+					if citation!=''
+						li
+							a(href='article?id='+id+'&issn='+issn+'&journal='+journal_enc+'&year='+year)
+								=title 
+							=" - " + year	
+							=" ("+citation+" citations)"
+							br
+
+		h4  Years and Volumes
+		.panel-group
+			.panel
+				.panel-heading
+					h4(class="panel-title")
+						a(data-toggle="collapse", href="#collapse2010") 
+							="2010 - "+max
+				#collapse2010(class="panel-collapse collapse in")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=2010
+								li(class="list-group-item")
+									a(href='year_articles?issn='+issn+'&journal='+journal_enc+'&year='+year)
+										=year
+			if min<2010	
+				.panel
+					.panel-heading
+						h4(class="panel-title")
+							a(data-toggle="collapse", href="#collapse2000") 2000 - 2009
+				#collapse2000(class="panel-collapse collapse")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=2000 & year < 2010
+								li(class="list-group-item") 
+									a(href='year_articles?issn='+issn+'&journal='+journal_enc+'&year='+year)
+										=year
+			if min<2000	
+				.panel
+					.panel-heading
+						h4(class="panel-title")
+							a(data-toggle="collapse", href="#collapse1990") 1990 - 1999
+				#collapse1990(class="panel-collapse collapse")
+					ul(class="list-group")
+						for res in qyears
+							-var year=res.year.value
+							-var vol_iss=res.vol_iss
+							if year>=1990 & year < 2000
+								li(class="list-group-item") 
+									a(href='year_articles?issn='+issn+'&journal='+journal_enc+'&year='+year)
+										=year									
+	script.
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-96980151-1', 'auto');
+		ga('send', 'pageview');											

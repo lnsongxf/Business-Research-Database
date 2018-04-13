@@ -1,0 +1,79 @@
+extends ../node_modules/pug-bootstrap/_bootstrap
+append styles
+  link(href='../css/starter-template.css', rel='stylesheet')
+block body
+  +navbar-fixed("","navbar","inverse")
+    +nav_item("/","active") Journals
+    +nav_item("/search") Search
+    +nav_item("mailto:moqri@ufl.edu") Contact
+  .container
+    .starter-template
+      -var source_enc=encodeURIComponent(source)
+      a(href='/') Journals
+      =' / '
+      a(href='/source?source='+source_enc)
+        =source    
+      =' / '
+      a(href='/year_articles?source='+source+'&year='+year) 
+        =year
+      br
+      br
+      table(border=1)
+        tbody
+        for res in qres
+          -var title=res.title.value
+          -var authors=res.creator
+          if res.year.length>0
+            -var year=res.year[0].value
+          else 
+            -var year=''
+          -var source=res.source[0].value
+          if res.abstract.length>0
+            -var abstract=res.abstract[0].value
+          else
+            -var abstract=''
+          if res.url.length>0
+            -var url=res.url[0].value
+          else 
+            -var url=''
+          -var keywords=res.keyword
+          tr
+            td
+              b Title
+            td
+              !=title
+          tr
+            td
+              b Authors
+            td      
+              for author in authors
+                a(href='author?name='+author.value)
+                  =author.value + '; '
+          tr
+            td
+              b Source
+            td
+              =source
+          tr
+            td
+              b Year
+            td
+              =year              
+          tr
+            td
+              b Abstract
+            td
+              !=abstract
+          tr
+            td
+              b Keywords
+            td
+              for keyword in keywords
+                a(href='keyword?keyword='+keyword.value)
+                  =keyword.value + '; '
+          tr
+            td
+              b Link
+            td
+              a(href=url)
+                =url

@@ -1,0 +1,88 @@
+extends ../node_modules/pug-bootstrap/_bootstrap
+append styles
+	link(href='../css/starter-template.css', rel='stylesheet')
+block body
+	+navbar-fixed("","navbar","inverse")
+		+nav_item("/") Journals
+		+nav_item("/search","active") Search
+		+nav_item("mailto:moqri@ufl.edu") Contact
+	.container
+		.starter-template
+			h3 
+				=name
+				="'s Articles"
+		h4 
+			="Published in " + journal
+		table(border=1, cellpadding="2")
+			thead
+				tr
+					td
+						b Title
+					td
+						b Year
+					td
+						b Citations
+			tbody
+			for res in qauthor_issn
+				-var title=res.title.value
+				-var title_enc=encodeURIComponent(title)   
+				-var citation = ''
+				if (typeof(res.citation[0]) !== 'undefined')
+					-var citation=res.citation[0].value				
+				-var year=''
+				if res.year.length>0
+					-var year=res.year[0].value
+				-var id=res.id[0].value
+				tr
+					td
+						a(href='article\?id='+id+'&issn='+issn+'&journal='+journal+'&year='+year)
+							!=title
+					td
+						=year
+					td
+						=citation
+		br
+		h4 
+			="Published in other journals"
+		table(border=1, cellpadding="2")
+			thead
+				tr
+					td
+						b Title
+					td
+						b Year
+					td
+						b Journal
+					td
+						b Citations
+			tbody
+			for res in author_other
+				-var journal=res.journal[0].value
+				-var title=res.title.value
+				-var title_enc=encodeURIComponent(title)   
+				-var citation = ''
+				if (typeof(res.citation[0]) !== 'undefined')
+					-var citation=res.citation[0].value				
+				-var year=''
+				if res.year.length>0
+					-var year=res.year[0].value
+				-var id=res.id[0].value
+				tr
+					td
+						a(href='article\?id='+id+'&issn='+issn+'&journal='+journal+'&year='+year)
+							!=title
+					td
+						=year
+					td
+						=journal
+					td
+						=citation			
+		br
+		br
+	script.
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-96980151-1', 'auto');
+		ga('send', 'pageview');		

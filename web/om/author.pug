@@ -1,0 +1,41 @@
+extends ../node_modules/pug-bootstrap/_bootstrap
+append styles
+  link(href='../css/starter-template.css', rel='stylesheet')
+block body
+  +navbar-fixed("","navbar","inverse")
+    +nav_item("/") Journals
+    +nav_item("/search","active") Search
+    +nav_item("mailto:moqri@ufl.edu") Contact
+  .container
+   .starter-template
+    h3 
+      =name
+      ="'s Articles"
+    table(border=1, cellpadding="2")
+      thead
+        tr
+          td
+            b Title
+          td
+            b Source
+          td
+            b Year
+      tbody
+        for res in qres
+          -var title=res.title.value
+          -var title_enc=encodeURIComponent(title)          
+          -var source=res.source[0].value
+          if res.year.length>0
+            -var year=res.year[0].value
+          else
+            -var year=''
+          tr
+            td
+              a(href='article\?title='+title_enc)
+                !=title
+            td
+              =source
+            td
+              =year
+
+

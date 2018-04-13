@@ -1,0 +1,129 @@
+extends ../node_modules/pug-bootstrap/_bootstrap
+append styles
+  link(href='../css/starter-template.css', rel='stylesheet')
+block body
+  +navbar-fixed("","navbar","inverse")
+    +nav_item("/","active") Journals
+    +nav_item("/search") Search
+    +nav_item("mailto:moqri@ufl.edu") Contact
+  .container
+    .starter-template
+      -var res=qarticle[0]
+      -var title=res.title.value
+      -var creators=res.creator
+      -var issn=res.issn[0].value
+      -var journal=res.journal[0].value
+
+      if res.year.length>0
+        -var year=res.year[0].value
+      else 
+        -var year=''
+      -var source=res.source[0].value
+      if res.abstract.length>0
+        -var abstract=res.abstract[0].value
+      else
+        -var abstract=''
+      if res.id.length>0
+        -var id=res.id[0].value
+      else 
+        -var id=''
+      -var keywords=res.keyword
+      -var references=res.reference
+      if res.citation.length>0
+        -var citation=res.citation[0].value
+      else
+        -var citation='' 
+
+      h4
+        -var journal_enc=encodeURIComponent(journal)
+        a(href='/') Journals
+        =' / '
+        a(href='source?issn='+issn+'&journal='+journal_enc)
+          =journal    
+        =' / '
+        a(href='year_articles?issn='+issn+'&journal='+journal_enc+'&year='+year)
+          =year
+      br
+      br
+      table(border=1)
+        tbody
+          tr
+            td
+              b Title
+            td
+              b 
+               !=title
+          tr
+            td
+              p <b> Authors </b> (alphabetic)
+            td      
+              for creator in creators
+                a(href='author?name='+creator.value+'&issn='+issn+'&journal='+journal_enc)
+                  =creator.value + '; '
+          tr
+            td
+              b Source
+            td
+              =source
+          tr
+            td
+              b Year
+            td
+              =year             
+          tr
+            td
+              b Abstract
+            td
+              !=abstract
+          tr
+            td
+              p <b> Keywords </b> (alphabetic)
+            td
+              for keyword in keywords
+                a(href='keyword?keyword='+keyword.value+'&issn='+issn+'&journal='+journal_enc)
+                  =keyword.value + '; '
+          tr
+            td
+              b Citations
+            td
+              =citation
+          tr
+            td
+              b Link
+            td
+              a(href=id)
+                =id   
+
+    h4 References in this database
+    lu
+    -var references=qreference
+    for reference in references
+      li
+        a(href='article?id='+reference.id.value)
+          =reference.title.value
+        =" - "+reference.year.value
+        =" - "+reference.journal.value
+    br
+    br
+
+    h4 Citation in this database
+    lu
+    -var citations=qcitation
+    for citation in citations
+      -var citation_year=''
+      if (typeof(citation.year) !== 'undefined')
+        -var citation_year=citation.year.value
+      li
+        a(href='article?id='+citation.id.value)
+          =citation.title.value
+        =" - "+citation_year
+        =" - "+citation.journal.value
+    br
+    br
+  script.
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-96980151-1', 'auto');
+    ga('send', 'pageview');

@@ -1,0 +1,41 @@
+extends ../node_modules/pug-bootstrap/_bootstrap
+append styles
+  link(href='../css/starter-template.css', rel='stylesheet')
+
+block body
+  +navbar-fixed("","navbar","inverse")
+    +nav_item("/","active") Journals
+    +nav_item("/search") Search
+    +nav_item("mailto:moqri@ufl.edu") Contact
+  .container
+    .starter-template
+      -var source_enc=encodeURIComponent(source)
+      h4
+        a(href='/') Journals
+        =' / '
+        a(href='/source?source='+source_enc)
+          =source    
+        =' / '+year
+      br
+      br
+      table(border=1)
+        thead
+        tr
+          td
+            b Title
+          td
+            b Authors
+        tbody
+        for res in qres
+          -var title=res.title.value
+          -var title_enc=encodeURIComponent(title)
+          -var creators=res.creator
+          tr
+            td
+              a(href='article?source='+source+'&year='+year+'&title='+title_enc)
+                !=title
+            td    
+              for creator in creators
+                a(href='author?name='+creator.value)
+                  =creator.value + '; '
+

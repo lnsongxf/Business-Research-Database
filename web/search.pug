@@ -1,0 +1,95 @@
+extends ../node_modules/pug-bootstrap/_bootstrap
+append styles
+	link(href='../css/starter-template.css', rel='stylesheet')
+block body
+	+navbar-fixed("","navbar","inverse")
+		+nav_item("/") Journals
+		+nav_item("/search","active") Search
+		+nav_item("mailto:moqri@ufl.edu") Contact
+	.container
+		.starter-template
+				form(name="search", action='/search', method="get", enctype="text/plain")
+					.row
+						.col-md-3
+						.col-md-2
+							label(for="search_by" class="input-sm") Search by 
+							select(class="input-sm" name="search_by")
+								if search_by=="title"
+									option(value="title" selected="selected") Title
+									option(value="author") Author
+								else if search_by=="author"
+									option(value="title") Title
+									option(value="author" selected="selected") Author            
+								else
+									option(value="title" selected="selected") Title
+									option(value="author") Author
+						.col-md-3
+							label(for="sort_by" class="input-sm") Sort results by
+							select(class="input-sm" name="sort_by")
+								if sort_by=="year"
+									option(value="citation") Citation count
+									option(value="year" selected="selected") Publication year
+								else if sort_by=="citation"
+									option(value="citation" selected="selected") Citation count            
+									option(value="year") Publication year
+								else
+									option(value="citation" selected="selected") Citation count            
+									option(value="year") Publication year								
+					br
+					.rows
+						.col-md-3
+						input(class="input-lg col-md-5", type="text", name="input",value=input,enctype="text/plain")
+						input(class="input-lg col-md-1 btn-primary", type="submit", value="Search")
+		br
+		br
+		if (typeof(qres[0]) !== 'undefined') 
+			table(border=1, cellpadding="2")
+				thead
+					tr
+						td
+							b Title
+						td
+							b Source
+						td
+							b Year
+						td
+							b Authors
+						td
+							b Citation
+				tbody
+				for res in qres
+					-var id=res.id[0].value
+					-var title=res.title.value
+					-var title_enc=encodeURIComponent(title)          
+					-var journal=res.journal[0].value
+					-var journal_enc=encodeURIComponent(journal)
+					-var issn=res.issn[0].value
+					-var year=''
+					if res.year.length>0
+						-var year=res.year[0].value
+						-var citation=''
+					if res.citation.length>0
+						-var citation=res.citation[0].value
+
+					-var creators=res.creator
+					tr
+						td
+							a(href='article\?id='+id+'&issn='+issn+'&journal='+journal_enc+'&year='+year)
+								!=title
+						td
+							=journal
+						td
+							=year
+						td    
+							for creator in creators
+								a(href='author?name='+creator.value+'&issn='+issn+'&journal='+journal_enc)
+									=creator.value + '; '
+						td
+							=citation
+	script.
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-96980151-1', 'auto');
+		ga('send', 'pageview');								

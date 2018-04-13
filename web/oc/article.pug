@@ -1,0 +1,13 @@
+html
+  head
+  body
+    h3 Article: 
+      =' '+article
+    h3 Citations: 
+    if (typeof(qres)!='undefined')
+     for res in qres
+      -var article=res.binding[1].literal
+      -var uri=res.binding[0].uri
+      a(href='/oc/article?uri='+uri+'&article='+article)
+        =article
+      br

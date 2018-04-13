@@ -1,0 +1,22 @@
+html
+  head
+  body
+    h3 Search
+    form(name="search", action='/oc/', method="get")
+      div.form-group
+        span.label Journal Name
+        input(type="text", name="title", value=title)
+        input(type="submit", value="Search")
+        br
+        span.label Number of Results
+        input(type="text", name="limit", value=10)
+
+
+    if (typeof(qres)!='undefined')
+     h3 Journals
+     for res in qres
+      -var journal=res.binding[1].literal
+      -var uri=res.binding[0].uri
+      a(href='/oc/journal?uri='+uri)
+        =journal
+      br

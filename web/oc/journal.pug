@@ -1,0 +1,11 @@
+html
+  head
+  body
+    h3 Volumes
+    if (typeof(qres)!='undefined')
+     for res in qres
+       -var volume=res.binding[1].literal
+       -var uri=res.binding[0].uri
+       a(href='/oc/volume?uri='+uri)
+         ="Volume "+ volume
+       br
