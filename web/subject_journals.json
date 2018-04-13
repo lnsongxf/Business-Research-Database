@@ -1,0 +1,95 @@
+[
+	{
+		"subject":"Accounting",
+		"journals":
+		[
+			{"data":[{"type":"redif","publisher":"eee"}],"issn":"0361-3682","jname":"aosoci","journal":"Accounting, Organizations and Society"},
+			{"data":[{"type":"parse","publisher":"wly"}],"issn":"0823-9150","jname":"cnacre","journal":"Contemporary Accounting Research"},
+			{"data":[{"type":"redif","publisher":"eee"}],"issn":"0165-4101","jname":"jaecon","journal":"Journal of Accounting and Economics"},
+			{"data":[{"type":"redif","publisher":"bla"}],"issn":"0021-8456","jname":"joares","journal":"Journal of Accounting Research"},
+			{"data":[{"type":"doi","publisher":"doi"}],"issn":"0001-4826","jname":"joares","journal":"The Accounting Review"}
+		]
+	},
+	{
+		"subject":"Economics",
+		"journals":
+		[
+			{"data":[{"type":"redif","publisher":"aea"}],"issn":"0002-8282","jname":"aecrev","journal":"American Economic Review"},    
+		    {"data":[{"type":"redif","publisher":"ecm"},{"type":"redif","publisher":"wly"}],"issn":"0012-9682","jname":"emetrp","journal":"Econometrica"},    
+    		{"data":[{"type":"redif","publisher":"ucp"}],"issn":"0022-3808","jname":"jpolec","journal":"Journal of Political Economy"},
+    		{"data":[{"type":"redif","publisher":"oup"}],"issn":"0034-6527","jname":"restud","journal":"Review of Economic Studies"},
+   		 	{"data":[{"type":"redif","publisher":"oup"}],"issn":"0033-5533","jname":"qjecon","journal":"The Quarterly Journal of Economics"}
+		]
+	},
+	{
+		"subject":"Finance",
+		"journals":
+		[
+		    {"data":[{"type":"redif","publisher":"cup"}],"issn":"0022-1090","jname":"jfinqa","journal":"Journal of Financial and Quantitative Analysis"},
+		    {"data":[{"type":"redif","publisher":"eee"}],"issn":"0304-405X","jname":"jfinec","journal":"Journal of Financial Economics"},
+		    {"data":[{"type":"redif","publisher":"oup"}],"issn":"1572-3097","jname":"revfin","journal":"Review of Finance"},
+		    {"data":[{"type":"redif","publisher":"oup"}],"issn":"0893-9454","jname":"rfinst","journal":"Review of Financial Studies"},
+		    {"data":[{"type":"redif","publisher":"bla"}],"issn":"0022-1082","jname":"jfinan","journal":"The Journal of Finance"}
+		]
+	},
+	{
+		"subject":"Management",
+		"journals":
+		[
+		    {"data":[{"type":"doi","publisher":"doi"}],"issn":"0001-4273","jname":"amanjn","journal":"Academy of Management Journal"},
+		    {"data":[{"type":"doi","publisher":"doi"}],"issn":"0363-7425","jname":"amanrv","journal":"Academy of Management Review"},
+		    {"data":[{"type":"parse","publisher":"sag"}],"issn":"0001-8392","jname":"adscqt","journal":"Administrative Science Quarterly"},
+		    {"data":[{"type":"parse","publisher":"sag"}],"issn":"0149-2063","jname":"jrnmng","journal":"Journal of Management"},
+		    {"data":[{"type":"redif","publisher":"bla"}],"issn":"0022-2380","jname":"jomstd","journal":"Journal of Management Studies"},
+		    {"data":[{"type":"redif","publisher":"eee"}],"issn":"0048-7333","jname":"respol","journal":"Research Policy"},
+		    {"data":[{"type":"redif","publisher":"bla"}],"issn":"0143-2095","jname":"stratm","journal":"Strategic Management Journal"}
+		]
+	},
+	{
+		"subject":"Marketing",
+		"journals":
+		[
+		    {"data":[{"type":"redif","publisher":"oup"}],"issn":"0093-5301","jname":"jconrs","journal":"Journal of Consumer Research"},
+		    {"data":[{"type":"redif","publisher":"inm"}],"issn":"0732-2399","jname":"ormksc","journal":"Marketing Science"},
+		    {"data":[{"type":"parse","publisher":"ama"}],"issn":"0022-2429","jname":"jrnmkt","journal":"Journal of Marketing"},
+		    {"data":[{"type":"parse","publisher":"ama"}],"issn":"0022-2437","jname":"jrmktr","journal":"Journal of Marketing Research"},
+		    {"data":[{"type":"doi","publisher":"doi"}],"issn":"0092-0703","jname":"jamksc","journal":"Journal of the Academy of Marketing Science"}
+		]
+	},
+	{
+		"subject":"Operations & Information Systems",
+		"journals":
+		[
+		    {"data":[{"type":"redif","publisher":"inm"}],"issn":"1047-7047","jname":"orisre","journal":"Information Systems Research"},
+		    {"data":[{"type":"parse","publisher":"taf"}],"issn":"0742-1222","jname":"jrnmis","journal":"Journal of Management Information Systems"},
+		    {"data":[{"type":"oai","publisher":"ais"}],"issn":"2162-9730","jname":"misqrt","journal":"Management Information Systems Quarterly"},		    
+		    {"data":[{"type":"doi","publisher":"doi"}],"issn":"0272-6963","jname":"jopmng","journal":"Journal of Operations Management"},		    
+		    {"data":[{"type":"redif","publisher":"inm"}],"issn":"0025-1909","jname":"ormnsc","journal":"Management Science"},
+		    {"data":[{"type":"redif","publisher":"inm"}],"issn":"1523-4614","jname":"ormsom","journal":"Manufacturing & Service Operations Management"},
+		    {"data":[{"type":"redif","publisher":"inm"}],"issn":"0030-364X","jname":"oropre","journal":"Operations Research"},
+		    {"data":[{"type":"parse","publisher":"wly"}],"issn":"1059-1478","jname":"popmgt","journal":"Production and Operations Management"}
+		]
+	},
+	{
+		"subject":"Organizational Behaviour",
+		"journals":
+		[
+		    {"data":[{"type":"redif","publisher":"inm"}],"issn":"1047-7039","jname":"ororsc","journal":"Organization Science"},
+		    {"data":[{"type":"parse","publisher":"sag"}],"issn":"0170-8406","jname":"orgstd","journal":"Organization Studies"},
+		    {"data":[{"type":"redif","publisher":"eee"}],"issn":"0749-5978","jname":"jobhdp","journal":"Organizational Behavior and Human Decision Processes"}
+		]
+	}
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
